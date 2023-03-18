@@ -74,23 +74,26 @@ def search_url(search_keywords,website=None):
             if "&page=" in temp_string:
                 count_page_numbers+=1
                 page_number_link.append(WEBSITE_URL_1 + temp_string)
-    logging.info(f"Product reviews Page numbers: {page_number_link}")
+    logging.info(f"Product reviews Page numbers: {len(page_number_link)}")
 
     def loop_review(pages):
         # this function is for one page 
         count = 0
-        for i in range(pages):
-            request_products = requests.get(page_number_link[i])
+        for page in range(pages):
+            request_products = requests.get(page_number_link[page])
             request_products_html = bs(request_products.text,'html.parser')
             comment_box = request_products_html.find_all('div',{'class':'_1AtVbE col-12-12'}) # find all returns list
             # logging.debug(comment_box[0].div.div.div.div.text)
             # logging.debug(comment_box[0].div.div.find_all('div',{'class':''})[0].div.text)
+            del comment_box[0:5]
+            del comment_box[-1]
+            logging.info(f"Total number of comments in box: {len(comment_box)}")
 
-            
             for j in comment_box:
                 logging.debug("Inside comment_box")
                 try:
-                    logging.debug(j.div.div.div.div.div.text) #'class':'_3LWZlK _1BLPMq' customer rating 
+                    # logging.debug(j.div.div.div.div.find('div',{'class':'_3LWZlK _1BLPMq'}).text) #'class':'_3LWZlK _1BLPMq' customer rating 
+                    logging.debug(j.div.div.div.div.div)
                     logging.debug(j.div.div.div.div.p.text) # comment header 
                     logging.debug(j.div.div.find_all('div',{'class':''})[0].div.text) # customer_comment
                     logging.debug(j.find('div',{'class':'_1LmwT9'}).span.text) # likes
@@ -133,6 +136,7 @@ def search_url(search_keywords,website=None):
 
 
 
-search_url("iphone 11 phone case")
+search_url("windows 11")
+# search_url("iphone11")
 with open("output_json.json","w") as jd:
     json.dump(comments_data,jd,indent=4)

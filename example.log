@@ -1,466 +1,346 @@
-DEBUG:root:https://www.flipkart.com/search?q=iphone%2011%20phone%20case
-DEBUG:root:18
-DEBUG:root:https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3 9th url is the first product link
-DEBUG:root:['https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itmc70cf9c03baa9?pid=ACCGFEHXSQRPVAJH&lid=LSTACCGFEHXSQRPVAJHQHXEOS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXSQRPVAJH.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itmc70cf9c03baa9?pid=ACCGFEHXSQRPVAJH&lid=LSTACCGFEHXSQRPVAJHQHXEOS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXSQRPVAJH.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itmc70cf9c03baa9?pid=ACCGFEHXSQRPVAJH&lid=LSTACCGFEHXSQRPVAJHQHXEOS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXSQRPVAJH.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/maxpro-back-cover-apple-iphone-11/p/itmf27a14d2dacd0?pid=ACCG7FG32PZEZFZJ&lid=LSTACCG7FG32PZEZFZJUK2HPJ&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG7FG32PZEZFZJ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/maxpro-back-cover-apple-iphone-11/p/itmf27a14d2dacd0?pid=ACCG7FG32PZEZFZJ&lid=LSTACCG7FG32PZEZFZJUK2HPJ&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG7FG32PZEZFZJ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/maxpro-back-cover-apple-iphone-11/p/itmf27a14d2dacd0?pid=ACCG7FG32PZEZFZJ&lid=LSTACCG7FG32PZEZFZJUK2HPJ&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG7FG32PZEZFZJ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm067fd2659c333?pid=ACCGECTE95GZEZSZ&lid=LSTACCGECTE95GZEZSZPX5CEF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTE95GZEZSZ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm067fd2659c333?pid=ACCGECTE95GZEZSZ&lid=LSTACCGECTE95GZEZSZPX5CEF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTE95GZEZSZ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm067fd2659c333?pid=ACCGECTE95GZEZSZ&lid=LSTACCGECTE95GZEZSZPX5CEF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTE95GZEZSZ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itm30caa9366535b?pid=ACCGG7PDX2YNDCZY&lid=LSTACCGG7PDX2YNDCZYNZLM7Q&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGG7PDX2YNDCZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itm30caa9366535b?pid=ACCGG7PDX2YNDCZY&lid=LSTACCGG7PDX2YNDCZYNZLM7Q&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGG7PDX2YNDCZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itm30caa9366535b?pid=ACCGG7PDX2YNDCZY&lid=LSTACCGG7PDX2YNDCZYNZLM7Q&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGG7PDX2YNDCZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm64a0dd350077e?pid=ACCFYV8QHWAFFHEY&lid=LSTACCFYV8QHWAFFHEYJXYNWX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8QHWAFFHEY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm64a0dd350077e?pid=ACCFYV8QHWAFFHEY&lid=LSTACCFYV8QHWAFFHEYJXYNWX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8QHWAFFHEY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm64a0dd350077e?pid=ACCFYV8QHWAFFHEY&lid=LSTACCFYV8QHWAFFHEYJXYNWX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8QHWAFFHEY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm4d91f2df79529?pid=ACCGECTFZFSZAHX2&lid=LSTACCGECTFZFSZAHX2XFJQDF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTFZFSZAHX2.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm4d91f2df79529?pid=ACCGECTFZFSZAHX2&lid=LSTACCGECTFZFSZAHX2XFJQDF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTFZFSZAHX2.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm4d91f2df79529?pid=ACCGECTFZFSZAHX2&lid=LSTACCGECTFZFSZAHX2XFJQDF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTFZFSZAHX2.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm75256e2dcb771?pid=ACCFNHF5NRCAXV3V&lid=LSTACCFNHF5NRCAXV3VUB7J5V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFNHF5NRCAXV3V.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm75256e2dcb771?pid=ACCFNHF5NRCAXV3V&lid=LSTACCFNHF5NRCAXV3VUB7J5V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFNHF5NRCAXV3V.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm75256e2dcb771?pid=ACCFNHF5NRCAXV3V&lid=LSTACCFNHF5NRCAXV3VUB7J5V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFNHF5NRCAXV3V.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-12-12-pro/p/itm6dc69e7c26ff1?pid=ACCGDRV2VMCPRKN3&lid=LSTACCGDRV2VMCPRKN3Y1JTUE&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRV2VMCPRKN3.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-12-12-pro/p/itm6dc69e7c26ff1?pid=ACCGDRV2VMCPRKN3&lid=LSTACCGDRV2VMCPRKN3Y1JTUE&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRV2VMCPRKN3.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-12-12-pro/p/itm6dc69e7c26ff1?pid=ACCGDRV2VMCPRKN3&lid=LSTACCGDRV2VMCPRKN3Y1JTUE&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRV2VMCPRKN3.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/manilrekh-back-cover-iph11promax/p/itm332be8eee83d1?pid=ACCG6VTY5VGJYFTT&lid=LSTACCG6VTY5VGJYFTTJQLQTB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG6VTY5VGJYFTT.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/manilrekh-back-cover-iph11promax/p/itm332be8eee83d1?pid=ACCG6VTY5VGJYFTT&lid=LSTACCG6VTY5VGJYFTTJQLQTB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG6VTY5VGJYFTT.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/manilrekh-back-cover-iph11promax/p/itm332be8eee83d1?pid=ACCG6VTY5VGJYFTT&lid=LSTACCG6VTY5VGJYFTTJQLQTB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG6VTY5VGJYFTT.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-square-platting-chrome-case-slim-fit-electroplating/p/itm92927f67027cd?pid=ACCGAZJ4AF6CWZDC&lid=LSTACCGAZJ4AF6CWZDCVS7RNG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ4AF6CWZDC.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-square-platting-chrome-case-slim-fit-electroplating/p/itm92927f67027cd?pid=ACCGAZJ4AF6CWZDC&lid=LSTACCGAZJ4AF6CWZDCVS7RNG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ4AF6CWZDC.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-square-platting-chrome-case-slim-fit-electroplating/p/itm92927f67027cd?pid=ACCGAZJ4AF6CWZDC&lid=LSTACCGAZJ4AF6CWZDCVS7RNG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ4AF6CWZDC.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/midos-back-cover-iphone-12-silicone-full-protection-soft-slim-for-iphone-12-12-pro-purple/p/itm519053af18939?pid=ACCGHVEGDH7EUET6&lid=LSTACCGHVEGDH7EUET62BGJTI&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGHVEGDH7EUET6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/midos-back-cover-iphone-12-silicone-full-protection-soft-slim-for-iphone-12-12-pro-purple/p/itm519053af18939?pid=ACCGHVEGDH7EUET6&lid=LSTACCGHVEGDH7EUET62BGJTI&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGHVEGDH7EUET6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/midos-back-cover-iphone-12-silicone-full-protection-soft-slim-for-iphone-12-12-pro-purple/p/itm519053af18939?pid=ACCGHVEGDH7EUET6&lid=LSTACCGHVEGDH7EUET62BGJTI&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGHVEGDH7EUET6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm920e037f3154a?pid=ACCFMUZRZCFHTFGA&lid=LSTACCFMUZRZCFHTFGAPT6A71&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFMUZRZCFHTFGA.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm920e037f3154a?pid=ACCFMUZRZCFHTFGA&lid=LSTACCFMUZRZCFHTFGAPT6A71&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFMUZRZCFHTFGA.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm920e037f3154a?pid=ACCFMUZRZCFHTFGA&lid=LSTACCFMUZRZCFHTFGAPT6A71&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFMUZRZCFHTFGA.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/desirtech-bumper-case-iphone-11/p/itm4b5868488704a?pid=ACCG73TQGGHMEHYR&lid=LSTACCG73TQGGHMEHYRII2CCX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG73TQGGHMEHYR.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/desirtech-bumper-case-iphone-11/p/itm4b5868488704a?pid=ACCG73TQGGHMEHYR&lid=LSTACCG73TQGGHMEHYRII2CCX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG73TQGGHMEHYR.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/desirtech-bumper-case-iphone-11/p/itm4b5868488704a?pid=ACCG73TQGGHMEHYR&lid=LSTACCG73TQGGHMEHYRII2CCX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG73TQGGHMEHYR.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm1d01850f791d0?pid=ACCFHWANXTRXHRZN&lid=LSTACCFHWANXTRXHRZNTPIAMF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFHWANXTRXHRZN.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm1d01850f791d0?pid=ACCFHWANXTRXHRZN&lid=LSTACCFHWANXTRXHRZNTPIAMF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFHWANXTRXHRZN.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm1d01850f791d0?pid=ACCFHWANXTRXHRZN&lid=LSTACCFHWANXTRXHRZNTPIAMF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFHWANXTRXHRZN.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/fablue-back-cover-apple-iphone-11/p/itm04c6290308ced?pid=ACCGA94DBGYCEV8G&lid=LSTACCGA94DBGYCEV8GD4C3E2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGA94DBGYCEV8G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/fablue-back-cover-apple-iphone-11/p/itm04c6290308ced?pid=ACCGA94DBGYCEV8G&lid=LSTACCGA94DBGYCEV8GD4C3E2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGA94DBGYCEV8G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/fablue-back-cover-apple-iphone-11/p/itm04c6290308ced?pid=ACCGA94DBGYCEV8G&lid=LSTACCGA94DBGYCEV8GD4C3E2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGA94DBGYCEV8G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm18dec2760132e?pid=ACCFYV6QYWQQHWEX&lid=LSTACCFYV6QYWQQHWEXSMULIS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV6QYWQQHWEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm18dec2760132e?pid=ACCFYV6QYWQQHWEX&lid=LSTACCFYV6QYWQQHWEXSMULIS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV6QYWQQHWEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm18dec2760132e?pid=ACCFYV6QYWQQHWEX&lid=LSTACCFYV6QYWQQHWEXSMULIS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV6QYWQQHWEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itmb718a8eba53d9?pid=ACCFYV8RTKHYFHTD&lid=LSTACCFYV8RTKHYFHTDQMXT2M&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8RTKHYFHTD.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itmb718a8eba53d9?pid=ACCFYV8RTKHYFHTD&lid=LSTACCFYV8RTKHYFHTDQMXT2M&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8RTKHYFHTD.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itmb718a8eba53d9?pid=ACCFYV8RTKHYFHTD&lid=LSTACCFYV8RTKHYFHTDQMXT2M&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8RTKHYFHTD.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itm1677915ea3289?pid=ACCG9JCT8HGTR5ZY&lid=LSTACCG9JCT8HGTR5ZYQK2BQS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG9JCT8HGTR5ZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itm1677915ea3289?pid=ACCG9JCT8HGTR5ZY&lid=LSTACCG9JCT8HGTR5ZYQK2BQS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG9JCT8HGTR5ZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itm1677915ea3289?pid=ACCG9JCT8HGTR5ZY&lid=LSTACCG9JCT8HGTR5ZYQK2BQS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG9JCT8HGTR5ZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cafune-back-cover-apple-iphone-11/p/itm65b66029925fe?pid=ACCGBQ8QFTZGQ2ZP&lid=LSTACCGBQ8QFTZGQ2ZP7BLAIV&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGBQ8QFTZGQ2ZP.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cafune-back-cover-apple-iphone-11/p/itm65b66029925fe?pid=ACCGBQ8QFTZGQ2ZP&lid=LSTACCGBQ8QFTZGQ2ZP7BLAIV&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGBQ8QFTZGQ2ZP.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cafune-back-cover-apple-iphone-11/p/itm65b66029925fe?pid=ACCGBQ8QFTZGQ2ZP&lid=LSTACCGBQ8QFTZGQ2ZP7BLAIV&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGBQ8QFTZGQ2ZP.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itm26add17054142?pid=ACCGFEHXVESMZZ6G&lid=LSTACCGFEHXVESMZZ6GOUBQLS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXVESMZZ6G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itm26add17054142?pid=ACCGFEHXVESMZZ6G&lid=LSTACCGFEHXVESMZZ6GOUBQLS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXVESMZZ6G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itm26add17054142?pid=ACCGFEHXVESMZZ6G&lid=LSTACCGFEHXVESMZZ6GOUBQLS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXVESMZZ6G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/riverforest-back-cover-iphone-12-12-pro/p/itm6af9f97b3ebb4?pid=ACCGM3H6GQPWQYC6&lid=LSTACCGM3H6GQPWQYC6YIR263&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGM3H6GQPWQYC6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/riverforest-back-cover-iphone-12-12-pro/p/itm6af9f97b3ebb4?pid=ACCGM3H6GQPWQYC6&lid=LSTACCGM3H6GQPWQYC6YIR263&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGM3H6GQPWQYC6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/riverforest-back-cover-iphone-12-12-pro/p/itm6af9f97b3ebb4?pid=ACCGM3H6GQPWQYC6&lid=LSTACCGM3H6GQPWQYC6YIR263&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGM3H6GQPWQYC6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-square-platting-chrome-case-slim-fit-electroplating/p/itmc579cd946692d?pid=ACCGAZJ5CQUTRGEX&lid=LSTACCGAZJ5CQUTRGEX9S1WVG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5CQUTRGEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-square-platting-chrome-case-slim-fit-electroplating/p/itmc579cd946692d?pid=ACCGAZJ5CQUTRGEX&lid=LSTACCGAZJ5CQUTRGEX9S1WVG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5CQUTRGEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-square-platting-chrome-case-slim-fit-electroplating/p/itmc579cd946692d?pid=ACCGAZJ5CQUTRGEX&lid=LSTACCGAZJ5CQUTRGEX9S1WVG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5CQUTRGEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-max-square-platting-chrome-case-slim-fit-electroplating/p/itm4e6c6478e79cb?pid=ACCGAZJ5YDYQ9HZX&lid=LSTACCGAZJ5YDYQ9HZXCRTWMP&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5YDYQ9HZX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-max-square-platting-chrome-case-slim-fit-electroplating/p/itm4e6c6478e79cb?pid=ACCGAZJ5YDYQ9HZX&lid=LSTACCGAZJ5YDYQ9HZXCRTWMP&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5YDYQ9HZX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-max-square-platting-chrome-case-slim-fit-electroplating/p/itm4e6c6478e79cb?pid=ACCGAZJ5YDYQ9HZX&lid=LSTACCGAZJ5YDYQ9HZXCRTWMP&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5YDYQ9HZX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/hardercase-back-cover-apple-phone-11/p/itm4bf58bf73428b?pid=ACCGDWYSKYZZJ9YM&lid=LSTACCGDWYSKYZZJ9YMBLMIUM&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDWYSKYZZJ9YM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/hardercase-back-cover-apple-phone-11/p/itm4bf58bf73428b?pid=ACCGDWYSKYZZJ9YM&lid=LSTACCGDWYSKYZZJ9YMBLMIUM&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDWYSKYZZJ9YM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/hardercase-back-cover-apple-phone-11/p/itm4bf58bf73428b?pid=ACCGDWYSKYZZJ9YM&lid=LSTACCGDWYSKYZZJ9YMBLMIUM&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDWYSKYZZJ9YM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-11/p/itm65e3df0cb314e?pid=ACCGDRUKH63TYEDM&lid=LSTACCGDRUKH63TYEDMWT4YDU&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRUKH63TYEDM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-11/p/itm65e3df0cb314e?pid=ACCGDRUKH63TYEDM&lid=LSTACCGDRUKH63TYEDMWT4YDU&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRUKH63TYEDM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-11/p/itm65e3df0cb314e?pid=ACCGDRUKH63TYEDM&lid=LSTACCGDRUKH63TYEDMWT4YDU&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRUKH63TYEDM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itmc9109eca6c6fd?pid=ACCGFJJ6PBYZTZBF&lid=LSTACCGFJJ6PBYZTZBFJ6KN3V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFJJ6PBYZTZBF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itmc9109eca6c6fd?pid=ACCGFJJ6PBYZTZBF&lid=LSTACCGFJJ6PBYZTZBFJ6KN3V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFJJ6PBYZTZBF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itmc9109eca6c6fd?pid=ACCGFJJ6PBYZTZBF&lid=LSTACCGFJJ6PBYZTZBFJ6KN3V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFJJ6PBYZTZBF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/kartv-back-cover-apple-iphone-11-11/p/itm39cff2f8432ec?pid=ACCGJ2PZBPBUXSWK&lid=LSTACCGJ2PZBPBUXSWKEDH2VT&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJ2PZBPBUXSWK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/kartv-back-cover-apple-iphone-11-11/p/itm39cff2f8432ec?pid=ACCGJ2PZBPBUXSWK&lid=LSTACCGJ2PZBPBUXSWKEDH2VT&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJ2PZBPBUXSWK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/kartv-back-cover-apple-iphone-11-11/p/itm39cff2f8432ec?pid=ACCGJ2PZBPBUXSWK&lid=LSTACCGJ2PZBPBUXSWKEDH2VT&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJ2PZBPBUXSWK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/zapcase-back-cover-apple-iphone-11-pro/p/itmcee2badc23d3b?pid=ACCGJQF76UZ5ESWF&lid=LSTACCGJQF76UZ5ESWFQNEVPK&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJQF76UZ5ESWF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/zapcase-back-cover-apple-iphone-11-pro/p/itmcee2badc23d3b?pid=ACCGJQF76UZ5ESWF&lid=LSTACCGJQF76UZ5ESWFQNEVPK&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJQF76UZ5ESWF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/zapcase-back-cover-apple-iphone-11-pro/p/itmcee2badc23d3b?pid=ACCGJQF76UZ5ESWF&lid=LSTACCGJQF76UZ5ESWFQNEVPK&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJQF76UZ5ESWF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3']
-DEBUG:root:length of sub urls: 90
-DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3 HTTP/1.1" 200 None
-INFO:root:Product reviews link is: ['/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART']
-DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART HTTP/1.1" 200 None
-INFO:root:Product reviews Page numbers: ['https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=1', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=4', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=5', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=6', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=1', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=4', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=5', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=6', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2']
-DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=1 HTTP/1.1" 200 None
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:4★
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Value-for-money
-DEBUG:root:Nice one
+DEBUG:root:https://www.flipkart.com/search?q=windows%2011
 DEBUG:root:10
-DEBUG:root:kelvin bruno
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Great product
-DEBUG:root:To good 😀
-DEBUG:root:7
-DEBUG:root:Sunil Ilatwar
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Nice product
-DEBUG:root:Quality is the best in this product. And power button and volume buttons was very strong
-DEBUG:root:6
-DEBUG:root:Gara Raja Sharan  Akhil Sandeep
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Perfect product!
-DEBUG:root:Fits perfectly. Good mobile cover at this price range. Also got the product delivered next day itself.
-DEBUG:root:2
-DEBUG:root:Mohammad Tasleem Arif
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Wonderful
-DEBUG:root:Nyc perfect fitting. Looking awesome
-DEBUG:root:3
-DEBUG:root:AJAY  SINGH
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:1
-DEBUG:root:Did not meet expectations
-DEBUG:root:Not bad but isme bubbles aarahe hai not fit this mobile
-DEBUG:root:7
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:2
-DEBUG:root:Could be way better
-DEBUG:root:Product fitting is not as good, causing bubble effect inside the case
-DEBUG:root:1
-DEBUG:root:Nidhin  K
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Just wow!
-DEBUG:root:Superb
-DEBUG:root:1
-DEBUG:root:Krishan Kumar
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Just wow!
-DEBUG:root:Very good product
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Classy product
-DEBUG:root:Looks ultimate
-DEBUG:root:1
-DEBUG:root:Niranjan kumar
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-ERROR:root:error
+DEBUG:root:https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470 9th url is the first product link
+DEBUG:root:['https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-pro-home-education-install-repair-format-fix-your-16gb-pendrive/p/itm1563ed341126c?pid=OPSGEQE2HRHYMGMZ&lid=LSTOPSGEQE2HRHYMGMZCRFJDW&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGEQE2HRHYMGMZ.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-pro-home-education-install-repair-format-fix-your-16gb-pendrive/p/itm1563ed341126c?pid=OPSGEQE2HRHYMGMZ&lid=LSTOPSGEQE2HRHYMGMZCRFJDW&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGEQE2HRHYMGMZ.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-pro-home-education-install-repair-format-fix-your-16gb-pendrive/p/itm1563ed341126c?pid=OPSGEQE2HRHYMGMZ&lid=LSTOPSGEQE2HRHYMGMZCRFJDW&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGEQE2HRHYMGMZ.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-oem-dvd-pack-lifetime-validity-64-bit/p/itm3a981bbfd3974?pid=OPSGGC2265Z3BN6H&lid=LSTOPSGGC2265Z3BN6HAYBFX9&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGGC2265Z3BN6H.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-oem-dvd-pack-lifetime-validity-64-bit/p/itm3a981bbfd3974?pid=OPSGGC2265Z3BN6H&lid=LSTOPSGGC2265Z3BN6HAYBFX9&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGGC2265Z3BN6H.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-oem-dvd-pack-lifetime-validity-64-bit/p/itm3a981bbfd3974?pid=OPSGGC2265Z3BN6H&lid=LSTOPSGGC2265Z3BN6HAYBFX9&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGGC2265Z3BN6H.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470']
+DEBUG:root:length of sub urls: 30
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2 HTTP/1.1" 200 None
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:4★
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Just wow!
-DEBUG:root:Good product
-DEBUG:root:1
-DEBUG:root:Anirban Sadhukhan
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:3
-DEBUG:root:Fair
-DEBUG:root:Not bad
-DEBUG:root:1
-DEBUG:root:arun kumar pittala
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Best in the market!
-DEBUG:root:Nice
-DEBUG:root:1
-DEBUG:root:Sourav Sharma
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Best in the market!
-DEBUG:root:Good
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Must buy!
-DEBUG:root:Good luck
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:3
-DEBUG:root:Decent product
-DEBUG:root:Quality is not up to the mark
-DEBUG:root:0
-DEBUG:root:Mohd  Furkan
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:3
-DEBUG:root:Good
-DEBUG:root:It’s a good product,but quality isn’t upto the mark.
-DEBUG:root:0
-DEBUG:root:Aabid Khan
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Nice product
-DEBUG:root:Nice
-DEBUG:root:0
-DEBUG:root:Lokesh .N
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:1
-DEBUG:root:Worst experience ever!
-DEBUG:root:Not nyc
-DEBUG:root:0
-DEBUG:root:Anush  Yadav
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:1
-DEBUG:root:Don't waste your money
-DEBUG:root:Very bad product
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-ERROR:root:error
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=6c1868e2-b5e9-4b35-98c3-ad477bed3856.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=n6vil57r0w0000001679168025478&qH=b4905fe909445470 HTTP/1.1" 200 None
+INFO:root:Product reviews link is: ['/wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART']
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=3 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART HTTP/1.1" 200 None
+INFO:root:Product reviews Page numbers: 18
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=1 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 8
 DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:4★
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Awesome
-DEBUG:root:Good cover
-DEBUG:root:0
-DEBUG:root:G Rahul Rahul
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Just wow!
-DEBUG:root:A good quality
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
 DEBUG:root:Terrific
-DEBUG:root:Impressive quality
+DEBUG:root:Hassle free and pocket friendly.Thanx to seller.
+DEBUG:root:9
+DEBUG:root:SUMIT KUMAR SINGH
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Super!
+DEBUG:root:At first i thought should i buy windows 11 key from Flipkart bcz some trust issue but after purchasing  I used key on fresh installation and it works thanks wincial and Flipkart
+DEBUG:root:3
+DEBUG:root:aditya Akhare
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Mind-blowing purchase
+DEBUG:root:With this key i activated(upgraded) my win 11 home to win 11 pro, key worked perfectly.
+DEBUG:root:4
+DEBUG:root:Ramu E
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Super!
+DEBUG:root:First I was in doubt about windows license but after activating the key provided by this seller my laptop is upgraded from windows 11 home to Winodws 11 Pro as promised by the seller ( see attached screenshot ). Very simple process & take just about 5-10 minutes. Thank you.
+DEBUG:root:1
+DEBUG:root:Ajay Pawar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Terrific purchase
+DEBUG:root:This is legit. I really did have my doubts, but now I've got an activated windows 11 pro copy. 10/10 would recommend.
+DEBUG:root:1
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Classy product
+DEBUG:root:Good and very helpful by the team during installation
+DEBUG:root:2
+DEBUG:root:Antony  Dennis 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Best in the market!
+DEBUG:root:Best Ever Deal Got for become Genuine Microsoft Product User.Thanks 👍🏻
+DEBUG:root:1
+DEBUG:root:Anand Prakash
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Must buy!
+DEBUG:root:Successfully activated to windows 11 pro from windows 11 home edition. These keys are genuine. Go for it
+DEBUG:root:1
+DEBUG:root:Tauseef  Ahmed
+DEBUG:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=2 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 8
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Brilliant
+DEBUG:root:A good support team. The key provided was instantly recognised by Microsoft servers. Upgraded smoothly. No issues so far.
+DEBUG:root:0
+DEBUG:root:Marvel Varghese
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Worth every penny
+DEBUG:root:It was really Retail Key. Thanks to the seller as well as to Flipkart for Genuine Products.
+DEBUG:root:0
+DEBUG:root:Davinder  sharma
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Best in the market!
+DEBUG:root:With Wincial Key I got a solution to a prolonged problem with my laptop. The technician spent a considerable long time with me to solve my problem online. Now my laptop is fully operational.
+DEBUG:root:0
+DEBUG:root:Samudra Bordoloi
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Terrific
+DEBUG:root:Very easy, Excellent support from seller
+DEBUG:root:1
+DEBUG:root:Thalib Kunhipurayil 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Worth every penny
+DEBUG:root:Genuine product 100% working
+DEBUG:root:1
+DEBUG:root:RAHUL KUMAR
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Simply awesome
+DEBUG:root:Best
+DEBUG:root:0
+DEBUG:root:Arvind Singh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Pretty good
+DEBUG:root:Best product key
 DEBUG:root:0
 DEBUG:root:Flipkart Customer
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:1
-DEBUG:root:Unsatisfactory
-DEBUG:root:Not good
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Awesome
+DEBUG:root:Very prompt and responsive vendor, highly recommended
 DEBUG:root:0
-DEBUG:root:Ravi Singh
+DEBUG:root:Jitendra Kukreja
 DEBUG:root:
 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=3 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 8
 DEBUG:root:Inside comment_box
-DEBUG:root:5
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
 DEBUG:root:Perfect product!
-DEBUG:root:Nice product👍
+DEBUG:root:Good
 DEBUG:root:0
-DEBUG:root:Jagadesh.p
+DEBUG:root:Devendra  Kumar
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Wonderful
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Excellent service.
+DEBUG:root:Genuine.
+DEBUG:root:1
+DEBUG:root:RAJIV THOMAS
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Nice product
+DEBUG:root:Loved it  tks
+DEBUG:root:1
+DEBUG:root:Ghulam Sarwar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Unsatisfactory
+DEBUG:root:It's not support ed
+DEBUG:root:1
+DEBUG:root:varaprasad kanni
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Unsatisfactory
+DEBUG:root:Worst product, no Bootable DVD or drive included totally waste of money
+DEBUG:root:1
+DEBUG:root:Sagar kr.  Pradhan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Mind-blowing purchase
+DEBUG:root:Excellent Product key is working perfectly
+DEBUG:root:0
+DEBUG:root:Akash Singh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Excellent
+DEBUG:root:Works perfectly
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Just wow!
 DEBUG:root:Good product
 DEBUG:root:0
-DEBUG:root:Mansuri Farhan
+DEBUG:root:Sanjaya Kumar Garnayak
 DEBUG:root:
 
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Super!
-DEBUG:root:Nice product,good quality 😇
-DEBUG:root:0
-DEBUG:root:Kiran Prince
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:3
-DEBUG:root:Fair
-DEBUG:root:Ok ok
-DEBUG:root:0
-DEBUG:root:Aakash Shelly
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:3
-DEBUG:root:Decent product
-DEBUG:root:Cover is no perfet
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Just wow!
-DEBUG:root:good
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-ERROR:root:error
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=4 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=4 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 8
 DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:4★
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:3
-DEBUG:root:Good
-DEBUG:root:Ok
+DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Useless product
+DEBUG:root:Don't buy this product not warking key
 DEBUG:root:0
-DEBUG:root:Janmajoy Karmakar
+DEBUG:root:Pankaj Maurya
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Excellent
-DEBUG:root:Good Quality 👍🏻
-DEBUG:root:0
-DEBUG:root:Mohd.Zaid 
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Perfect product!
-DEBUG:root:Perfect fitting
-DEBUG:root:0
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Perfect product!
-DEBUG:root:Awesome product
-DEBUG:root:0
-DEBUG:root:Himanshu Borah
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Brilliant
-DEBUG:root:Amazing Product! Sturdy and durable.
-DEBUG:root:0
-DEBUG:root:Swarnava Gan
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Highly recommended
-DEBUG:root:Awesome yaar 😍
-DEBUG:root:0
-DEBUG:root:Vinod Kumar
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Super!
-DEBUG:root:Value for Money
-DEBUG:root:0
-DEBUG:root:Pranay Yadav
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Worth every penny
-DEBUG:root:Very nice
-DEBUG:root:0
-DEBUG:root:ezhil Selva
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:1
-DEBUG:root:Absolute rubbish!
-DEBUG:root:Low quality
-DEBUG:root:0
-DEBUG:root:shijith pk
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Awesome
-DEBUG:root:Super back cover
-DEBUG:root:0
-DEBUG:root:Burugu sandeep
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=5 HTTP/1.1" 200 None
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:4★
-ERROR:root:error
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Wonderful
-DEBUG:root:Nyc
-DEBUG:root:0
-DEBUG:root:KASHI SHIVAM
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
 DEBUG:root:Fabulous!
-DEBUG:root:Awesome Just go for it
+DEBUG:root:It worked flawlessly. Just follow the steps mentioned. Thank you.
 DEBUG:root:0
-DEBUG:root:DHINESH Jd
+DEBUG:root:Flipkart Customer
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Best in the market!
-DEBUG:root:Very much satisfied
-DEBUG:root:0
-DEBUG:root:Srilesh
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
 DEBUG:root:Mind-blowing purchase
-DEBUG:root:Very good quality 👌👌 value of money
+DEBUG:root:Wow! It's working really..
+DEBUG:root:0
+DEBUG:root:Tonmoy  Ghosh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Great product
+DEBUG:root:yes original key
+DEBUG:root:0
+DEBUG:root:Jagan S
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Super!
+DEBUG:root:It's a genuine retail key, Windows got activated through digital license linked with Microsoft account
+DEBUG:root:0
+DEBUG:root:Yash Patil
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Brilliant
+DEBUG:root:Wonderful genuine update and that's all I can say and seller is very helpful in activating the product
+DEBUG:root:0
+DEBUG:root:Sumit  Khurana
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Perfect product!
+DEBUG:root:Fully worked
 DEBUG:root:0
 DEBUG:root:Flipkart Customer
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Worth the money
-DEBUG:root:Nice product
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Just wow!
+DEBUG:root:Genuine key.
 DEBUG:root:0
-DEBUG:root:prabhakar thalladi
+DEBUG:root:Samrat Roy
 DEBUG:root:
 
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=5 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 8
 DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Terrific purchase
-DEBUG:root:Worth uhh❤️‍🔥❤️‍🔥
-DEBUG:root:0
-DEBUG:root:Karthi Keyan
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:1
-DEBUG:root:Absolute rubbish!
-DEBUG:root:Very poor quality
-DEBUG:root:0
-DEBUG:root:pratik puri
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Fabulous!
-DEBUG:root:Outstanding... Products
-DEBUG:root:0
-DEBUG:root:Debasis Samal
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Excellent
-DEBUG:root:Worth
-DEBUG:root:0
-DEBUG:root:Mani Kandan
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Worth the money
+DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Good quality product
 DEBUG:root:Nice
 DEBUG:root:0
-DEBUG:root:Harshajit Das
+DEBUG:root:DEBKUMAR MONDAL
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-ERROR:root:error
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Good Support.
+DEBUG:root:My Win 11 home laptop updated to win 11 Pro
+DEBUG:root:0
+DEBUG:root:Nachikethus S R
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Excellent
+DEBUG:root:Genuine product... Good service.
+DEBUG:root:0
+DEBUG:root:sunny nath
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Worth every penny
+DEBUG:root:Genuine
+DEBUG:root:0
+DEBUG:root:Shamim Khan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Really Nice
+DEBUG:root:Genuine product at lowest price
+DEBUG:root:0
+DEBUG:root:SHRIKANT LAKSHATTI
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Best in the market!
+DEBUG:root:Genuine windows
+DEBUG:root:0
+DEBUG:root:Ali haider Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Nice product
+DEBUG:root:First I thought I was cheated but latter found genuine products
+DEBUG:root:0
+DEBUG:root:BIKASH GOURAV
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
+DEBUG:root:Classy product
+DEBUG:root:Ok Fine!!!
+DEBUG:root:0
+DEBUG:root:Ela  Tyagi
+DEBUG:root:
+

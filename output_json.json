@@ -1,401 +1,321 @@
 {
+    "0": {
+        "name": "SUMIT KUMAR SINGH",
+        "customer_rating": "5",
+        "comment_header": "Terrific",
+        "customer_comment": "Hassle free and pocket friendly.Thanx to seller.",
+        "likes": "9",
+        "dislikes": "1"
+    },
+    "1": {
+        "name": "aditya Akhare",
+        "customer_rating": "5",
+        "comment_header": "Super!",
+        "customer_comment": "At first i thought should i buy windows 11 key from Flipkart bcz some trust issue but after purchasing  I used key on fresh installation and it works thanks wincial and Flipkart",
+        "likes": "3",
+        "dislikes": "0"
+    },
+    "2": {
+        "name": "Ramu E",
+        "customer_rating": "5",
+        "comment_header": "Mind-blowing purchase",
+        "customer_comment": "With this key i activated(upgraded) my win 11 home to win 11 pro, key worked perfectly.",
+        "likes": "4",
+        "dislikes": "1"
+    },
     "3": {
-        "name": "kelvin bruno",
-        "customer_rating": "4",
-        "comment_header": "Value-for-money",
-        "customer_comment": "Nice one",
-        "likes": "10",
+        "name": "Ajay Pawar",
+        "customer_rating": "5",
+        "comment_header": "Super!",
+        "customer_comment": "First I was in doubt about windows license but after activating the key provided by this seller my laptop is upgraded from windows 11 home to Winodws 11 Pro as promised by the seller ( see attached screenshot ). Very simple process & take just about 5-10 minutes. Thank you.",
+        "likes": "1",
         "dislikes": "0"
     },
     "4": {
-        "name": "Sunil Ilatwar",
+        "name": "Flipkart Customer",
         "customer_rating": "5",
-        "comment_header": "Great product",
-        "customer_comment": "To good \ud83d\ude00",
-        "likes": "7",
+        "comment_header": "Terrific purchase",
+        "customer_comment": "This is legit. I really did have my doubts, but now I've got an activated windows 11 pro copy. 10/10 would recommend.",
+        "likes": "1",
         "dislikes": "0"
     },
     "5": {
-        "name": "Gara Raja Sharan  Akhil Sandeep",
-        "customer_rating": "4",
-        "comment_header": "Nice product",
-        "customer_comment": "Quality is the best in this product. And power button and volume buttons was very strong",
-        "likes": "6",
-        "dislikes": "3"
-    },
-    "6": {
-        "name": "Mohammad Tasleem Arif",
+        "name": "Antony  Dennis ",
         "customer_rating": "5",
-        "comment_header": "Perfect product!",
-        "customer_comment": "Fits perfectly. Good mobile cover at this price range. Also got the product delivered next day itself.",
+        "comment_header": "Classy product",
+        "customer_comment": "Good and very helpful by the team during installation",
         "likes": "2",
         "dislikes": "0"
     },
-    "7": {
-        "name": "AJAY  SINGH",
+    "6": {
+        "name": "Anand Prakash",
         "customer_rating": "5",
-        "comment_header": "Wonderful",
-        "customer_comment": "Nyc perfect fitting. Looking awesome",
-        "likes": "3",
+        "comment_header": "Best in the market!",
+        "customer_comment": "Best Ever Deal Got for become Genuine Microsoft Product User.Thanks \ud83d\udc4d\ud83c\udffb",
+        "likes": "1",
+        "dislikes": "0"
+    },
+    "7": {
+        "name": "Tauseef  Ahmed",
+        "customer_rating": "5",
+        "comment_header": "Must buy!",
+        "customer_comment": "Successfully activated to windows 11 pro from windows 11 home edition. These keys are genuine. Go for it",
+        "likes": "1",
         "dislikes": "1"
     },
     "8": {
-        "name": "Flipkart Customer",
-        "customer_rating": "1",
-        "comment_header": "Did not meet expectations",
-        "customer_comment": "Not bad but isme bubbles aarahe hai not fit this mobile",
-        "likes": "7",
-        "dislikes": "6"
-    },
-    "9": {
-        "name": "Nidhin  K",
-        "customer_rating": "2",
-        "comment_header": "Could be way better",
-        "customer_comment": "Product fitting is not as good, causing bubble effect inside the case",
-        "likes": "1",
-        "dislikes": "0"
-    },
-    "10": {
-        "name": "Krishan Kumar",
-        "customer_rating": "4",
-        "comment_header": "Just wow!",
-        "customer_comment": "Superb",
-        "likes": "1",
-        "dislikes": "0"
-    },
-    "11": {
-        "name": "Flipkart Customer",
+        "name": "Marvel Varghese",
         "customer_rating": "5",
-        "comment_header": "Just wow!",
-        "customer_comment": "Very good product",
+        "comment_header": "Brilliant",
+        "customer_comment": "A good support team. The key provided was instantly recognised by Microsoft servers. Upgraded smoothly. No issues so far.",
         "likes": "0",
         "dislikes": "0"
     },
+    "9": {
+        "name": "Davinder  sharma",
+        "customer_rating": "5",
+        "comment_header": "Worth every penny",
+        "customer_comment": "It was really Retail Key. Thanks to the seller as well as to Flipkart for Genuine Products.",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "10": {
+        "name": "Samudra Bordoloi",
+        "customer_rating": "5",
+        "comment_header": "Best in the market!",
+        "customer_comment": "With Wincial Key I got a solution to a prolonged problem with my laptop. The technician spent a considerable long time with me to solve my problem online. Now my laptop is fully operational.",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "11": {
+        "name": "Thalib Kunhipurayil ",
+        "customer_rating": "5",
+        "comment_header": "Terrific",
+        "customer_comment": "Very easy, Excellent support from seller",
+        "likes": "1",
+        "dislikes": "0"
+    },
     "12": {
-        "name": "Niranjan kumar",
+        "name": "RAHUL KUMAR",
         "customer_rating": "5",
-        "comment_header": "Classy product",
-        "customer_comment": "Looks ultimate",
+        "comment_header": "Worth every penny",
+        "customer_comment": "Genuine product 100% working",
         "likes": "1",
         "dislikes": "0"
     },
-    "17": {
-        "name": "Anirban Sadhukhan",
+    "13": {
+        "name": "Arvind Singh",
         "customer_rating": "5",
-        "comment_header": "Just wow!",
-        "customer_comment": "Good product",
-        "likes": "1",
+        "comment_header": "Simply awesome",
+        "customer_comment": "Best",
+        "likes": "0",
         "dislikes": "0"
     },
-    "18": {
-        "name": "arun kumar pittala",
-        "customer_rating": "3",
-        "comment_header": "Fair",
-        "customer_comment": "Not bad",
-        "likes": "1",
-        "dislikes": "1"
-    },
-    "19": {
-        "name": "Sourav Sharma",
-        "customer_rating": "5",
-        "comment_header": "Best in the market!",
-        "customer_comment": "Nice",
-        "likes": "1",
-        "dislikes": "1"
-    },
-    "20": {
+    "14": {
         "name": "Flipkart Customer",
+        "customer_rating": "4",
+        "comment_header": "Pretty good",
+        "customer_comment": "Best product key",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "15": {
+        "name": "Jitendra Kukreja",
         "customer_rating": "5",
-        "comment_header": "Best in the market!",
+        "comment_header": "Awesome",
+        "customer_comment": "Very prompt and responsive vendor, highly recommended",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "16": {
+        "name": "Devendra  Kumar",
+        "customer_rating": "5",
+        "comment_header": "Perfect product!",
         "customer_comment": "Good",
         "likes": "0",
         "dislikes": "0"
     },
-    "21": {
-        "name": "Flipkart Customer",
+    "17": {
+        "name": "RAJIV THOMAS",
         "customer_rating": "5",
-        "comment_header": "Must buy!",
-        "customer_comment": "Good luck",
+        "comment_header": "Excellent service.",
+        "customer_comment": "Genuine.",
+        "likes": "1",
+        "dislikes": "1"
+    },
+    "18": {
+        "name": "Ghulam Sarwar",
+        "customer_rating": "4",
+        "comment_header": "Nice product",
+        "customer_comment": "Loved it  tks",
+        "likes": "1",
+        "dislikes": "1"
+    },
+    "19": {
+        "name": "varaprasad kanni",
+        "customer_rating": "1",
+        "comment_header": "Unsatisfactory",
+        "customer_comment": "It's not support ed",
+        "likes": "1",
+        "dislikes": "5"
+    },
+    "20": {
+        "name": "Sagar kr.  Pradhan",
+        "customer_rating": "1",
+        "comment_header": "Unsatisfactory",
+        "customer_comment": "Worst product, no Bootable DVD or drive included totally waste of money",
+        "likes": "1",
+        "dislikes": "15"
+    },
+    "21": {
+        "name": "Akash Singh",
+        "customer_rating": "5",
+        "comment_header": "Mind-blowing purchase",
+        "customer_comment": "Excellent Product key is working perfectly",
         "likes": "0",
         "dislikes": "0"
     },
     "22": {
-        "name": "Mohd  Furkan",
-        "customer_rating": "3",
-        "comment_header": "Decent product",
-        "customer_comment": "Quality is not up to the mark",
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Excellent",
+        "customer_comment": "Works perfectly",
         "likes": "0",
         "dislikes": "0"
     },
     "23": {
-        "name": "Aabid Khan",
-        "customer_rating": "3",
-        "comment_header": "Good",
-        "customer_comment": "It\u2019s a good product,but quality isn\u2019t upto the mark.",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "24": {
-        "name": "Lokesh .N",
-        "customer_rating": "4",
-        "comment_header": "Nice product",
-        "customer_comment": "Nice",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "25": {
-        "name": "Anush  Yadav",
-        "customer_rating": "1",
-        "comment_header": "Worst experience ever!",
-        "customer_comment": "Not nyc",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "26": {
-        "name": "Flipkart Customer",
-        "customer_rating": "1",
-        "comment_header": "Don't waste your money",
-        "customer_comment": "Very bad product",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "31": {
-        "name": "G Rahul Rahul",
-        "customer_rating": "5",
-        "comment_header": "Awesome",
-        "customer_comment": "Good cover",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "32": {
-        "name": "Flipkart Customer",
+        "name": "Sanjaya Kumar Garnayak",
         "customer_rating": "5",
         "comment_header": "Just wow!",
-        "customer_comment": "A good quality",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "33": {
-        "name": "Flipkart Customer",
-        "customer_rating": "5",
-        "comment_header": "Terrific",
-        "customer_comment": "Impressive quality",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "34": {
-        "name": "Ravi Singh",
-        "customer_rating": "1",
-        "comment_header": "Unsatisfactory",
-        "customer_comment": "Not good",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "35": {
-        "name": "Jagadesh.p",
-        "customer_rating": "5",
-        "comment_header": "Perfect product!",
-        "customer_comment": "Nice product\ud83d\udc4d",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "36": {
-        "name": "Mansuri Farhan",
-        "customer_rating": "4",
-        "comment_header": "Wonderful",
         "customer_comment": "Good product",
         "likes": "0",
         "dislikes": "0"
     },
-    "37": {
-        "name": "Kiran Prince",
+    "24": {
+        "name": "Pankaj Maurya",
+        "customer_rating": "1",
+        "comment_header": "Useless product",
+        "customer_comment": "Don't buy this product not warking key",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "25": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Fabulous!",
+        "customer_comment": "It worked flawlessly. Just follow the steps mentioned. Thank you.",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "26": {
+        "name": "Tonmoy  Ghosh",
+        "customer_rating": "5",
+        "comment_header": "Mind-blowing purchase",
+        "customer_comment": "Wow! It's working really..",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "27": {
+        "name": "Jagan S",
+        "customer_rating": "5",
+        "comment_header": "Great product",
+        "customer_comment": "yes original key",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "28": {
+        "name": "Yash Patil",
         "customer_rating": "5",
         "comment_header": "Super!",
-        "customer_comment": "Nice product,good quality \ud83d\ude07",
+        "customer_comment": "It's a genuine retail key, Windows got activated through digital license linked with Microsoft account",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "29": {
+        "name": "Sumit  Khurana",
+        "customer_rating": "5",
+        "comment_header": "Brilliant",
+        "customer_comment": "Wonderful genuine update and that's all I can say and seller is very helpful in activating the product",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "30": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Perfect product!",
+        "customer_comment": "Fully worked",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "31": {
+        "name": "Samrat Roy",
+        "customer_rating": "5",
+        "comment_header": "Just wow!",
+        "customer_comment": "Genuine key.",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "32": {
+        "name": "DEBKUMAR MONDAL",
+        "customer_rating": "4",
+        "comment_header": "Good quality product",
+        "customer_comment": "Nice",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "33": {
+        "name": "Nachikethus S R",
+        "customer_rating": "5",
+        "comment_header": "Good Support.",
+        "customer_comment": "My Win 11 home laptop updated to win 11 Pro",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "34": {
+        "name": "sunny nath",
+        "customer_rating": "5",
+        "comment_header": "Excellent",
+        "customer_comment": "Genuine product... Good service.",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "35": {
+        "name": "Shamim Khan",
+        "customer_rating": "5",
+        "comment_header": "Worth every penny",
+        "customer_comment": "Genuine",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "36": {
+        "name": "SHRIKANT LAKSHATTI",
+        "customer_rating": "4",
+        "comment_header": "Really Nice",
+        "customer_comment": "Genuine product at lowest price",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "37": {
+        "name": "Ali haider Customer",
+        "customer_rating": "5",
+        "comment_header": "Best in the market!",
+        "customer_comment": "Genuine windows",
         "likes": "0",
         "dislikes": "0"
     },
     "38": {
-        "name": "Aakash Shelly",
-        "customer_rating": "3",
-        "comment_header": "Fair",
-        "customer_comment": "Ok ok",
+        "name": "BIKASH GOURAV",
+        "customer_rating": "4",
+        "comment_header": "Nice product",
+        "customer_comment": "First I thought I was cheated but latter found genuine products",
         "likes": "0",
         "dislikes": "0"
     },
     "39": {
-        "name": "Flipkart Customer",
-        "customer_rating": "3",
-        "comment_header": "Decent product",
-        "customer_comment": "Cover is no perfet",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "40": {
-        "name": "Flipkart Customer",
+        "name": "Ela  Tyagi",
         "customer_rating": "5",
-        "comment_header": "Just wow!",
-        "customer_comment": "good",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "45": {
-        "name": "Janmajoy Karmakar",
-        "customer_rating": "3",
-        "comment_header": "Good",
-        "customer_comment": "Ok",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "46": {
-        "name": "Mohd.Zaid ",
-        "customer_rating": "5",
-        "comment_header": "Excellent",
-        "customer_comment": "Good Quality \ud83d\udc4d\ud83c\udffb",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "47": {
-        "name": "Flipkart Customer",
-        "customer_rating": "5",
-        "comment_header": "Perfect product!",
-        "customer_comment": "Perfect fitting",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "48": {
-        "name": "Himanshu Borah",
-        "customer_rating": "5",
-        "comment_header": "Perfect product!",
-        "customer_comment": "Awesome product",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "49": {
-        "name": "Swarnava Gan",
-        "customer_rating": "5",
-        "comment_header": "Brilliant",
-        "customer_comment": "Amazing Product! Sturdy and durable.",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "50": {
-        "name": "Vinod Kumar",
-        "customer_rating": "5",
-        "comment_header": "Highly recommended",
-        "customer_comment": "Awesome yaar \ud83d\ude0d",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "51": {
-        "name": "Pranay Yadav",
-        "customer_rating": "5",
-        "comment_header": "Super!",
-        "customer_comment": "Value for Money",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "52": {
-        "name": "ezhil Selva",
-        "customer_rating": "5",
-        "comment_header": "Worth every penny",
-        "customer_comment": "Very nice",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "53": {
-        "name": "shijith pk",
-        "customer_rating": "1",
-        "comment_header": "Absolute rubbish!",
-        "customer_comment": "Low quality",
-        "likes": "0",
-        "dislikes": "1"
-    },
-    "54": {
-        "name": "Burugu sandeep",
-        "customer_rating": "5",
-        "comment_header": "Awesome",
-        "customer_comment": "Super back cover",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "59": {
-        "name": "KASHI SHIVAM",
-        "customer_rating": "5",
-        "comment_header": "Wonderful",
-        "customer_comment": "Nyc",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "60": {
-        "name": "DHINESH Jd",
-        "customer_rating": "5",
-        "comment_header": "Fabulous!",
-        "customer_comment": "Awesome Just go for it",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "61": {
-        "name": "Srilesh",
-        "customer_rating": "5",
-        "comment_header": "Best in the market!",
-        "customer_comment": "Very much satisfied",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "62": {
-        "name": "Flipkart Customer",
-        "customer_rating": "5",
-        "comment_header": "Mind-blowing purchase",
-        "customer_comment": "Very good quality \ud83d\udc4c\ud83d\udc4c value of money",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "63": {
-        "name": "prabhakar thalladi",
-        "customer_rating": "4",
-        "comment_header": "Worth the money",
-        "customer_comment": "Nice product",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "64": {
-        "name": "Karthi Keyan",
-        "customer_rating": "5",
-        "comment_header": "Terrific purchase",
-        "customer_comment": "Worth uhh\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "65": {
-        "name": "pratik puri",
-        "customer_rating": "1",
-        "comment_header": "Absolute rubbish!",
-        "customer_comment": "Very poor quality",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "66": {
-        "name": "Debasis Samal",
-        "customer_rating": "5",
-        "comment_header": "Fabulous!",
-        "customer_comment": "Outstanding... Products",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "67": {
-        "name": "Mani Kandan",
-        "customer_rating": "5",
-        "comment_header": "Excellent",
-        "customer_comment": "Worth",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "68": {
-        "name": "Harshajit Das",
-        "customer_rating": "4",
-        "comment_header": "Worth the money",
-        "customer_comment": "Nice",
+        "comment_header": "Classy product",
+        "customer_comment": "Ok Fine!!!",
         "likes": "0",
         "dislikes": "0"
     }
