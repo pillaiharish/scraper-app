@@ -1,89 +1,465 @@
-DEBUG:root:https://www.flipkart.com/search?q=iphone11
-DEBUG:root:33
-DEBUG:root:https://www.flipkart.com/apple-iphone-11-purple-128-gb/p/itmb7ca0b05522ff?pid=MOBFWQ6BEHFXGXGB&lid=LSTMOBFWQ6BEHFXGXGBIS2J2K&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BEHFXGXGB.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a 9th url is the first product link
-DEBUG:root:['https://www.flipkart.com/apple-iphone-11-white-64-gb/p/itmfc6a7091eb20b?pid=MOBFWQ6BVWVEH3XE&lid=LSTMOBFWQ6BVWVEH3XEMXQMLO&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BVWVEH3XE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-black-64-gb/p/itm4e5041ba101fd?pid=MOBFWQ6BXGJCEYNY&lid=LSTMOBFWQ6BXGJCEYNYZXSHRJ&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BXGJCEYNY.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-white-128-gb/p/itme32df47ea6742?pid=MOBFWQ6B7KKRXDDS&lid=LSTMOBFWQ6B7KKRXDDSULUZ0N&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6B7KKRXDDS.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-black-128-gb/p/itm8244e8d955aba?pid=MOBFWQ6BKRYBP5X8&lid=LSTMOBFWQ6BKRYBP5X8IBG6BS&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BKRYBP5X8.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-red-128-gb/p/itm8d14bd0e33a1c?pid=MOBFWQ6BEZTNK59G&lid=LSTMOBFWQ6BEZTNK59G4PTPDM&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BEZTNK59G.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-purple-64-gb/p/itm2b8d03427ddac?pid=MOBFWQ6BTFFJKGKE&lid=LSTMOBFWQ6BTFFJKGKEPGQVOJ&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_6&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BTFFJKGKE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-red-64-gb/p/itmc3935326f2feb?pid=MOBFWQ6BYYV3FCU7&lid=LSTMOBFWQ6BYYV3FCU74EMEKJ&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BYYV3FCU7.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-yellow-128-gb/p/itm7030edc9e100e?pid=MOBFWQ6BWTSBJSHY&lid=LSTMOBFWQ6BWTSBJSHYJG1Q5J&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BWTSBJSHY.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-green-64-gb/p/itm386a85013a3d1?pid=MOBFWQ6BHPMG29QM&lid=LSTMOBFWQ6BHPMG29QMMGHL6F&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BHPMG29QM.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-purple-128-gb/p/itmb7ca0b05522ff?pid=MOBFWQ6BEHFXGXGB&lid=LSTMOBFWQ6BEHFXGXGBIS2J2K&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BEHFXGXGB.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-green-128-gb/p/itm97529bbf640ca?pid=MOBFWQ6BHBKMH4BF&lid=LSTMOBFWQ6BHBKMH4BFPOHIFL&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BHBKMH4BF.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-yellow-64-gb/p/itm39b1a0ba9ddcb?pid=MOBFWQ6BWGX9VRFS&lid=LSTMOBFWQ6BWGX9VRFSRCZZAI&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BWGX9VRFS.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-6-space-grey-16-gb/p/itmefjg7mzcwjyhk?pid=MOBEYHZ2YAXZMF2J&lid=LSTMOBEYHZ2YAXZMF2JEVWVNC&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBEYHZ2YAXZMF2J.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-space-grey-64-gb/p/itme0101031155f8?pid=MOBFKCTSKDMKCGQS&lid=LSTMOBFKCTSKDMKCGQSOYFAJN&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSKDMKCGQS.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-midnight-green-64-gb/p/itmab1763b5ca244?pid=MOBFKCTSRYPAQNYT&lid=LSTMOBFKCTSRYPAQNYTHDWEGY&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSRYPAQNYT.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-silver-256-gb/p/itm08eae2709cac6?pid=MOBFKCTST7PU7BWR&lid=LSTMOBFKCTST7PU7BWRAQB29Z&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTST7PU7BWR.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-gold-64-gb/p/itm6ef18218efdf6?pid=MOBFKCTSAPAYNSGG&lid=LSTMOBFKCTSAPAYNSGGKWDGRM&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSAPAYNSGG.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-midnight-green-64-gb/p/itm471de0d2e8474?pid=MOBFKCTSN3TG3RFJ&lid=LSTMOBFKCTSN3TG3RFJS8GACU&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSN3TG3RFJ.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-space-grey-256-gb/p/itmbecef22a95790?pid=MOBFKCTSWGYSAS9X&lid=LSTMOBFKCTSWGYSAS9X2RHASU&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSWGYSAS9X.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-silver-512-gb/p/itmb5a9e1ed61050?pid=MOBFKCTSGSPD57DD&lid=LSTMOBFKCTSGSPD57DDNXGVJ7&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSGSPD57DD.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-gold-512-gb/p/itm29ba3b4eeb4d5?pid=MOBFKCTS7CGXBRYE&lid=LSTMOBFKCTS7CGXBRYEVDPFSF&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_21&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTS7CGXBRYE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-space-grey-512-gb/p/itmcd1f0ddbf1c21?pid=MOBFKCTSRTHRQTFT&lid=LSTMOBFKCTSRTHRQTFTSIZYYS&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_22&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSRTHRQTFT.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-space-grey-256-gb/p/itm2b63a650e32f7?pid=MOBFKCTSSXTRZZJD&lid=LSTMOBFKCTSSXTRZZJDH1HTO4&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_23&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSSXTRZZJD.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-gold-256-gb/p/itm94c6536eefc46?pid=MOBFKCTS7HCHSPFH&lid=LSTMOBFKCTS7HCHSPFH8FVBCX&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_24&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTS7HCHSPFH.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a']
+DEBUG:root:https://www.flipkart.com/search?q=iphone%2011%20phone%20case
+DEBUG:root:18
+DEBUG:root:https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3 9th url is the first product link
+DEBUG:root:['https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itmc70cf9c03baa9?pid=ACCGFEHXSQRPVAJH&lid=LSTACCGFEHXSQRPVAJHQHXEOS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXSQRPVAJH.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itmc70cf9c03baa9?pid=ACCGFEHXSQRPVAJH&lid=LSTACCGFEHXSQRPVAJHQHXEOS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXSQRPVAJH.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itmc70cf9c03baa9?pid=ACCGFEHXSQRPVAJH&lid=LSTACCGFEHXSQRPVAJHQHXEOS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_2&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXSQRPVAJH.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/maxpro-back-cover-apple-iphone-11/p/itmf27a14d2dacd0?pid=ACCG7FG32PZEZFZJ&lid=LSTACCG7FG32PZEZFZJUK2HPJ&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG7FG32PZEZFZJ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/maxpro-back-cover-apple-iphone-11/p/itmf27a14d2dacd0?pid=ACCG7FG32PZEZFZJ&lid=LSTACCG7FG32PZEZFZJUK2HPJ&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG7FG32PZEZFZJ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/maxpro-back-cover-apple-iphone-11/p/itmf27a14d2dacd0?pid=ACCG7FG32PZEZFZJ&lid=LSTACCG7FG32PZEZFZJUK2HPJ&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_3&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG7FG32PZEZFZJ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm22da25a923ac3?pid=ACCFYV8ZGVEM4DVE&lid=LSTACCFYV8ZGVEM4DVEI45XGB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&spotlightTagId=BestsellerId_tyy%2F4mr%2Fq2u&srno=s_1_5&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8ZGVEM4DVE.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm067fd2659c333?pid=ACCGECTE95GZEZSZ&lid=LSTACCGECTE95GZEZSZPX5CEF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTE95GZEZSZ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm067fd2659c333?pid=ACCGECTE95GZEZSZ&lid=LSTACCGECTE95GZEZSZPX5CEF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTE95GZEZSZ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm067fd2659c333?pid=ACCGECTE95GZEZSZ&lid=LSTACCGECTE95GZEZSZPX5CEF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_6&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTE95GZEZSZ.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itm30caa9366535b?pid=ACCGG7PDX2YNDCZY&lid=LSTACCGG7PDX2YNDCZYNZLM7Q&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGG7PDX2YNDCZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itm30caa9366535b?pid=ACCGG7PDX2YNDCZY&lid=LSTACCGG7PDX2YNDCZYNZLM7Q&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGG7PDX2YNDCZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itm30caa9366535b?pid=ACCGG7PDX2YNDCZY&lid=LSTACCGG7PDX2YNDCZYNZLM7Q&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_7&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGG7PDX2YNDCZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm64a0dd350077e?pid=ACCFYV8QHWAFFHEY&lid=LSTACCFYV8QHWAFFHEYJXYNWX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8QHWAFFHEY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm64a0dd350077e?pid=ACCFYV8QHWAFFHEY&lid=LSTACCFYV8QHWAFFHEYJXYNWX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8QHWAFFHEY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm64a0dd350077e?pid=ACCFYV8QHWAFFHEY&lid=LSTACCFYV8QHWAFFHEYJXYNWX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_9&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8QHWAFFHEY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm4d91f2df79529?pid=ACCGECTFZFSZAHX2&lid=LSTACCGECTFZFSZAHX2XFJQDF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTFZFSZAHX2.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm4d91f2df79529?pid=ACCGECTFZFSZAHX2&lid=LSTACCGECTFZFSZAHX2XFJQDF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTFZFSZAHX2.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/coverskart-back-cover-apple-iphone-11-luxury-leather-case/p/itm4d91f2df79529?pid=ACCGECTFZFSZAHX2&lid=LSTACCGECTFZFSZAHX2XFJQDF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_10&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGECTFZFSZAHX2.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm75256e2dcb771?pid=ACCFNHF5NRCAXV3V&lid=LSTACCFNHF5NRCAXV3VUB7J5V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFNHF5NRCAXV3V.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm75256e2dcb771?pid=ACCFNHF5NRCAXV3V&lid=LSTACCFNHF5NRCAXV3VUB7J5V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFNHF5NRCAXV3V.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm75256e2dcb771?pid=ACCFNHF5NRCAXV3V&lid=LSTACCFNHF5NRCAXV3VUB7J5V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_11&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFNHF5NRCAXV3V.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-12-12-pro/p/itm6dc69e7c26ff1?pid=ACCGDRV2VMCPRKN3&lid=LSTACCGDRV2VMCPRKN3Y1JTUE&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRV2VMCPRKN3.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-12-12-pro/p/itm6dc69e7c26ff1?pid=ACCGDRV2VMCPRKN3&lid=LSTACCGDRV2VMCPRKN3Y1JTUE&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRV2VMCPRKN3.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-12-12-pro/p/itm6dc69e7c26ff1?pid=ACCGDRV2VMCPRKN3&lid=LSTACCGDRV2VMCPRKN3Y1JTUE&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_13&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRV2VMCPRKN3.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/manilrekh-back-cover-iph11promax/p/itm332be8eee83d1?pid=ACCG6VTY5VGJYFTT&lid=LSTACCG6VTY5VGJYFTTJQLQTB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG6VTY5VGJYFTT.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/manilrekh-back-cover-iph11promax/p/itm332be8eee83d1?pid=ACCG6VTY5VGJYFTT&lid=LSTACCG6VTY5VGJYFTTJQLQTB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG6VTY5VGJYFTT.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/manilrekh-back-cover-iph11promax/p/itm332be8eee83d1?pid=ACCG6VTY5VGJYFTT&lid=LSTACCG6VTY5VGJYFTTJQLQTB&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_14&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG6VTY5VGJYFTT.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-square-platting-chrome-case-slim-fit-electroplating/p/itm92927f67027cd?pid=ACCGAZJ4AF6CWZDC&lid=LSTACCGAZJ4AF6CWZDCVS7RNG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ4AF6CWZDC.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-square-platting-chrome-case-slim-fit-electroplating/p/itm92927f67027cd?pid=ACCGAZJ4AF6CWZDC&lid=LSTACCGAZJ4AF6CWZDCVS7RNG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ4AF6CWZDC.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-square-platting-chrome-case-slim-fit-electroplating/p/itm92927f67027cd?pid=ACCGAZJ4AF6CWZDC&lid=LSTACCGAZJ4AF6CWZDCVS7RNG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_15&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ4AF6CWZDC.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/midos-back-cover-iphone-12-silicone-full-protection-soft-slim-for-iphone-12-12-pro-purple/p/itm519053af18939?pid=ACCGHVEGDH7EUET6&lid=LSTACCGHVEGDH7EUET62BGJTI&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGHVEGDH7EUET6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/midos-back-cover-iphone-12-silicone-full-protection-soft-slim-for-iphone-12-12-pro-purple/p/itm519053af18939?pid=ACCGHVEGDH7EUET6&lid=LSTACCGHVEGDH7EUET62BGJTI&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGHVEGDH7EUET6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/midos-back-cover-iphone-12-silicone-full-protection-soft-slim-for-iphone-12-12-pro-purple/p/itm519053af18939?pid=ACCGHVEGDH7EUET6&lid=LSTACCGHVEGDH7EUET62BGJTI&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_17&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGHVEGDH7EUET6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm920e037f3154a?pid=ACCFMUZRZCFHTFGA&lid=LSTACCFMUZRZCFHTFGAPT6A71&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFMUZRZCFHTFGA.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm920e037f3154a?pid=ACCFMUZRZCFHTFGA&lid=LSTACCFMUZRZCFHTFGAPT6A71&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFMUZRZCFHTFGA.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm920e037f3154a?pid=ACCFMUZRZCFHTFGA&lid=LSTACCFMUZRZCFHTFGAPT6A71&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_18&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFMUZRZCFHTFGA.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/desirtech-bumper-case-iphone-11/p/itm4b5868488704a?pid=ACCG73TQGGHMEHYR&lid=LSTACCG73TQGGHMEHYRII2CCX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG73TQGGHMEHYR.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/desirtech-bumper-case-iphone-11/p/itm4b5868488704a?pid=ACCG73TQGGHMEHYR&lid=LSTACCG73TQGGHMEHYRII2CCX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG73TQGGHMEHYR.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/desirtech-bumper-case-iphone-11/p/itm4b5868488704a?pid=ACCG73TQGGHMEHYR&lid=LSTACCG73TQGGHMEHYRII2CCX&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_19&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG73TQGGHMEHYR.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm1d01850f791d0?pid=ACCFHWANXTRXHRZN&lid=LSTACCFHWANXTRXHRZNTPIAMF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFHWANXTRXHRZN.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm1d01850f791d0?pid=ACCFHWANXTRXHRZN&lid=LSTACCFHWANXTRXHRZNTPIAMF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFHWANXTRXHRZN.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/enflamo-back-cover-apple-iphone-11/p/itm1d01850f791d0?pid=ACCFHWANXTRXHRZN&lid=LSTACCFHWANXTRXHRZNTPIAMF&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_21&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFHWANXTRXHRZN.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/fablue-back-cover-apple-iphone-11/p/itm04c6290308ced?pid=ACCGA94DBGYCEV8G&lid=LSTACCGA94DBGYCEV8GD4C3E2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGA94DBGYCEV8G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/fablue-back-cover-apple-iphone-11/p/itm04c6290308ced?pid=ACCGA94DBGYCEV8G&lid=LSTACCGA94DBGYCEV8GD4C3E2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGA94DBGYCEV8G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/fablue-back-cover-apple-iphone-11/p/itm04c6290308ced?pid=ACCGA94DBGYCEV8G&lid=LSTACCGA94DBGYCEV8GD4C3E2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_22&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGA94DBGYCEV8G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm18dec2760132e?pid=ACCFYV6QYWQQHWEX&lid=LSTACCFYV6QYWQQHWEXSMULIS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV6QYWQQHWEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm18dec2760132e?pid=ACCFYV6QYWQQHWEX&lid=LSTACCFYV6QYWQQHWEXSMULIS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV6QYWQQHWEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itm18dec2760132e?pid=ACCFYV6QYWQQHWEX&lid=LSTACCFYV6QYWQQHWEXSMULIS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_23&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV6QYWQQHWEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itmb718a8eba53d9?pid=ACCFYV8RTKHYFHTD&lid=LSTACCFYV8RTKHYFHTDQMXT2M&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8RTKHYFHTD.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itmb718a8eba53d9?pid=ACCFYV8RTKHYFHTD&lid=LSTACCFYV8RTKHYFHTDQMXT2M&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8RTKHYFHTD.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gadgetm-back-cover-apple-iphone-11/p/itmb718a8eba53d9?pid=ACCFYV8RTKHYFHTD&lid=LSTACCFYV8RTKHYFHTDQMXT2M&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_25&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCFYV8RTKHYFHTD.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itm1677915ea3289?pid=ACCG9JCT8HGTR5ZY&lid=LSTACCG9JCT8HGTR5ZYQK2BQS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG9JCT8HGTR5ZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itm1677915ea3289?pid=ACCG9JCT8HGTR5ZY&lid=LSTACCG9JCT8HGTR5ZYQK2BQS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG9JCT8HGTR5ZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/p/itm1677915ea3289?pid=ACCG9JCT8HGTR5ZY&lid=LSTACCG9JCT8HGTR5ZYQK2BQS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_26&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG9JCT8HGTR5ZY.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cafune-back-cover-apple-iphone-11/p/itm65b66029925fe?pid=ACCGBQ8QFTZGQ2ZP&lid=LSTACCGBQ8QFTZGQ2ZP7BLAIV&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGBQ8QFTZGQ2ZP.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cafune-back-cover-apple-iphone-11/p/itm65b66029925fe?pid=ACCGBQ8QFTZGQ2ZP&lid=LSTACCGBQ8QFTZGQ2ZP7BLAIV&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGBQ8QFTZGQ2ZP.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cafune-back-cover-apple-iphone-11/p/itm65b66029925fe?pid=ACCGBQ8QFTZGQ2ZP&lid=LSTACCGBQ8QFTZGQ2ZP7BLAIV&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_27&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGBQ8QFTZGQ2ZP.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itm26add17054142?pid=ACCGFEHXVESMZZ6G&lid=LSTACCGFEHXVESMZZ6GOUBQLS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXVESMZZ6G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itm26add17054142?pid=ACCGFEHXVESMZZ6G&lid=LSTACCGFEHXVESMZZ6GOUBQLS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXVESMZZ6G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/cover-alive-back-apple-iphone-11/p/itm26add17054142?pid=ACCGFEHXVESMZZ6G&lid=LSTACCGFEHXVESMZZ6GOUBQLS&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_29&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFEHXVESMZZ6G.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/riverforest-back-cover-iphone-12-12-pro/p/itm6af9f97b3ebb4?pid=ACCGM3H6GQPWQYC6&lid=LSTACCGM3H6GQPWQYC6YIR263&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGM3H6GQPWQYC6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/riverforest-back-cover-iphone-12-12-pro/p/itm6af9f97b3ebb4?pid=ACCGM3H6GQPWQYC6&lid=LSTACCGM3H6GQPWQYC6YIR263&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGM3H6GQPWQYC6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/riverforest-back-cover-iphone-12-12-pro/p/itm6af9f97b3ebb4?pid=ACCGM3H6GQPWQYC6&lid=LSTACCGM3H6GQPWQYC6YIR263&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_30&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGM3H6GQPWQYC6.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-square-platting-chrome-case-slim-fit-electroplating/p/itmc579cd946692d?pid=ACCGAZJ5CQUTRGEX&lid=LSTACCGAZJ5CQUTRGEX9S1WVG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5CQUTRGEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-square-platting-chrome-case-slim-fit-electroplating/p/itmc579cd946692d?pid=ACCGAZJ5CQUTRGEX&lid=LSTACCGAZJ5CQUTRGEX9S1WVG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5CQUTRGEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-square-platting-chrome-case-slim-fit-electroplating/p/itmc579cd946692d?pid=ACCGAZJ5CQUTRGEX&lid=LSTACCGAZJ5CQUTRGEX9S1WVG&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_31&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5CQUTRGEX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-max-square-platting-chrome-case-slim-fit-electroplating/p/itm4e6c6478e79cb?pid=ACCGAZJ5YDYQ9HZX&lid=LSTACCGAZJ5YDYQ9HZXCRTWMP&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5YDYQ9HZX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-max-square-platting-chrome-case-slim-fit-electroplating/p/itm4e6c6478e79cb?pid=ACCGAZJ5YDYQ9HZX&lid=LSTACCGAZJ5YDYQ9HZXCRTWMP&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5YDYQ9HZX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/dallao-back-cover-apple-phone-11-pro-max-square-platting-chrome-case-slim-fit-electroplating/p/itm4e6c6478e79cb?pid=ACCGAZJ5YDYQ9HZX&lid=LSTACCGAZJ5YDYQ9HZXCRTWMP&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_33&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGAZJ5YDYQ9HZX.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/hardercase-back-cover-apple-phone-11/p/itm4bf58bf73428b?pid=ACCGDWYSKYZZJ9YM&lid=LSTACCGDWYSKYZZJ9YMBLMIUM&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDWYSKYZZJ9YM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/hardercase-back-cover-apple-phone-11/p/itm4bf58bf73428b?pid=ACCGDWYSKYZZJ9YM&lid=LSTACCGDWYSKYZZJ9YMBLMIUM&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDWYSKYZZJ9YM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/hardercase-back-cover-apple-phone-11/p/itm4bf58bf73428b?pid=ACCGDWYSKYZZJ9YM&lid=LSTACCGDWYSKYZZJ9YMBLMIUM&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_34&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDWYSKYZZJ9YM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-11/p/itm65e3df0cb314e?pid=ACCGDRUKH63TYEDM&lid=LSTACCGDRUKH63TYEDMWT4YDU&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRUKH63TYEDM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-11/p/itm65e3df0cb314e?pid=ACCGDRUKH63TYEDM&lid=LSTACCGDRUKH63TYEDMWT4YDU&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRUKH63TYEDM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/gettechgo-back-cover-apple-iphone-11/p/itm65e3df0cb314e?pid=ACCGDRUKH63TYEDM&lid=LSTACCGDRUKH63TYEDMWT4YDU&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_35&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGDRUKH63TYEDM.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itmc9109eca6c6fd?pid=ACCGFJJ6PBYZTZBF&lid=LSTACCGFJJ6PBYZTZBFJ6KN3V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFJJ6PBYZTZBF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itmc9109eca6c6fd?pid=ACCGFJJ6PBYZTZBF&lid=LSTACCGFJJ6PBYZTZBFJ6KN3V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFJJ6PBYZTZBF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/karwan-back-cover-apple-iphone-11/p/itmc9109eca6c6fd?pid=ACCGFJJ6PBYZTZBF&lid=LSTACCGFJJ6PBYZTZBFJ6KN3V&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_37&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGFJJ6PBYZTZBF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/kartv-back-cover-apple-iphone-11-11/p/itm39cff2f8432ec?pid=ACCGJ2PZBPBUXSWK&lid=LSTACCGJ2PZBPBUXSWKEDH2VT&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJ2PZBPBUXSWK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/kartv-back-cover-apple-iphone-11-11/p/itm39cff2f8432ec?pid=ACCGJ2PZBPBUXSWK&lid=LSTACCGJ2PZBPBUXSWKEDH2VT&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJ2PZBPBUXSWK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/kartv-back-cover-apple-iphone-11-11/p/itm39cff2f8432ec?pid=ACCGJ2PZBPBUXSWK&lid=LSTACCGJ2PZBPBUXSWKEDH2VT&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_38&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJ2PZBPBUXSWK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/zapcase-back-cover-apple-iphone-11-pro/p/itmcee2badc23d3b?pid=ACCGJQF76UZ5ESWF&lid=LSTACCGJQF76UZ5ESWFQNEVPK&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJQF76UZ5ESWF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/zapcase-back-cover-apple-iphone-11-pro/p/itmcee2badc23d3b?pid=ACCGJQF76UZ5ESWF&lid=LSTACCGJQF76UZ5ESWFQNEVPK&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJQF76UZ5ESWF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3', 'https://www.flipkart.com/zapcase-back-cover-apple-iphone-11-pro/p/itmcee2badc23d3b?pid=ACCGJQF76UZ5ESWF&lid=LSTACCGJQF76UZ5ESWFQNEVPK&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_39&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCGJQF76UZ5ESWF.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3']
+DEBUG:root:length of sub urls: 90
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /apple-iphone-11-white-64-gb/p/itmfc6a7091eb20b?pid=MOBFWQ6BVWVEH3XE&lid=LSTMOBFWQ6BVWVEH3XEMXQMLO&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BVWVEH3XE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a HTTP/1.1" 200 None
-DEBUG:root:5
-DEBUG:root:Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/p/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&q=iphone+11+phone+case&store=tyy%2F4mr%2Fq2u&srno=s_1_1&otracker=search&fm=organic&iid=102f255f-a539-46df-bfa5-04866ebe0135.ACCG856NYKXDGZTK.SEARCH&ppt=None&ppn=None&ssid=99h1cn4d4g0000001679163420725&qH=faae576e954e21e3 HTTP/1.1" 200 None
+INFO:root:Product reviews link is: ['/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART']
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART HTTP/1.1" 200 None
+INFO:root:Product reviews Page numbers: ['https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=1', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=4', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=5', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=6', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=1', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=3', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=4', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=5', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=6', 'https://www.flipkart.com/micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2']
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=1 HTTP/1.1" 200 None
 DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Simply awesome
-DEBUG:root:Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.
-DEBUG:root:33772
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
+ERROR:root:error
 DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Perfect product!
-DEBUG:root:Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .
-DEBUG:root:24125
-DEBUG:root:Flipkart Customer
-DEBUG:root:
-
+ERROR:root:error
 DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Best in the market!
-DEBUG:root:Great iPhone very snappy experience as apple kind. Upgraded from iPhone 7. Pros-Camera top class - Battery top performed -Chipset no need to say as apple kind -Security as you expect from apple - Display super bright industry leading colour   accuracy and super responsive -Build quality as expect from apple sturdy  premium durable beautiful stylish. -Os most stable os in smartphone industry Cons -No 5G-Display is not based on OLED technology -Charger headphones and 1 apple stic...
-DEBUG:root:12806
-DEBUG:root:Manish Raghuvanshi
-DEBUG:root:
-
+DEBUG:root:4★
+ERROR:root:error
 DEBUG:root:Inside comment_box
 DEBUG:root:4
 DEBUG:root:Value-for-money
-DEBUG:root:I'm Really happy with the productDelivery was fast as well..it was a gift for my sister and she loved it so much.
-DEBUG:root:5120
-DEBUG:root:George Haokip
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Highly recommended
-DEBUG:root:It's my first time to use iOS phone and I am loving my upgradation 😍😍 I love the color, I love the assebility of the phone....I need to learn more about its functionality, but as far as I have seen, it's quite easy and it has a lot of functions to work on, specially if you are a content writer or a blogger you get a lot of content creation platforms and they are really amazing. This phone not only for good quality photography but a lot of other task too.😍💯
-DEBUG:root:1973
-DEBUG:root:Jimly  Gogoi
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Worth every penny
-DEBUG:root:Previously I was using one plus 3t it was a great phone And then I decided to upgrade I am stuck between Samsung s10 plus or iPhone 11 I have seen the specs and everything were good except the display it’s somewhere between 720-1080 and it’s not even an amoled it’s an LCD display But I decided to go with iPhone because I have never used an IOS device I have Been an android user from the past 9 years I ordered IPhone 11 (128gb) product redMy experience after using 3 weeks 1. The delivery ...
-DEBUG:root:12351
-DEBUG:root:Vamshi  Chakrala 
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Perfect product!
-DEBUG:root:Value for money5 star rating Excellent cameraBattery backup full day in single charge.Tougher and water resistant design, glossy back.The screen has excellent brightness and contrast.Apple A13 Bionic is the fastest smartphone chip on the planet.Excellent battery life, fast charging support.Stereo speakers with great quality.
-DEBUG:root:2801
-DEBUG:root:Chirag Rajput
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:5
-DEBUG:root:Highly recommended
-DEBUG:root:What a camera .....just awesome ..you can feel this iPhone just awesome . Good for gaming also ...try pubg in hd it’s just wow
-DEBUG:root:4965
-DEBUG:root:Vishal Dubey
-DEBUG:root:
-
-DEBUG:root:Inside comment_box
-DEBUG:root:4
-DEBUG:root:Pretty good
-DEBUG:root:I was using Iphone 6s and also Oneplus 6t. Both mobiles were perfectly alright in Photos, gaming, and smooth interface . My 6s mobile getting battery issue. thought upgrade to 11. Really like this mobile of its Internal storage (compare to 6s) , camera and its touch feeling. Its a worth buying mobile for me.
-DEBUG:root:1201
-DEBUG:root:vijay hegde
+DEBUG:root:Nice one
+DEBUG:root:10
+DEBUG:root:kelvin bruno
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
 DEBUG:root:5
 DEBUG:root:Great product
-DEBUG:root:Amazing Powerful and Durable Gadget.I’m am very happy with the camera picture quality, Amazing face id unlocked in dark room, Strong battery with perfect screen size as you can carry easily in pocket. This is my third iPhone. I shifted from android Samsung Note series to iPhone because of the strong build quality and peace of mind for next 3-4 years.Don’t think to much just go for it and I suggest you to go for minimum 128gb variant or more 256gb. I’ve attached my puppy pics and no fi...
-DEBUG:root:7890
-DEBUG:root:Rahul Verma
+DEBUG:root:To good 😀
+DEBUG:root:7
+DEBUG:root:Sunil Ilatwar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Nice product
+DEBUG:root:Quality is the best in this product. And power button and volume buttons was very strong
+DEBUG:root:6
+DEBUG:root:Gara Raja Sharan  Akhil Sandeep
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Perfect product!
+DEBUG:root:Fits perfectly. Good mobile cover at this price range. Also got the product delivered next day itself.
+DEBUG:root:2
+DEBUG:root:Mohammad Tasleem Arif
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Wonderful
+DEBUG:root:Nyc perfect fitting. Looking awesome
+DEBUG:root:3
+DEBUG:root:AJAY  SINGH
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:1
+DEBUG:root:Did not meet expectations
+DEBUG:root:Not bad but isme bubbles aarahe hai not fit this mobile
+DEBUG:root:7
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:2
+DEBUG:root:Could be way better
+DEBUG:root:Product fitting is not as good, causing bubble effect inside the case
+DEBUG:root:1
+DEBUG:root:Nidhin  K
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Just wow!
+DEBUG:root:Superb
+DEBUG:root:1
+DEBUG:root:Krishan Kumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Just wow!
+DEBUG:root:Very good product
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Classy product
+DEBUG:root:Looks ultimate
+DEBUG:root:1
+DEBUG:root:Niranjan kumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=2 HTTP/1.1" 200 None
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:4★
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Just wow!
+DEBUG:root:Good product
+DEBUG:root:1
+DEBUG:root:Anirban Sadhukhan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:3
+DEBUG:root:Fair
+DEBUG:root:Not bad
+DEBUG:root:1
+DEBUG:root:arun kumar pittala
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Best in the market!
+DEBUG:root:Nice
+DEBUG:root:1
+DEBUG:root:Sourav Sharma
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Best in the market!
+DEBUG:root:Good
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Must buy!
+DEBUG:root:Good luck
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:3
+DEBUG:root:Decent product
+DEBUG:root:Quality is not up to the mark
+DEBUG:root:0
+DEBUG:root:Mohd  Furkan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:3
+DEBUG:root:Good
+DEBUG:root:It’s a good product,but quality isn’t upto the mark.
+DEBUG:root:0
+DEBUG:root:Aabid Khan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Nice product
+DEBUG:root:Nice
+DEBUG:root:0
+DEBUG:root:Lokesh .N
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:1
+DEBUG:root:Worst experience ever!
+DEBUG:root:Not nyc
+DEBUG:root:0
+DEBUG:root:Anush  Yadav
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:1
+DEBUG:root:Don't waste your money
+DEBUG:root:Very bad product
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=3 HTTP/1.1" 200 None
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:4★
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Awesome
+DEBUG:root:Good cover
+DEBUG:root:0
+DEBUG:root:G Rahul Rahul
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Just wow!
+DEBUG:root:A good quality
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Terrific
+DEBUG:root:Impressive quality
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:1
+DEBUG:root:Unsatisfactory
+DEBUG:root:Not good
+DEBUG:root:0
+DEBUG:root:Ravi Singh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Perfect product!
+DEBUG:root:Nice product👍
+DEBUG:root:0
+DEBUG:root:Jagadesh.p
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Wonderful
+DEBUG:root:Good product
+DEBUG:root:0
+DEBUG:root:Mansuri Farhan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Super!
+DEBUG:root:Nice product,good quality 😇
+DEBUG:root:0
+DEBUG:root:Kiran Prince
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:3
+DEBUG:root:Fair
+DEBUG:root:Ok ok
+DEBUG:root:0
+DEBUG:root:Aakash Shelly
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:3
+DEBUG:root:Decent product
+DEBUG:root:Cover is no perfet
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Just wow!
+DEBUG:root:good
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=4 HTTP/1.1" 200 None
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:4★
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:3
+DEBUG:root:Good
+DEBUG:root:Ok
+DEBUG:root:0
+DEBUG:root:Janmajoy Karmakar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Excellent
+DEBUG:root:Good Quality 👍🏻
+DEBUG:root:0
+DEBUG:root:Mohd.Zaid 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Perfect product!
+DEBUG:root:Perfect fitting
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Perfect product!
+DEBUG:root:Awesome product
+DEBUG:root:0
+DEBUG:root:Himanshu Borah
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Brilliant
+DEBUG:root:Amazing Product! Sturdy and durable.
+DEBUG:root:0
+DEBUG:root:Swarnava Gan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Highly recommended
+DEBUG:root:Awesome yaar 😍
+DEBUG:root:0
+DEBUG:root:Vinod Kumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Super!
+DEBUG:root:Value for Money
+DEBUG:root:0
+DEBUG:root:Pranay Yadav
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Worth every penny
+DEBUG:root:Very nice
+DEBUG:root:0
+DEBUG:root:ezhil Selva
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:1
+DEBUG:root:Absolute rubbish!
+DEBUG:root:Low quality
+DEBUG:root:0
+DEBUG:root:shijith pk
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Awesome
+DEBUG:root:Super back cover
+DEBUG:root:0
+DEBUG:root:Burugu sandeep
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /micvir-back-cover-apple-iphone-11/product-reviews/itmd6651646281cf?pid=ACCG856NYKXDGZTK&lid=LSTACCG856NYKXDGZTKEEEVN2&marketplace=FLIPKART&page=5 HTTP/1.1" 200 None
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:4★
+ERROR:root:error
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Wonderful
+DEBUG:root:Nyc
+DEBUG:root:0
+DEBUG:root:KASHI SHIVAM
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Fabulous!
+DEBUG:root:Awesome Just go for it
+DEBUG:root:0
+DEBUG:root:DHINESH Jd
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Best in the market!
+DEBUG:root:Very much satisfied
+DEBUG:root:0
+DEBUG:root:Srilesh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Mind-blowing purchase
+DEBUG:root:Very good quality 👌👌 value of money
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Worth the money
+DEBUG:root:Nice product
+DEBUG:root:0
+DEBUG:root:prabhakar thalladi
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Terrific purchase
+DEBUG:root:Worth uhh❤️‍🔥❤️‍🔥
+DEBUG:root:0
+DEBUG:root:Karthi Keyan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:1
+DEBUG:root:Absolute rubbish!
+DEBUG:root:Very poor quality
+DEBUG:root:0
+DEBUG:root:pratik puri
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Fabulous!
+DEBUG:root:Outstanding... Products
+DEBUG:root:0
+DEBUG:root:Debasis Samal
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Excellent
+DEBUG:root:Worth
+DEBUG:root:0
+DEBUG:root:Mani Kandan
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Worth the money
+DEBUG:root:Nice
+DEBUG:root:0
+DEBUG:root:Harshajit Das
 DEBUG:root:
 
 DEBUG:root:Inside comment_box

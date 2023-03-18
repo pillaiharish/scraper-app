@@ -1,82 +1,402 @@
 {
-    "0": {
-        "name": "Flipkart Customer",
-        "customer_rating": "5",
-        "comment_header": "Simply awesome",
-        "customer_comment": "Really satisfied with the Product I received... It\u2019s totally genuine and the packaging was also really good so if ur planning to buy just go for it.",
-        "likes": "33772",
-        "dislikes": "4236"
-    },
-    "1": {
-        "name": "Flipkart Customer",
-        "customer_rating": "5",
-        "comment_header": "Perfect product!",
-        "customer_comment": "Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .",
-        "likes": "24125",
-        "dislikes": "3161"
-    },
-    "2": {
-        "name": "Manish Raghuvanshi",
-        "customer_rating": "5",
-        "comment_header": "Best in the market!",
-        "customer_comment": "Great iPhone very snappy experience as apple kind. Upgraded from iPhone 7. Pros-Camera top class - Battery top performed -Chipset no need to say as apple kind -Security as you expect from apple - Display super bright industry leading colour   accuracy and super responsive -Build quality as expect from apple sturdy  premium durable beautiful stylish. -Os most stable os in smartphone industry Cons -No 5G-Display is not based on OLED technology -Charger headphones and 1 apple stic...",
-        "likes": "12806",
-        "dislikes": "1680"
-    },
     "3": {
-        "name": "George Haokip",
+        "name": "kelvin bruno",
         "customer_rating": "4",
         "comment_header": "Value-for-money",
-        "customer_comment": "I'm Really happy with the productDelivery was fast as well..it was a gift for my sister and she loved it so much.",
-        "likes": "5120",
-        "dislikes": "658"
+        "customer_comment": "Nice one",
+        "likes": "10",
+        "dislikes": "0"
     },
     "4": {
-        "name": "Jimly  Gogoi",
-        "customer_rating": "5",
-        "comment_header": "Highly recommended",
-        "customer_comment": "It's my first time to use iOS phone and I am loving my upgradation \ud83d\ude0d\ud83d\ude0d I love the color, I love the assebility of the phone....I need to learn more about its functionality, but as far as I have seen, it's quite easy and it has a lot of functions to work on, specially if you are a content writer or a blogger you get a lot of content creation platforms and they are really amazing. This phone not only for good quality photography but a lot of other task too.\ud83d\ude0d\ud83d\udcaf",
-        "likes": "1973",
-        "dislikes": "251"
-    },
-    "5": {
-        "name": "Vamshi  Chakrala ",
-        "customer_rating": "5",
-        "comment_header": "Worth every penny",
-        "customer_comment": "Previously I was using one plus 3t it was a great phone And then I decided to upgrade I am stuck between Samsung s10 plus or iPhone 11 I have seen the specs and everything were good except the display it\u2019s somewhere between 720-1080 and it\u2019s not even an amoled it\u2019s an LCD display But I decided to go with iPhone because I have never used an IOS device I have Been an android user from the past 9 years I ordered IPhone 11 (128gb) product redMy experience after using 3 weeks 1. The delivery ...",
-        "likes": "12351",
-        "dislikes": "1725"
-    },
-    "6": {
-        "name": "Chirag Rajput",
-        "customer_rating": "5",
-        "comment_header": "Perfect product!",
-        "customer_comment": "Value for money5 star rating Excellent cameraBattery backup full day in single charge.Tougher and water resistant design, glossy back.The screen has excellent brightness and contrast.Apple A13 Bionic is the fastest smartphone chip on the planet.Excellent battery life, fast charging support.Stereo speakers with great quality.",
-        "likes": "2801",
-        "dislikes": "390"
-    },
-    "7": {
-        "name": "Vishal Dubey",
-        "customer_rating": "5",
-        "comment_header": "Highly recommended",
-        "customer_comment": "What a camera .....just awesome ..you can feel this iPhone just awesome . Good for gaming also ...try pubg in hd it\u2019s just wow",
-        "likes": "4965",
-        "dislikes": "720"
-    },
-    "8": {
-        "name": "vijay hegde",
-        "customer_rating": "4",
-        "comment_header": "Pretty good",
-        "customer_comment": "I was using Iphone 6s and also Oneplus 6t. Both mobiles were perfectly alright in Photos, gaming, and smooth interface . My 6s mobile getting battery issue. thought upgrade to 11. Really like this mobile of its Internal storage (compare to 6s) , camera and its touch feeling. Its a worth buying mobile for me.",
-        "likes": "1201",
-        "dislikes": "160"
-    },
-    "9": {
-        "name": "Rahul Verma",
+        "name": "Sunil Ilatwar",
         "customer_rating": "5",
         "comment_header": "Great product",
-        "customer_comment": "Amazing Powerful and Durable Gadget.I\u2019m am very happy with the camera picture quality, Amazing face id unlocked in dark room, Strong battery with perfect screen size as you can carry easily in pocket. This is my third iPhone. I shifted from android Samsung Note series to iPhone because of the strong build quality and peace of mind for next 3-4 years.Don\u2019t think to much just go for it and I suggest you to go for minimum 128gb variant or more 256gb. I\u2019ve attached my puppy pics and no fi...",
-        "likes": "7890",
-        "dislikes": "1189"
+        "customer_comment": "To good \ud83d\ude00",
+        "likes": "7",
+        "dislikes": "0"
+    },
+    "5": {
+        "name": "Gara Raja Sharan  Akhil Sandeep",
+        "customer_rating": "4",
+        "comment_header": "Nice product",
+        "customer_comment": "Quality is the best in this product. And power button and volume buttons was very strong",
+        "likes": "6",
+        "dislikes": "3"
+    },
+    "6": {
+        "name": "Mohammad Tasleem Arif",
+        "customer_rating": "5",
+        "comment_header": "Perfect product!",
+        "customer_comment": "Fits perfectly. Good mobile cover at this price range. Also got the product delivered next day itself.",
+        "likes": "2",
+        "dislikes": "0"
+    },
+    "7": {
+        "name": "AJAY  SINGH",
+        "customer_rating": "5",
+        "comment_header": "Wonderful",
+        "customer_comment": "Nyc perfect fitting. Looking awesome",
+        "likes": "3",
+        "dislikes": "1"
+    },
+    "8": {
+        "name": "Flipkart Customer",
+        "customer_rating": "1",
+        "comment_header": "Did not meet expectations",
+        "customer_comment": "Not bad but isme bubbles aarahe hai not fit this mobile",
+        "likes": "7",
+        "dislikes": "6"
+    },
+    "9": {
+        "name": "Nidhin  K",
+        "customer_rating": "2",
+        "comment_header": "Could be way better",
+        "customer_comment": "Product fitting is not as good, causing bubble effect inside the case",
+        "likes": "1",
+        "dislikes": "0"
+    },
+    "10": {
+        "name": "Krishan Kumar",
+        "customer_rating": "4",
+        "comment_header": "Just wow!",
+        "customer_comment": "Superb",
+        "likes": "1",
+        "dislikes": "0"
+    },
+    "11": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Just wow!",
+        "customer_comment": "Very good product",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "12": {
+        "name": "Niranjan kumar",
+        "customer_rating": "5",
+        "comment_header": "Classy product",
+        "customer_comment": "Looks ultimate",
+        "likes": "1",
+        "dislikes": "0"
+    },
+    "17": {
+        "name": "Anirban Sadhukhan",
+        "customer_rating": "5",
+        "comment_header": "Just wow!",
+        "customer_comment": "Good product",
+        "likes": "1",
+        "dislikes": "0"
+    },
+    "18": {
+        "name": "arun kumar pittala",
+        "customer_rating": "3",
+        "comment_header": "Fair",
+        "customer_comment": "Not bad",
+        "likes": "1",
+        "dislikes": "1"
+    },
+    "19": {
+        "name": "Sourav Sharma",
+        "customer_rating": "5",
+        "comment_header": "Best in the market!",
+        "customer_comment": "Nice",
+        "likes": "1",
+        "dislikes": "1"
+    },
+    "20": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Best in the market!",
+        "customer_comment": "Good",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "21": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Must buy!",
+        "customer_comment": "Good luck",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "22": {
+        "name": "Mohd  Furkan",
+        "customer_rating": "3",
+        "comment_header": "Decent product",
+        "customer_comment": "Quality is not up to the mark",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "23": {
+        "name": "Aabid Khan",
+        "customer_rating": "3",
+        "comment_header": "Good",
+        "customer_comment": "It\u2019s a good product,but quality isn\u2019t upto the mark.",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "24": {
+        "name": "Lokesh .N",
+        "customer_rating": "4",
+        "comment_header": "Nice product",
+        "customer_comment": "Nice",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "25": {
+        "name": "Anush  Yadav",
+        "customer_rating": "1",
+        "comment_header": "Worst experience ever!",
+        "customer_comment": "Not nyc",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "26": {
+        "name": "Flipkart Customer",
+        "customer_rating": "1",
+        "comment_header": "Don't waste your money",
+        "customer_comment": "Very bad product",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "31": {
+        "name": "G Rahul Rahul",
+        "customer_rating": "5",
+        "comment_header": "Awesome",
+        "customer_comment": "Good cover",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "32": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Just wow!",
+        "customer_comment": "A good quality",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "33": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Terrific",
+        "customer_comment": "Impressive quality",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "34": {
+        "name": "Ravi Singh",
+        "customer_rating": "1",
+        "comment_header": "Unsatisfactory",
+        "customer_comment": "Not good",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "35": {
+        "name": "Jagadesh.p",
+        "customer_rating": "5",
+        "comment_header": "Perfect product!",
+        "customer_comment": "Nice product\ud83d\udc4d",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "36": {
+        "name": "Mansuri Farhan",
+        "customer_rating": "4",
+        "comment_header": "Wonderful",
+        "customer_comment": "Good product",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "37": {
+        "name": "Kiran Prince",
+        "customer_rating": "5",
+        "comment_header": "Super!",
+        "customer_comment": "Nice product,good quality \ud83d\ude07",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "38": {
+        "name": "Aakash Shelly",
+        "customer_rating": "3",
+        "comment_header": "Fair",
+        "customer_comment": "Ok ok",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "39": {
+        "name": "Flipkart Customer",
+        "customer_rating": "3",
+        "comment_header": "Decent product",
+        "customer_comment": "Cover is no perfet",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "40": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Just wow!",
+        "customer_comment": "good",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "45": {
+        "name": "Janmajoy Karmakar",
+        "customer_rating": "3",
+        "comment_header": "Good",
+        "customer_comment": "Ok",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "46": {
+        "name": "Mohd.Zaid ",
+        "customer_rating": "5",
+        "comment_header": "Excellent",
+        "customer_comment": "Good Quality \ud83d\udc4d\ud83c\udffb",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "47": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Perfect product!",
+        "customer_comment": "Perfect fitting",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "48": {
+        "name": "Himanshu Borah",
+        "customer_rating": "5",
+        "comment_header": "Perfect product!",
+        "customer_comment": "Awesome product",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "49": {
+        "name": "Swarnava Gan",
+        "customer_rating": "5",
+        "comment_header": "Brilliant",
+        "customer_comment": "Amazing Product! Sturdy and durable.",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "50": {
+        "name": "Vinod Kumar",
+        "customer_rating": "5",
+        "comment_header": "Highly recommended",
+        "customer_comment": "Awesome yaar \ud83d\ude0d",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "51": {
+        "name": "Pranay Yadav",
+        "customer_rating": "5",
+        "comment_header": "Super!",
+        "customer_comment": "Value for Money",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "52": {
+        "name": "ezhil Selva",
+        "customer_rating": "5",
+        "comment_header": "Worth every penny",
+        "customer_comment": "Very nice",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "53": {
+        "name": "shijith pk",
+        "customer_rating": "1",
+        "comment_header": "Absolute rubbish!",
+        "customer_comment": "Low quality",
+        "likes": "0",
+        "dislikes": "1"
+    },
+    "54": {
+        "name": "Burugu sandeep",
+        "customer_rating": "5",
+        "comment_header": "Awesome",
+        "customer_comment": "Super back cover",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "59": {
+        "name": "KASHI SHIVAM",
+        "customer_rating": "5",
+        "comment_header": "Wonderful",
+        "customer_comment": "Nyc",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "60": {
+        "name": "DHINESH Jd",
+        "customer_rating": "5",
+        "comment_header": "Fabulous!",
+        "customer_comment": "Awesome Just go for it",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "61": {
+        "name": "Srilesh",
+        "customer_rating": "5",
+        "comment_header": "Best in the market!",
+        "customer_comment": "Very much satisfied",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "62": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Mind-blowing purchase",
+        "customer_comment": "Very good quality \ud83d\udc4c\ud83d\udc4c value of money",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "63": {
+        "name": "prabhakar thalladi",
+        "customer_rating": "4",
+        "comment_header": "Worth the money",
+        "customer_comment": "Nice product",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "64": {
+        "name": "Karthi Keyan",
+        "customer_rating": "5",
+        "comment_header": "Terrific purchase",
+        "customer_comment": "Worth uhh\u2764\ufe0f\u200d\ud83d\udd25\u2764\ufe0f\u200d\ud83d\udd25",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "65": {
+        "name": "pratik puri",
+        "customer_rating": "1",
+        "comment_header": "Absolute rubbish!",
+        "customer_comment": "Very poor quality",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "66": {
+        "name": "Debasis Samal",
+        "customer_rating": "5",
+        "comment_header": "Fabulous!",
+        "customer_comment": "Outstanding... Products",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "67": {
+        "name": "Mani Kandan",
+        "customer_rating": "5",
+        "comment_header": "Excellent",
+        "customer_comment": "Worth",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "68": {
+        "name": "Harshajit Das",
+        "customer_rating": "4",
+        "comment_header": "Worth the money",
+        "customer_comment": "Nice",
+        "likes": "0",
+        "dislikes": "0"
     }
 }

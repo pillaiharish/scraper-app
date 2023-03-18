@@ -1,0 +1,82 @@
+{
+    "0": {
+        "name": "kelvin bruno",
+        "customer_rating": "4",
+        "comment_header": "Value-for-money",
+        "customer_comment": "Nice one",
+        "likes": "10",
+        "dislikes": "0"
+    },
+    "1": {
+        "name": "Sunil Ilatwar",
+        "customer_rating": "5",
+        "comment_header": "Great product",
+        "customer_comment": "To good \ud83d\ude00",
+        "likes": "7",
+        "dislikes": "0"
+    },
+    "2": {
+        "name": "Gara Raja Sharan  Akhil Sandeep",
+        "customer_rating": "4",
+        "comment_header": "Nice product",
+        "customer_comment": "Quality is the best in this product. And power button and volume buttons was very strong",
+        "likes": "6",
+        "dislikes": "3"
+    },
+    "3": {
+        "name": "Mohammad Tasleem Arif",
+        "customer_rating": "5",
+        "comment_header": "Perfect product!",
+        "customer_comment": "Fits perfectly. Good mobile cover at this price range. Also got the product delivered next day itself.",
+        "likes": "2",
+        "dislikes": "0"
+    },
+    "4": {
+        "name": "AJAY  SINGH",
+        "customer_rating": "5",
+        "comment_header": "Wonderful",
+        "customer_comment": "Nyc perfect fitting. Looking awesome",
+        "likes": "3",
+        "dislikes": "1"
+    },
+    "5": {
+        "name": "Flipkart Customer",
+        "customer_rating": "1",
+        "comment_header": "Did not meet expectations",
+        "customer_comment": "Not bad but isme bubbles aarahe hai not fit this mobile",
+        "likes": "7",
+        "dislikes": "6"
+    },
+    "6": {
+        "name": "Nidhin  K",
+        "customer_rating": "2",
+        "comment_header": "Could be way better",
+        "customer_comment": "Product fitting is not as good, causing bubble effect inside the case",
+        "likes": "1",
+        "dislikes": "0"
+    },
+    "7": {
+        "name": "Krishan Kumar",
+        "customer_rating": "4",
+        "comment_header": "Just wow!",
+        "customer_comment": "Superb",
+        "likes": "1",
+        "dislikes": "0"
+    },
+    "8": {
+        "name": "Flipkart Customer",
+        "customer_rating": "5",
+        "comment_header": "Just wow!",
+        "customer_comment": "Very good product",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "9": {
+        "name": "Niranjan kumar",
+        "customer_rating": "5",
+        "comment_header": "Classy product",
+        "customer_comment": "Looks ultimate",
+        "likes": "1",
+        "dislikes": "0"
+    }
+}
