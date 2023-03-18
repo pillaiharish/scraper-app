@@ -1,0 +1,90 @@
+DEBUG:root:https://www.flipkart.com/search?q=iphone11
+DEBUG:root:33
+DEBUG:root:https://www.flipkart.com/apple-iphone-11-purple-128-gb/p/itmb7ca0b05522ff?pid=MOBFWQ6BEHFXGXGB&lid=LSTMOBFWQ6BEHFXGXGBIS2J2K&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BEHFXGXGB.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a 9th url is the first product link
+DEBUG:root:['https://www.flipkart.com/apple-iphone-11-white-64-gb/p/itmfc6a7091eb20b?pid=MOBFWQ6BVWVEH3XE&lid=LSTMOBFWQ6BVWVEH3XEMXQMLO&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BVWVEH3XE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-black-64-gb/p/itm4e5041ba101fd?pid=MOBFWQ6BXGJCEYNY&lid=LSTMOBFWQ6BXGJCEYNYZXSHRJ&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BXGJCEYNY.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-white-128-gb/p/itme32df47ea6742?pid=MOBFWQ6B7KKRXDDS&lid=LSTMOBFWQ6B7KKRXDDSULUZ0N&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6B7KKRXDDS.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-black-128-gb/p/itm8244e8d955aba?pid=MOBFWQ6BKRYBP5X8&lid=LSTMOBFWQ6BKRYBP5X8IBG6BS&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BKRYBP5X8.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-red-128-gb/p/itm8d14bd0e33a1c?pid=MOBFWQ6BEZTNK59G&lid=LSTMOBFWQ6BEZTNK59G4PTPDM&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BEZTNK59G.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-purple-64-gb/p/itm2b8d03427ddac?pid=MOBFWQ6BTFFJKGKE&lid=LSTMOBFWQ6BTFFJKGKEPGQVOJ&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_6&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BTFFJKGKE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-red-64-gb/p/itmc3935326f2feb?pid=MOBFWQ6BYYV3FCU7&lid=LSTMOBFWQ6BYYV3FCU74EMEKJ&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BYYV3FCU7.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-yellow-128-gb/p/itm7030edc9e100e?pid=MOBFWQ6BWTSBJSHY&lid=LSTMOBFWQ6BWTSBJSHYJG1Q5J&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BWTSBJSHY.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-green-64-gb/p/itm386a85013a3d1?pid=MOBFWQ6BHPMG29QM&lid=LSTMOBFWQ6BHPMG29QMMGHL6F&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BHPMG29QM.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-purple-128-gb/p/itmb7ca0b05522ff?pid=MOBFWQ6BEHFXGXGB&lid=LSTMOBFWQ6BEHFXGXGBIS2J2K&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BEHFXGXGB.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-green-128-gb/p/itm97529bbf640ca?pid=MOBFWQ6BHBKMH4BF&lid=LSTMOBFWQ6BHBKMH4BFPOHIFL&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BHBKMH4BF.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-yellow-64-gb/p/itm39b1a0ba9ddcb?pid=MOBFWQ6BWGX9VRFS&lid=LSTMOBFWQ6BWGX9VRFSRCZZAI&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BWGX9VRFS.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-6-space-grey-16-gb/p/itmefjg7mzcwjyhk?pid=MOBEYHZ2YAXZMF2J&lid=LSTMOBEYHZ2YAXZMF2JEVWVNC&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBEYHZ2YAXZMF2J.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-space-grey-64-gb/p/itme0101031155f8?pid=MOBFKCTSKDMKCGQS&lid=LSTMOBFKCTSKDMKCGQSOYFAJN&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSKDMKCGQS.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-midnight-green-64-gb/p/itmab1763b5ca244?pid=MOBFKCTSRYPAQNYT&lid=LSTMOBFKCTSRYPAQNYTHDWEGY&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSRYPAQNYT.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-silver-256-gb/p/itm08eae2709cac6?pid=MOBFKCTST7PU7BWR&lid=LSTMOBFKCTST7PU7BWRAQB29Z&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTST7PU7BWR.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-gold-64-gb/p/itm6ef18218efdf6?pid=MOBFKCTSAPAYNSGG&lid=LSTMOBFKCTSAPAYNSGGKWDGRM&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSAPAYNSGG.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-midnight-green-64-gb/p/itm471de0d2e8474?pid=MOBFKCTSN3TG3RFJ&lid=LSTMOBFKCTSN3TG3RFJS8GACU&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSN3TG3RFJ.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-space-grey-256-gb/p/itmbecef22a95790?pid=MOBFKCTSWGYSAS9X&lid=LSTMOBFKCTSWGYSAS9X2RHASU&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSWGYSAS9X.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-silver-512-gb/p/itmb5a9e1ed61050?pid=MOBFKCTSGSPD57DD&lid=LSTMOBFKCTSGSPD57DDNXGVJ7&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSGSPD57DD.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-gold-512-gb/p/itm29ba3b4eeb4d5?pid=MOBFKCTS7CGXBRYE&lid=LSTMOBFKCTS7CGXBRYEVDPFSF&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_21&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTS7CGXBRYE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-space-grey-512-gb/p/itmcd1f0ddbf1c21?pid=MOBFKCTSRTHRQTFT&lid=LSTMOBFKCTSRTHRQTFTSIZYYS&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_22&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSRTHRQTFT.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-space-grey-256-gb/p/itm2b63a650e32f7?pid=MOBFKCTSSXTRZZJD&lid=LSTMOBFKCTSSXTRZZJDH1HTO4&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_23&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTSSXTRZZJD.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a', 'https://www.flipkart.com/apple-iphone-11-pro-max-gold-256-gb/p/itm94c6536eefc46?pid=MOBFKCTS7HCHSPFH&lid=LSTMOBFKCTS7HCHSPFH8FVBCX&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_24&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFKCTS7HCHSPFH.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a']
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /apple-iphone-11-white-64-gb/p/itmfc6a7091eb20b?pid=MOBFWQ6BVWVEH3XE&lid=LSTMOBFWQ6BVWVEH3XEMXQMLO&marketplace=FLIPKART&q=iphone11&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=a71802d6-c829-4204-9237-008c1af21b54.MOBFWQ6BVWVEH3XE.SEARCH&ppt=None&ppn=None&ssid=58s9r6n1ow0000001679157318919&qH=d6db477051465f9a HTTP/1.1" 200 None
+DEBUG:root:5
+DEBUG:root:Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Simply awesome
+DEBUG:root:Really satisfied with the Product I received... It’s totally genuine and the packaging was also really good so if ur planning to buy just go for it.
+DEBUG:root:33772
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Perfect product!
+DEBUG:root:Amazing phone with great cameras and better battery which gives you the best performance. I just love the camera .
+DEBUG:root:24125
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Best in the market!
+DEBUG:root:Great iPhone very snappy experience as apple kind. Upgraded from iPhone 7. Pros-Camera top class - Battery top performed -Chipset no need to say as apple kind -Security as you expect from apple - Display super bright industry leading colour   accuracy and super responsive -Build quality as expect from apple sturdy  premium durable beautiful stylish. -Os most stable os in smartphone industry Cons -No 5G-Display is not based on OLED technology -Charger headphones and 1 apple stic...
+DEBUG:root:12806
+DEBUG:root:Manish Raghuvanshi
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Value-for-money
+DEBUG:root:I'm Really happy with the productDelivery was fast as well..it was a gift for my sister and she loved it so much.
+DEBUG:root:5120
+DEBUG:root:George Haokip
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Highly recommended
+DEBUG:root:It's my first time to use iOS phone and I am loving my upgradation 😍😍 I love the color, I love the assebility of the phone....I need to learn more about its functionality, but as far as I have seen, it's quite easy and it has a lot of functions to work on, specially if you are a content writer or a blogger you get a lot of content creation platforms and they are really amazing. This phone not only for good quality photography but a lot of other task too.😍💯
+DEBUG:root:1973
+DEBUG:root:Jimly  Gogoi
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Worth every penny
+DEBUG:root:Previously I was using one plus 3t it was a great phone And then I decided to upgrade I am stuck between Samsung s10 plus or iPhone 11 I have seen the specs and everything were good except the display it’s somewhere between 720-1080 and it’s not even an amoled it’s an LCD display But I decided to go with iPhone because I have never used an IOS device I have Been an android user from the past 9 years I ordered IPhone 11 (128gb) product redMy experience after using 3 weeks 1. The delivery ...
+DEBUG:root:12351
+DEBUG:root:Vamshi  Chakrala 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Perfect product!
+DEBUG:root:Value for money5 star rating Excellent cameraBattery backup full day in single charge.Tougher and water resistant design, glossy back.The screen has excellent brightness and contrast.Apple A13 Bionic is the fastest smartphone chip on the planet.Excellent battery life, fast charging support.Stereo speakers with great quality.
+DEBUG:root:2801
+DEBUG:root:Chirag Rajput
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Highly recommended
+DEBUG:root:What a camera .....just awesome ..you can feel this iPhone just awesome . Good for gaming also ...try pubg in hd it’s just wow
+DEBUG:root:4965
+DEBUG:root:Vishal Dubey
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Pretty good
+DEBUG:root:I was using Iphone 6s and also Oneplus 6t. Both mobiles were perfectly alright in Photos, gaming, and smooth interface . My 6s mobile getting battery issue. thought upgrade to 11. Really like this mobile of its Internal storage (compare to 6s) , camera and its touch feeling. Its a worth buying mobile for me.
+DEBUG:root:1201
+DEBUG:root:vijay hegde
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Great product
+DEBUG:root:Amazing Powerful and Durable Gadget.I’m am very happy with the camera picture quality, Amazing face id unlocked in dark room, Strong battery with perfect screen size as you can carry easily in pocket. This is my third iPhone. I shifted from android Samsung Note series to iPhone because of the strong build quality and peace of mind for next 3-4 years.Don’t think to much just go for it and I suggest you to go for minimum 128gb variant or more 256gb. I’ve attached my puppy pics and no fi...
+DEBUG:root:7890
+DEBUG:root:Rahul Verma
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+ERROR:root:error

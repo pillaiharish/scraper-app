@@ -1,0 +1,17 @@
+{
+    "url1":{
+      "title" : "title of url1",
+  
+      "review":{
+        "review1":["a","b","c"],
+        "upvote1" : 100,
+        "downvote1" : 100,
+        "review2":["a","b","c"],
+        "upvote2" : 100,
+        "downvote2" : 100      
+      }
+    },
+    "url2":{
+      
+    }
+  }
