@@ -168,6 +168,22 @@
         "dislikes": "15"
     },
     "21": {
+        "name": "Avinash Jagtap",
+        "customer_rating": "1",
+        "comment_header": "Absolute rubbish!",
+        "customer_comment": "Windows key not working",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "22": {
+        "name": "snehasish  ganguly",
+        "customer_rating": "1",
+        "comment_header": "Useless product",
+        "customer_comment": "Worst",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "23": {
         "name": "Akash Singh",
         "customer_rating": "5",
         "comment_header": "Mind-blowing purchase",
@@ -175,23 +191,23 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "22": {
-        "name": "Flipkart Customer",
-        "customer_rating": "5",
-        "comment_header": "Excellent",
-        "customer_comment": "Works perfectly",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "23": {
-        "name": "Sanjaya Kumar Garnayak",
-        "customer_rating": "5",
-        "comment_header": "Just wow!",
-        "customer_comment": "Good product",
-        "likes": "0",
-        "dislikes": "0"
-    },
     "24": {
+        "name": "Arvind Kumar",
+        "customer_rating": "5",
+        "comment_header": "Terrific purchase",
+        "customer_comment": "recommended",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "25": {
+        "name": "SREERAJ VN",
+        "customer_rating": "5",
+        "comment_header": "Classy product",
+        "customer_comment": "working, updated as genuine..",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "26": {
         "name": "Pankaj Maurya",
         "customer_rating": "1",
         "comment_header": "Useless product",
@@ -199,7 +215,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "25": {
+    "27": {
         "name": "Flipkart Customer",
         "customer_rating": "5",
         "comment_header": "Fabulous!",
@@ -207,7 +223,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "26": {
+    "28": {
         "name": "Tonmoy  Ghosh",
         "customer_rating": "5",
         "comment_header": "Mind-blowing purchase",
@@ -215,7 +231,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "27": {
+    "29": {
         "name": "Jagan S",
         "customer_rating": "5",
         "comment_header": "Great product",
@@ -223,7 +239,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "28": {
+    "30": {
         "name": "Yash Patil",
         "customer_rating": "5",
         "comment_header": "Super!",
@@ -231,7 +247,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "29": {
+    "31": {
         "name": "Sumit  Khurana",
         "customer_rating": "5",
         "comment_header": "Brilliant",
@@ -239,23 +255,23 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "30": {
-        "name": "Flipkart Customer",
+    "32": {
+        "name": "Arthisree",
+        "customer_rating": "5",
+        "comment_header": "Terrific purchase",
+        "customer_comment": "Go for it no doubts",
+        "likes": "0",
+        "dislikes": "0"
+    },
+    "33": {
+        "name": "Santosh Kumar Killi",
         "customer_rating": "5",
         "comment_header": "Perfect product!",
-        "customer_comment": "Fully worked",
+        "customer_comment": "Working fine.",
         "likes": "0",
         "dislikes": "0"
     },
-    "31": {
-        "name": "Samrat Roy",
-        "customer_rating": "5",
-        "comment_header": "Just wow!",
-        "customer_comment": "Genuine key.",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "32": {
+    "34": {
         "name": "DEBKUMAR MONDAL",
         "customer_rating": "4",
         "comment_header": "Good quality product",
@@ -263,7 +279,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "33": {
+    "35": {
         "name": "Nachikethus S R",
         "customer_rating": "5",
         "comment_header": "Good Support.",
@@ -271,7 +287,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "34": {
+    "36": {
         "name": "sunny nath",
         "customer_rating": "5",
         "comment_header": "Excellent",
@@ -279,7 +295,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "35": {
+    "37": {
         "name": "Shamim Khan",
         "customer_rating": "5",
         "comment_header": "Worth every penny",
@@ -287,7 +303,7 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "36": {
+    "38": {
         "name": "SHRIKANT LAKSHATTI",
         "customer_rating": "4",
         "comment_header": "Really Nice",
@@ -295,27 +311,11 @@
         "likes": "0",
         "dislikes": "0"
     },
-    "37": {
+    "39": {
         "name": "Ali haider Customer",
         "customer_rating": "5",
         "comment_header": "Best in the market!",
         "customer_comment": "Genuine windows",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "38": {
-        "name": "BIKASH GOURAV",
-        "customer_rating": "4",
-        "comment_header": "Nice product",
-        "customer_comment": "First I thought I was cheated but latter found genuine products",
-        "likes": "0",
-        "dislikes": "0"
-    },
-    "39": {
-        "name": "Ela  Tyagi",
-        "customer_rating": "5",
-        "comment_header": "Classy product",
-        "customer_comment": "Ok Fine!!!",
         "likes": "0",
         "dislikes": "0"
     }
