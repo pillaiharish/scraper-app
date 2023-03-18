@@ -24,7 +24,7 @@ def search_url(search_keywords,website=None):
     if website == None:
         website = "www.flipkart.com"
     website_url = f"https://{website}/"
-    search_keywords = search_keywords.replace(" ","%20")
+    search_keywords = search_keywords.replace(" ","")
     website_url_search = website_url + "search?q=" + search_keywords
     logging.debug(website_url_search)
     url_client = uReq(website_url_search)
@@ -85,46 +85,92 @@ def search_url(search_keywords,website=None):
             comment_box = request_products_html.find_all('div',{'class':'_1AtVbE col-12-12'}) # find all returns list
             # logging.debug(comment_box[0].div.div.div.div.text)
             # logging.debug(comment_box[0].div.div.find_all('div',{'class':''})[0].div.text)
-            del comment_box[0:5]
-            del comment_box[-1]
+            # del comment_box[0:5]
+            # del comment_box[-1]
             logging.info(f"Total number of comments in box: {len(comment_box)}")
-
             for j in comment_box:
                 logging.debug("Inside comment_box")
                 try:
                     # logging.debug(j.div.div.div.div.find('div',{'class':'_3LWZlK _1BLPMq'}).text) #'class':'_3LWZlK _1BLPMq' customer rating 
-                    logging.debug(j.div.div.div.div.div)
-                    logging.debug(j.div.div.div.div.p.text) # comment header 
-                    logging.debug(j.div.div.find_all('div',{'class':''})[0].div.text) # customer_comment
-                    logging.debug(j.find('div',{'class':'_1LmwT9'}).span.text) # likes
-                    logging.debug(j.find('p',{'class':'_2sc7ZR _2V5EHH'}).text) # customer name
+                    try:
+                        logging.debug(j.find_all('div',{'class':'_3LWZlK'})[0].text) # comment header 
+                    except:
+                        logging.debug("No rating")
+
+                    try: 
+                        logging.debug(j.div.div.find_all('div',{'class':''})[0].div.text) # customer_comment
+                    except:
+                        logging.debug("No comment")
+
+                    try:
+                        logging.debug(j.find('div',{'class':'_1LmwT9'}).span.text) # likes
+                    except:
+                        logging.debug("No likes")
+
+                    try:
+                        logging.debug(j.find('div',{'class':'_1LmwT9 pkR4jH'}).span.text) # dislikes
+                    except:
+                        logging.debug("No dislikes")
+
+                    try:    
+                        logging.debug(j.find('p',{'class':'_2sc7ZR _2V5EHH'}).text) # customer name
+                    except:
+                        logging.debug("No name")
+
                     logging.debug("\n")
 
                     index = count
                     temp_dict = dict()
-
                     name = "name" #+ str(count)
-                    temp_dict[name]= j.find('p',{'class':'_2sc7ZR _2V5EHH'}).text
+                    try:
+                        temp_dict[name]= j.find('p',{'class':'_2sc7ZR _2V5EHH'}).text
+                    except:
+                        temp_dict[name]="No name"
 
                     customer_rating = "customer_rating" #+ str(count)
-                    temp_dict[customer_rating]= j.div.div.div.div.div.text
-                    temp_dict[customer_rating] = temp_dict[customer_rating]
-                    
+                    try:
+                        temp_dict[customer_rating]= j.find_all('div',{'class':'_3LWZlK'})[0].text
+                        temp_dict[customer_rating] = temp_dict[customer_rating]
+                    except:
+                        temp_dict[customer_rating] = "No rating"
+
                     comment_header = "comment_header" #+ str(count)
-                    temp_dict[comment_header]= str(j.div.div.div.div.p.text)
-                    temp_dict[comment_header] = temp_dict[comment_header].replace('“','"').replace('”','"')
+                    try:
+                        temp_dict[comment_header]= str(j.div.div.div.div.p.text)
+                        temp_dict[comment_header] = temp_dict[comment_header].replace('“','"').replace('”','"')
+                    except:
+                        temp_dict[comment_header] = "No header"
 
                     customer_comment = "customer_comment" #+ str(count)
-                    temp_dict[customer_comment]= str(j.div.div.find_all('div',{'class':''})[0].div.text)
-                    temp_dict[customer_comment] = temp_dict[customer_comment].replace('“','"').replace('”','"')
+                    try:
+                        temp_dict[customer_comment]= str(j.div.div.find_all('div',{'class':''})[0].div.text)
+                        temp_dict[customer_comment] = temp_dict[customer_comment].replace('“','"').replace('”','"')
+                    except:
+                        temp_dict[customer_comment] = "No comment"
 
                     likes = "likes" #+ str(count)
-                    temp_dict[likes]= j.find('div',{'class':'_1LmwT9'}).span.text
+                    try:
+                        temp_dict[likes]= j.find('div',{'class':'_1LmwT9'}).span.text
+                    except:
+                        temp_dict[likes]= "No likes"
 
+                        
                     dislikes = "dislikes" #+ str(count)
-                    temp_dict[dislikes]= j.find('div',{'class':'_1LmwT9 pkR4jH'}).span.text
+                    try:
+                        temp_dict[dislikes]= j.find('div',{'class':'_1LmwT9 pkR4jH'}).span.text
+                    except:
+                        temp_dict[dislikes] = "No dislikes"
 
-                    comments_data[index] = temp_dict
+                    try:    
+                        comments_data[index] = temp_dict
+                    except:
+                        # comments_data[index] = {"name":"no name",        
+                        #                         "customer_rating": "No rating",
+                        #                         "comment_header": "No header",
+                        #                         "customer_comment": "No comment",
+                        #                         "likes": "No likes",
+                        #                         "dislikes": "No dislikes"}
+                        logging.debug("Error during indexing")
 
                 except AttributeError:
                     logging.error("error")
@@ -132,12 +178,14 @@ def search_url(search_keywords,website=None):
 
         
         # logging.debug(json.dumps(comments_data))
-    loop_review(5)
+    loop_review(10)
 
 
 
 search_url("windows 11")
 # search_url("iphone11")
-with open("output_json.json","w") as jd:
-    json.dump(comments_data,jd,indent=4)
-    
+try:
+    with open("output_json.json","w") as jd:
+        json.dump(comments_data,jd,indent=4)
+except:
+    logging.debug("Error creating json...")

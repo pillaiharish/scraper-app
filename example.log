@@ -1,346 +1,1161 @@
-DEBUG:root:https://www.flipkart.com/search?q=windows%2011
-DEBUG:root:10
-DEBUG:root:https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470 9th url is the first product link
-DEBUG:root:['https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-pro-home-education-install-repair-format-fix-your-16gb-pendrive/p/itm1563ed341126c?pid=OPSGEQE2HRHYMGMZ&lid=LSTOPSGEQE2HRHYMGMZCRFJDW&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGEQE2HRHYMGMZ.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-pro-home-education-install-repair-format-fix-your-16gb-pendrive/p/itm1563ed341126c?pid=OPSGEQE2HRHYMGMZ&lid=LSTOPSGEQE2HRHYMGMZCRFJDW&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGEQE2HRHYMGMZ.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-pro-home-education-install-repair-format-fix-your-16gb-pendrive/p/itm1563ed341126c?pid=OPSGEQE2HRHYMGMZ&lid=LSTOPSGEQE2HRHYMGMZCRFJDW&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGEQE2HRHYMGMZ.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-oem-dvd-pack-lifetime-validity-64-bit/p/itm3a981bbfd3974?pid=OPSGGC2265Z3BN6H&lid=LSTOPSGGC2265Z3BN6HAYBFX9&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGGC2265Z3BN6H.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-oem-dvd-pack-lifetime-validity-64-bit/p/itm3a981bbfd3974?pid=OPSGGC2265Z3BN6H&lid=LSTOPSGGC2265Z3BN6HAYBFX9&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGGC2265Z3BN6H.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-oem-dvd-pack-lifetime-validity-64-bit/p/itm3a981bbfd3974?pid=OPSGGC2265Z3BN6H&lid=LSTOPSGGC2265Z3BN6HAYBFX9&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGGC2265Z3BN6H.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470']
-DEBUG:root:length of sub urls: 30
+DEBUG:root:https://www.flipkart.com/search?q=windows11
+DEBUG:root:11
+DEBUG:root:https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6 9th url is the first product link
+DEBUG:root:['https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/daido-windows-11-professional-32-bit-64-activation-key/p/itm5f1468830c2db?pid=OPSG6PXP3XGCADFG&lid=LSTOPSG6PXP3XGCADFGRXONL8&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&spotlightTagId=TrendingId_6bo%2F5hp%2Fw63&srno=s_1_2&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSG6PXP3XGCADFG.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/techcity-windows-11-pro-32bit-64bit-activation-key/p/itm984d9586bb883?pid=OPSGJKADHUSYPYUW&lid=LSTOPSGJKADHUSYPYUWCMMXGI&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_3&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGJKADHUSYPYUW.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/wincial-windows-11-bootable-usb-activation-key-pro-home-education-install-repair-format-fix-your-pc-16gb-pendrive/p/itmf778589f6f327?pid=OPSGEQEH76PBMFRV&lid=LSTOPSGEQEH76PBMFRVFKOX2E&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_5&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGEQEH76PBMFRV.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/zukrka-windows-11-professional-oem-dvd-pack-64-bit/p/itmdeb24d2359af1?pid=OPSGM5RHKZUDXEME&lid=LSTOPSGM5RHKZUDXEMEOI7NDV&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_6&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGM5RHKZUDXEME.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/microsoft-windows-11-professional-box-pack-activation-key-card-including-usb-3-0-full-retail-32-bit-64-bit/p/itmfd90cbe95f8b3?pid=OPSGNSQZDH9DAKKB&lid=LSTOPSGNSQZDH9DAKKB2G2IX9&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGNSQZDH9DAKKB.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/microsoft-windows-11-professional-box-pack-activation-key-card-including-usb-3-0-full-retail-32-bit-64-bit/p/itmfd90cbe95f8b3?pid=OPSGNSQZDH9DAKKB&lid=LSTOPSGNSQZDH9DAKKB2G2IX9&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGNSQZDH9DAKKB.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/microsoft-windows-11-professional-box-pack-activation-key-card-including-usb-3-0-full-retail-32-bit-64-bit/p/itmfd90cbe95f8b3?pid=OPSGNSQZDH9DAKKB&lid=LSTOPSGNSQZDH9DAKKB2G2IX9&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_7&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGNSQZDH9DAKKB.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/glamtech-enterprises-windows-11-professional-oem-dvd/p/itm7c935c01d3682?pid=OPSGMFHZM2N83GGA&lid=LSTOPSGMFHZM2N83GGAL3GEXG&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_9&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGMFHZM2N83GGA.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/repex-windows-11-professional-oem-1-pc-lifetime-validity-64-bit/p/itm766a305c68f41?pid=OPSGMU9ZZX6GYW3H&lid=LSTOPSGMU9ZZX6GYW3HFJKRG2&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_10&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGMU9ZZX6GYW3H.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/softmart-2021-professional-32-64-bit/p/itm0bcb5eed6c2ac?pid=OPSGHR9FJQYSHYQY&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGHR9FJQYSHYQY.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/softmart-2021-professional-32-64-bit/p/itm0bcb5eed6c2ac?pid=OPSGHR9FJQYSHYQY&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGHR9FJQYSHYQY.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/softmart-2021-professional-32-64-bit/p/itm0bcb5eed6c2ac?pid=OPSGHR9FJQYSHYQY&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_11&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGHR9FJQYSHYQY.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/microsoft-windows-11-professional-1pc-user-32-64-bit-usb-3-0-full-retail-pack-64-32/p/itma32c42a938ac7?pid=OPSGJ2Z42FGGZE5B&lid=LSTOPSGJ2Z42FGGZE5BYHWOBK&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_12&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGJ2Z42FGGZE5B.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/avtrons-windows-11-pro-64-bit-setup-file-bootable-pendrive-gpt-uefi-non-csm-32bit-64bit/p/itm5a0089b185c12?pid=OPSGD3W8HKYZJ5ZT&lid=LSTOPSGD3W8HKYZJ5ZTMV06IU&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_13&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGD3W8HKYZJ5ZT.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/avtrons-windows-11-pro-64-bit-setup-file-bootable-pendrive-gpt-uefi-non-csm-32bit-64bit/p/itm5a0089b185c12?pid=OPSGD3W8HKYZJ5ZT&lid=LSTOPSGD3W8HKYZJ5ZTMV06IU&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_13&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGD3W8HKYZJ5ZT.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6', 'https://www.flipkart.com/avtrons-windows-11-pro-64-bit-setup-file-bootable-pendrive-gpt-uefi-non-csm-32bit-64bit/p/itm5a0089b185c12?pid=OPSGD3W8HKYZJ5ZT&lid=LSTOPSGD3W8HKYZJ5ZTMV06IU&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_13&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSGD3W8HKYZJ5ZT.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6']
+DEBUG:root:length of sub urls: 33
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
-DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows+11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=b7ed9bcd-6ed9-4dca-a465-34675771b425.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=5ywi3qnxrk0000001679171692728&qH=b4905fe909445470 HTTP/1.1" 200 None
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/p/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&q=windows11&store=6bo%2F5hp%2Fw63&srno=s_1_1&otracker=search&fm=organic&iid=e3040488-c56a-468d-864a-7df248d02fe7.OPSG98KZZ3HNFYK2.SEARCH&ppt=None&ppn=None&ssid=h8x0bw41o00000001679177918579&qH=3b567ed57c8e51f6 HTTP/1.1" 200 None
 INFO:root:Product reviews link is: ['/wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART']
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
 DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART HTTP/1.1" 200 None
 INFO:root:Product reviews Page numbers: 18
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
 DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=1 HTTP/1.1" 200 None
-INFO:root:Total number of comments in box: 8
+INFO:root:Total number of comments in box: 14
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Terrific
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:at first i had doubt regarding purchase . but later wow .. just awesome. my win 11 home updated to win 11 pro . its a retail key. life long. thank you
+DEBUG:root:15
+DEBUG:root:0
+DEBUG:root:gadgi  krishnakumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:They are reliable and cooperative. The key perfectly upgraded my oem windows 11 home 64 to windows11 pro 64. The upgraded windows 11 pro working properly after one month, i mean key is genuine. Thanks
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:mrinanka baruah
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
 DEBUG:root:Hassle free and pocket friendly.Thanx to seller.
 DEBUG:root:9
+DEBUG:root:1
 DEBUG:root:SUMIT KUMAR SINGH
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Super!
+DEBUG:root:5
 DEBUG:root:At first i thought should i buy windows 11 key from Flipkart bcz some trust issue but after purchasing  I used key on fresh installation and it works thanks wincial and Flipkart
 DEBUG:root:3
+DEBUG:root:0
 DEBUG:root:aditya Akhare
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Mind-blowing purchase
+DEBUG:root:5
 DEBUG:root:With this key i activated(upgraded) my win 11 home to win 11 pro, key worked perfectly.
 DEBUG:root:4
+DEBUG:root:1
 DEBUG:root:Ramu E
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Super!
+DEBUG:root:5
 DEBUG:root:First I was in doubt about windows license but after activating the key provided by this seller my laptop is upgraded from windows 11 home to Winodws 11 Pro as promised by the seller ( see attached screenshot ). Very simple process & take just about 5-10 minutes. Thank you.
 DEBUG:root:1
+DEBUG:root:0
 DEBUG:root:Ajay Pawar
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Terrific purchase
+DEBUG:root:5
 DEBUG:root:This is legit. I really did have my doubts, but now I've got an activated windows 11 pro copy. 10/10 would recommend.
 DEBUG:root:1
+DEBUG:root:0
 DEBUG:root:Flipkart Customer
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Classy product
+DEBUG:root:5
 DEBUG:root:Good and very helpful by the team during installation
 DEBUG:root:2
+DEBUG:root:0
 DEBUG:root:Antony  Dennis 
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Best in the market!
+DEBUG:root:5
 DEBUG:root:Best Ever Deal Got for become Genuine Microsoft Product User.Thanks 👍🏻
 DEBUG:root:1
+DEBUG:root:0
 DEBUG:root:Anand Prakash
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Must buy!
+DEBUG:root:5
 DEBUG:root:Successfully activated to windows 11 pro from windows 11 home edition. These keys are genuine. Go for it
+DEBUG:root:1
 DEBUG:root:1
 DEBUG:root:Tauseef  Ahmed
 DEBUG:root:
 
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
 DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=2 HTTP/1.1" 200 None
-INFO:root:Total number of comments in box: 8
+INFO:root:Total number of comments in box: 14
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Brilliant
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Got key in hard copy. Windows 11 pro activated in single click.First create Microsoft account and login in windows 11. Then activate windows, automatically it will be linked into account so next reinstall windows 11 pro will get activated
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Dayananda HK
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:I really don't understand how someone can give ORIGINAL KEYS for this price.It worked totally but i don't know how long it will be valid.Anyways Good
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Vignesh Mohan Kumar 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
 DEBUG:root:A good support team. The key provided was instantly recognised by Microsoft servers. Upgraded smoothly. No issues so far.
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Marvel Varghese
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Worth every penny
+DEBUG:root:5
 DEBUG:root:It was really Retail Key. Thanks to the seller as well as to Flipkart for Genuine Products.
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Davinder  sharma
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Best in the market!
+DEBUG:root:5
 DEBUG:root:With Wincial Key I got a solution to a prolonged problem with my laptop. The technician spent a considerable long time with me to solve my problem online. Now my laptop is fully operational.
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Samudra Bordoloi
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Terrific
+DEBUG:root:5
 DEBUG:root:Very easy, Excellent support from seller
 DEBUG:root:1
+DEBUG:root:0
 DEBUG:root:Thalib Kunhipurayil 
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Worth every penny
+DEBUG:root:5
 DEBUG:root:Genuine product 100% working
 DEBUG:root:1
+DEBUG:root:0
 DEBUG:root:RAHUL KUMAR
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Simply awesome
+DEBUG:root:5
 DEBUG:root:Best
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Arvind Singh
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Pretty good
+DEBUG:root:4
 DEBUG:root:Best product key
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Flipkart Customer
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Awesome
+DEBUG:root:5
 DEBUG:root:Very prompt and responsive vendor, highly recommended
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Jitendra Kukreja
 DEBUG:root:
 
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
 DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=3 HTTP/1.1" 200 None
-INFO:root:Total number of comments in box: 8
+INFO:root:Total number of comments in box: 14
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Perfect product!
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Excellent ..100% working..No problem till now
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:After getting the code by courier, the process to get the key was fast ! Good purchase !!
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
 DEBUG:root:Good
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Devendra  Kumar
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Excellent service.
+DEBUG:root:5
 DEBUG:root:Genuine.
+DEBUG:root:1
 DEBUG:root:1
 DEBUG:root:RAJIV THOMAS
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Nice product
+DEBUG:root:4
 DEBUG:root:Loved it  tks
+DEBUG:root:1
 DEBUG:root:1
 DEBUG:root:Ghulam Sarwar
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Unsatisfactory
+DEBUG:root:1
 DEBUG:root:It's not support ed
 DEBUG:root:1
+DEBUG:root:5
 DEBUG:root:varaprasad kanni
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Unsatisfactory
+DEBUG:root:1
 DEBUG:root:Worst product, no Bootable DVD or drive included totally waste of money
 DEBUG:root:1
+DEBUG:root:15
 DEBUG:root:Sagar kr.  Pradhan
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Absolute rubbish!
+DEBUG:root:1
 DEBUG:root:Windows key not working
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Avinash Jagtap
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Useless product
+DEBUG:root:1
 DEBUG:root:Worst
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:snehasish  ganguly
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Mind-blowing purchase
+DEBUG:root:5
 DEBUG:root:Excellent Product key is working perfectly
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Akash Singh
 DEBUG:root:
 
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
 DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=4 HTTP/1.1" 200 None
-INFO:root:Total number of comments in box: 8
+INFO:root:Total number of comments in box: 14
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Terrific purchase
-DEBUG:root:recommended
-DEBUG:root:0
-DEBUG:root:Arvind Kumar
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Classy product
-DEBUG:root:working, updated as genuine..
-DEBUG:root:0
-DEBUG:root:SREERAJ VN
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1rdVr6 _1BLPMq">1<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Useless product
-DEBUG:root:Don't buy this product not warking key
-DEBUG:root:0
-DEBUG:root:Pankaj Maurya
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Fabulous!
-DEBUG:root:It worked flawlessly. Just follow the steps mentioned. Thank you.
+DEBUG:root:5
+DEBUG:root:Works perfectly
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Flipkart Customer
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Mind-blowing purchase
+DEBUG:root:5
+DEBUG:root:Good product
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Sanjaya Kumar Garnayak
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:recommended
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Arvind Kumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:working, updated as genuine..
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:SREERAJ VN
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:1
+DEBUG:root:Don't buy this product not warking key
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Pankaj Maurya
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:It worked flawlessly. Just follow the steps mentioned. Thank you.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
 DEBUG:root:Wow! It's working really..
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Tonmoy  Ghosh
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Great product
+DEBUG:root:5
 DEBUG:root:yes original key
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Jagan S
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Super!
+DEBUG:root:5
 DEBUG:root:It's a genuine retail key, Windows got activated through digital license linked with Microsoft account
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Yash Patil
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Brilliant
+DEBUG:root:5
 DEBUG:root:Wonderful genuine update and that's all I can say and seller is very helpful in activating the product
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Sumit  Khurana
 DEBUG:root:
 
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
 DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
 DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=5 HTTP/1.1" 200 None
-INFO:root:Total number of comments in box: 8
+INFO:root:Total number of comments in box: 14
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Terrific purchase
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Fully worked
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Genuine key.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Samrat Roy
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
 DEBUG:root:Go for it no doubts
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Arthisree
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Perfect product!
+DEBUG:root:5
 DEBUG:root:Working fine.
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Santosh Kumar Killi
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Good quality product
+DEBUG:root:4
 DEBUG:root:Nice
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:DEBKUMAR MONDAL
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Good Support.
+DEBUG:root:5
 DEBUG:root:My Win 11 home laptop updated to win 11 Pro
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Nachikethus S R
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Excellent
+DEBUG:root:5
 DEBUG:root:Genuine product... Good service.
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:sunny nath
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Worth every penny
+DEBUG:root:5
 DEBUG:root:Genuine
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:Shamim Khan
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">4<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Really Nice
+DEBUG:root:4
 DEBUG:root:Genuine product at lowest price
+DEBUG:root:0
 DEBUG:root:0
 DEBUG:root:SHRIKANT LAKSHATTI
 DEBUG:root:
 
 DEBUG:root:Inside comment_box
-DEBUG:root:<div class="_3LWZlK _1BLPMq">5<img class="_1wB99o" src="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIxMyIgaGVpZ2h0PSIxMiI+PHBhdGggZmlsbD0iI0ZGRiIgZD0iTTYuNSA5LjQzOWwtMy42NzQgMi4yMy45NC00LjI2LTMuMjEtMi44ODMgNC4yNTQtLjQwNEw2LjUuMTEybDEuNjkgNC4wMSA0LjI1NC40MDQtMy4yMSAyLjg4Mi45NCA0LjI2eiIvPjwvc3ZnPg=="/></div>
-DEBUG:root:Best in the market!
+DEBUG:root:5
 DEBUG:root:Genuine windows
 DEBUG:root:0
+DEBUG:root:0
 DEBUG:root:Ali haider Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=6 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 14
+DEBUG:root:Inside comment_box
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:First I thought I was cheated but latter found genuine products
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:BIKASH GOURAV
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Ok Fine!!!
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Ela  Tyagi
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Genuine, Verygood response.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Viji Muthukumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Nice people
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Sadiqabbas Hirani
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:legit product, No issues when installing the product key
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Naren Desmond
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Good job
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Amitava Mondal
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:It's Genuine. Got quick response and great support. You can trust WINCIAL.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Sunilsetty  Rayudu
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Amazing purchase
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Aabhash Bhattacharya
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Genuine product. Go for it.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Nirupam  Mondal
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:It's Genuine Key
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=7 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 14
+DEBUG:root:Inside comment_box
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Activation key is working. Good service & support.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Ramachandra Prasad
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Working well thank you .
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Trushant Mehta
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Works fine.Can update windows like geniune one.Used this to upgrade my existing windows 11 home edition to Pro
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:MICHEAL CEAT
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:very satisfied 👌
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:MITHUN  GHOSH
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Worked perfectly fine.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Ajoy Lobo
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Thanks a lot
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:rahul kumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Excellent working 100% Genuine Key its Working   update my version windows Home to 11pro 😍🥳🥳👌👌
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Venkataratnam Nandikam
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Good
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Ramu Medisetti
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:100% genuine
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Md Anwar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Good support
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=8 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 14
+DEBUG:root:Inside comment_box
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Good product
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Nohan Reang
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Awesome service. Working Perfectly 11 pro .
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:God
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:It worked and i am able to convert my Windows 11 Home Edition to Pro Edition.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Baljeet Singh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Worked with windows 10 pro as well
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Ishan Datta
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Genuine product. Secure process to acquire key. and simple steps to active windows 11
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Piyush Sharma
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Works
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Nikhil Katke
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:The key is legitimate. It works. Very good product.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Gregory Jala  Kharbhih
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:worked
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Gurdan Singh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Thanks to helping me to activated windows 11 pro
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Naveen Bablani
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:When I ordered this I am worry about this But when it delivered and I use it on my windows it's perfectly worked.You can buy it
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Shubham Kumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=2 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 14
+DEBUG:root:Inside comment_box
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Got key in hard copy. Windows 11 pro activated in single click.First create Microsoft account and login in windows 11. Then activate windows, automatically it will be linked into account so next reinstall windows 11 pro will get activated
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Dayananda HK
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:I really don't understand how someone can give ORIGINAL KEYS for this price.It worked totally but i don't know how long it will be valid.Anyways Good
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Vignesh Mohan Kumar 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:A good support team. The key provided was instantly recognised by Microsoft servers. Upgraded smoothly. No issues so far.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Marvel Varghese
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:It was really Retail Key. Thanks to the seller as well as to Flipkart for Genuine Products.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Davinder  sharma
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:With Wincial Key I got a solution to a prolonged problem with my laptop. The technician spent a considerable long time with me to solve my problem online. Now my laptop is fully operational.
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Samudra Bordoloi
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Very easy, Excellent support from seller
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Thalib Kunhipurayil 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Genuine product 100% working
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:RAHUL KUMAR
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Best
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Arvind Singh
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:4
+DEBUG:root:Best product key
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Very prompt and responsive vendor, highly recommended
+DEBUG:root:0
+DEBUG:root:0
+DEBUG:root:Jitendra Kukreja
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:urllib3.connectionpool:Starting new HTTPS connection (1): www.flipkart.com:443
+DEBUG:urllib3.connectionpool:https://www.flipkart.com:443 "GET /wincial-windows-11-professional-32bit-64bit-activation-key/product-reviews/itmcf9b095d6b5a0?pid=OPSG98KZZ3HNFYK2&lid=LSTOPSG98KZZ3HNFYK2XJAUA1&marketplace=FLIPKART&page=1 HTTP/1.1" 200 None
+INFO:root:Total number of comments in box: 14
+DEBUG:root:Inside comment_box
+DEBUG:root:4.5
+DEBUG:root:
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:at first i had doubt regarding purchase . but later wow .. just awesome. my win 11 home updated to win 11 pro . its a retail key. life long. thank you
+DEBUG:root:15
+DEBUG:root:0
+DEBUG:root:gadgi  krishnakumar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:They are reliable and cooperative. The key perfectly upgraded my oem windows 11 home 64 to windows11 pro 64. The upgraded windows 11 pro working properly after one month, i mean key is genuine. Thanks
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:mrinanka baruah
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Hassle free and pocket friendly.Thanx to seller.
+DEBUG:root:9
+DEBUG:root:1
+DEBUG:root:SUMIT KUMAR SINGH
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:At first i thought should i buy windows 11 key from Flipkart bcz some trust issue but after purchasing  I used key on fresh installation and it works thanks wincial and Flipkart
+DEBUG:root:3
+DEBUG:root:0
+DEBUG:root:aditya Akhare
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:With this key i activated(upgraded) my win 11 home to win 11 pro, key worked perfectly.
+DEBUG:root:4
+DEBUG:root:1
+DEBUG:root:Ramu E
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:First I was in doubt about windows license but after activating the key provided by this seller my laptop is upgraded from windows 11 home to Winodws 11 Pro as promised by the seller ( see attached screenshot ). Very simple process & take just about 5-10 minutes. Thank you.
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Ajay Pawar
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:This is legit. I really did have my doubts, but now I've got an activated windows 11 pro copy. 10/10 would recommend.
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Flipkart Customer
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Good and very helpful by the team during installation
+DEBUG:root:2
+DEBUG:root:0
+DEBUG:root:Antony  Dennis 
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Best Ever Deal Got for become Genuine Microsoft Product User.Thanks 👍🏻
+DEBUG:root:1
+DEBUG:root:0
+DEBUG:root:Anand Prakash
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:5
+DEBUG:root:Successfully activated to windows 11 pro from windows 11 home edition. These keys are genuine. Go for it
+DEBUG:root:1
+DEBUG:root:1
+DEBUG:root:Tauseef  Ahmed
+DEBUG:root:
+
+DEBUG:root:Inside comment_box
+DEBUG:root:No rating
+DEBUG:root:No comment
+DEBUG:root:No likes
+DEBUG:root:No likes
+DEBUG:root:No name
 DEBUG:root:
 
