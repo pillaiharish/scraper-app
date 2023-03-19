@@ -7,7 +7,10 @@ from urllib.request import urlopen as uReq
 import logging,json
 
 
-logging.basicConfig(filename='example.log', filemode='w', level=logging.DEBUG)
+logging.basicConfig(filename='example.log', filemode='w', 
+                    format="%(asctime)s %(levelname)-8s %(message)s",
+                    level=logging.DEBUG,
+                    datefmt='%Y-%m-%d %H:%M:%S')
 
 # app = Flask(__name__)
 
