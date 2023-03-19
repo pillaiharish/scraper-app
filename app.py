@@ -181,8 +181,10 @@ def search_url(search_keywords,website=None):
 
         
         # logging.debug(json.dumps(comments_data))
-    loop_review(10)
-
+    try:
+        loop_review(10)
+    except:
+        print("ERROR")
 
 
 search_url("windows 11")
