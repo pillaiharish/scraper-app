@@ -27,7 +27,7 @@ def search_url():
         try:
             website = "www.flipkart.com"
             website_url = f"https://{website}/"
-            search_keywords = request.form['content'].replace(" ","")
+            search_keywords = request.form['content'].strip().replace(" ","%20")
             if search_keywords == "":
                 logging.debug("Empty string is requested")
                 return "The review cannot be scraped for empty string" 
@@ -184,7 +184,7 @@ def search_url():
                 
                 # logging.debug(json.dumps(comments_data))
             try:
-                loop_review(10)
+                loop_review(10) # 10 pages data scraped
             except Exception as e:
                 logging.debug("Review page not found due to: ",e)
             return render_template("results.html",reviews = comments_data)
