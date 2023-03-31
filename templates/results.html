@@ -21,6 +21,7 @@
 
    <table cellspacing="0">
       <tr>
+        <th>Prod. Name</th>
          <th>Cust. Name</th>
          <th>Rating</th>
          <th>Comment Heading</th>
@@ -30,6 +31,7 @@
       </tr>
          {% for review in reviews %}
       <tr>
+        <td>{{reviews[review]['prod_name']}}</td>
         <td>{{reviews[review]['name']}}</td>
         <td>{{reviews[review]['customer_rating']}}</td>
         <td>{{reviews[review]['comment_header']}}</td>

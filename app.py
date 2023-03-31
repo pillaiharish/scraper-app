@@ -5,6 +5,7 @@ from flask_cors import cross_origin,CORS
 import requests
 from urllib.request import urlopen as uReq
 import logging,json
+import csv
 
 
 logging.basicConfig(filename='example.log', filemode='w', 
@@ -26,6 +27,10 @@ def search_url():
     if request.method == 'POST':    
         try:
             website = "www.flipkart.com"
+            if request.environ.get('HTTP_X_FORWARDED_FOR') is None:
+                logging.info("IP address logging is "+request.environ['REMOTE_ADDR'])
+            else:
+                logging.info("IP address logging when proxy setup "+request.environ['HTTP_X_FORWARDED_FOR']) # if behind a proxy
             website_url = f"https://{website}/"
             search_keywords = request.form['content'].strip().replace(" ","%20")
             if search_keywords == "":
@@ -127,6 +132,8 @@ def search_url():
 
                             index = count
                             temp_dict = dict()
+                            
+                            temp_dict["prod_name"]= search_keywords.replace("%20","-")
                             name = "name" #+ str(count)
                             try:
                                 temp_dict[name]= j.find('p',{'class':'_2sc7ZR _2V5EHH'}).text
@@ -187,6 +194,10 @@ def search_url():
                 loop_review(10) # 10 pages data scraped
             except Exception as e:
                 logging.debug("Review page not found due to: ",e)
+            
+            with open(f'{search_keywords.replace("%20","-")}.csv', 'w') as f:
+                for key in comments_data.keys():
+                    f.write("%s,%s\n"%(key,comments_data[key]))
             return render_template("results.html",reviews = comments_data)
         except Exception as e:
             logging.debug("Caught the exception: ",e)
@@ -195,4 +206,4 @@ def search_url():
         return render_template("index.html")        
 
 if __name__ == "__main__":
-    app.run(debug=True,host="127.0.0.1",port=5010)
+    app.run(debug=True,host="127.0.0.1",port=5020)
