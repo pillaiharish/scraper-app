@@ -1,4 +1,1247 @@
-2023-03-21 11:38:36 WARNING   * Debugger is active!
-2023-03-21 11:38:36 INFO      * Debugger PIN: 138-609-858
-2023-03-21 11:38:40 DEBUG    Empty string is requested
-2023-03-21 11:38:40 INFO     127.0.0.1 - - [21/Mar/2023 11:38:40] "POST /review HTTP/1.1" 200 -
+2023-04-01 12:36:01 WARNING   * Debugger is active!
+2023-04-01 12:36:01 INFO      * Debugger PIN: 138-609-858
+2023-04-01 12:36:14 INFO     IP address logging is 127.0.0.1
+2023-04-01 12:36:14 DEBUG    URL POST request generated:  https://www.flipkart.com/search?q=iphone%2010
+2023-04-01 12:36:15 DEBUG    33
+2023-04-01 12:36:15 DEBUG    https://www.flipkart.com/apple-iphone-11-white-64-gb/p/itmfc6a7091eb20b?pid=MOBFWQ6BVWVEH3XE&lid=LSTMOBFWQ6BVWVEH3XEMXQMLO&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBFWQ6BVWVEH3XE.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4 9th url is the first product link
+2023-04-01 12:36:15 DEBUG    ['https://www.flipkart.com/apple-iphone-x-silver-64-gb/p/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBEXRGVF8NHMGXJ.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-x-silver-256-gb/p/itmexrgv4cgmrxxp?pid=MOBEXRGVVTMF9FYV&lid=LSTMOBEXRGVVTMF9FYVKHKOAY&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_2&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBEXRGVVTMF9FYV.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-x-space-gray-64-gb/p/itmexrgv6hctyrav?pid=MOBEXRGVCMGVCGGQ&lid=LSTMOBEXRGVCMGVCGGQFLD1LA&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_3&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBEXRGVCMGVCGGQ.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-x-space-gray-256-gb/p/itmf3syz84rypvwu?pid=MOBEXRGVCYGG2KXA&lid=LSTMOBEXRGVCYGG2KXANMBZHB&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_4&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBEXRGVCYGG2KXA.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-11-black-64-gb/p/itm4e5041ba101fd?pid=MOBFWQ6BXGJCEYNY&lid=LSTMOBFWQ6BXGJCEYNYZXSHRJ&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_5&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBFWQ6BXGJCEYNY.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-plus-midnight-128-gb/p/itm4199ea6bcd38b?pid=MOBGHWFH3JX6NWWY&lid=LSTMOBGHWFH3JX6NWWYRH38NG&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_6&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFH3JX6NWWY.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-starlight-128-gb/p/itm3485a56f6e676?pid=MOBGHWFHABH3G73H&lid=LSTMOBGHWFHABH3G73HVXY5AV&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_7&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHABH3G73H.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-11-black-128-gb/p/itm8244e8d955aba?pid=MOBFWQ6BKRYBP5X8&lid=LSTMOBFWQ6BKRYBP5X8IBG6BS&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_8&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBFWQ6BKRYBP5X8.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-midnight-128-gb/p/itm9e6293c322a84?pid=MOBGHWFHECFVMDCX&lid=LSTMOBGHWFHECFVMDCXBOYSND&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_9&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHECFVMDCX.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-11-white-64-gb/p/itmfc6a7091eb20b?pid=MOBFWQ6BVWVEH3XE&lid=LSTMOBFWQ6BVWVEH3XEMXQMLO&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_10&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBFWQ6BVWVEH3XE.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-plus-blue-128-gb/p/itmac8385391b02b?pid=MOBGHWFHUYWGB5F2&lid=LSTMOBGHWFHUYWGB5F2RJNHBM&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_11&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHUYWGB5F2.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-13-starlight-128-gb/p/itmc9604f122ae7f?pid=MOBG6VF5ADKHKXFX&lid=LSTMOBG6VF5ADKHKXFXQGX7PK&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_12&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBG6VF5ADKHKXFX.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-13-green-128-gb/p/itm18a55937b2607?pid=MOBGC9VGSU9DWGJZ&lid=LSTMOBGC9VGSU9DWGJZ0Q1T8E&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_13&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGC9VGSU9DWGJZ.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-purple-128-gb/p/itm0b581eba85e08?pid=MOBGHWFHQFSQYBFU&lid=LSTMOBGHWFHQFSQYBFU9AP8AR&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_14&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHQFSQYBFU.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-product-red-128-gb/p/itm1f78a4e1a1d76?pid=MOBGHWFHFBJVSW22&lid=LSTMOBGHWFHFBJVSW22H8TJ3V&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_15&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHFBJVSW22.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-plus-purple-128-gb/p/itm7a759a472d863?pid=MOBGHWFHYFJWRHAG&lid=LSTMOBGHWFHYFJWRHAGX1JLRZ&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_16&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHYFJWRHAG.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-blue-128-gb/p/itmdb77f40da6b6d?pid=MOBGHWFHSV7GUFWA&lid=LSTMOBGHWFHSV7GUFWAIB1T9P&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&spotlightTagId=BestsellerId_tyy%2F4io&srno=s_1_17&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHSV7GUFWA.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-11-white-128-gb/p/itme32df47ea6742?pid=MOBFWQ6B7KKRXDDS&lid=LSTMOBFWQ6B7KKRXDDSULUZ0N&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_18&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBFWQ6B7KKRXDDS.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-13-midnight-128-gb/p/itmca361aab1c5b0?pid=MOBG6VF5Q82T3XRS&lid=LSTMOBG6VF5Q82T3XRSOXJLM9&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_19&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBG6VF5Q82T3XRS.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-plus-product-red-256-gb/p/itm10fcca8adbdf9?pid=MOBGHWFHSGETUPHE&lid=LSTMOBGHWFHSGETUPHEACAHMP&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_20&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHSGETUPHE.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-plus-purple-256-gb/p/itm871debcfe760c?pid=MOBGHWFHNJZZRHEN&lid=LSTMOBGHWFHNJZZRHENTXU8TZ&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_21&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHNJZZRHEN.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-13-pink-128-gb/p/itm6e30c6ee045d2?pid=MOBG6VF5GXVFTQ5Y&lid=LSTMOBG6VF5GXVFTQ5YSGQY4O&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_22&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBG6VF5GXVFTQ5Y.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-14-starlight-256-gb/p/itmaeda15697bb79?pid=MOBGHWFHBJGZYRZC&lid=LSTMOBGHWFHBJGZYRZCN4ICRV&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_23&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBGHWFHBJGZYRZC.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4', 'https://www.flipkart.com/apple-iphone-11-red-128-gb/p/itm8d14bd0e33a1c?pid=MOBFWQ6BEZTNK59G&lid=LSTMOBFWQ6BEZTNK59G4PTPDM&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_24&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBFWQ6BEZTNK59G.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4']
+2023-04-01 12:36:15 DEBUG    length of sub urls: 24
+2023-04-01 12:36:15 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:16 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/p/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&marketplace=FLIPKART&q=iphone+10&store=tyy%2F4io&srno=s_1_1&otracker=search&fm=organic&iid=f14b182b-9cb8-42aa-ae74-ed012f3ba1c4.MOBEXRGVF8NHMGXJ.SEARCH&ppt=None&ppn=None&ssid=itoekfi18g0000001680332775107&qH=87b05b5d34665de4 HTTP/1.1" 200 None
+2023-04-01 12:36:16 INFO     Product reviews link is: ['/apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset', '/apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=3ac62744-ab96-4f53-82f7-02eb72b6a662&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Battery&cat=Mobile&vert=Handset', '/apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=b32e49f9-79fd-4798-98ad-51dd89a408d0&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Display&cat=Mobile&vert=Handset', '/apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=00ab4120-12b2-4a8f-b4e0-b426e17a27ca&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Design&cat=Mobile&vert=Handset', '/apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&marketplace=FLIPKART']
+2023-04-01 12:36:16 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:17 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset HTTP/1.1" 200 None
+2023-04-01 12:36:17 INFO     Product reviews Page numbers: 12
+2023-04-01 12:36:17 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:18 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=1 HTTP/1.1" 200 None
+2023-04-01 12:36:18 INFO     Total number of comments in box: 15
+2023-04-01 12:36:18 DEBUG    Inside comment_box
+2023-04-01 12:36:18 DEBUG    4.6
+2023-04-01 12:36:18 DEBUG    
+2023-04-01 12:36:18 DEBUG    No likes
+2023-04-01 12:36:18 DEBUG    No dislikes
+2023-04-01 12:36:18 DEBUG    No name
+2023-04-01 12:36:18 DEBUG    
+
+2023-04-01 12:36:19 DEBUG    Inside comment_box
+2023-04-01 12:36:19 DEBUG    No rating
+2023-04-01 12:36:19 DEBUG    No comment
+2023-04-01 12:36:19 DEBUG    No likes
+2023-04-01 12:36:19 DEBUG    No dislikes
+2023-04-01 12:36:19 DEBUG    No name
+2023-04-01 12:36:19 DEBUG    
+
+2023-04-01 12:36:19 DEBUG    Inside comment_box
+2023-04-01 12:36:19 DEBUG    No rating
+2023-04-01 12:36:19 DEBUG    No comment
+2023-04-01 12:36:19 DEBUG    No likes
+2023-04-01 12:36:19 DEBUG    No dislikes
+2023-04-01 12:36:19 DEBUG    No name
+2023-04-01 12:36:19 DEBUG    
+
+2023-04-01 12:36:20 DEBUG    Inside comment_box
+2023-04-01 12:36:20 DEBUG    No rating
+2023-04-01 12:36:20 DEBUG    No comment
+2023-04-01 12:36:20 DEBUG    No likes
+2023-04-01 12:36:20 DEBUG    No dislikes
+2023-04-01 12:36:20 DEBUG    No name
+2023-04-01 12:36:20 DEBUG    
+
+2023-04-01 12:36:20 DEBUG    Inside comment_box
+2023-04-01 12:36:20 DEBUG    No rating
+2023-04-01 12:36:20 DEBUG    ...camera otherwise no heating and no lagging.4. Camera is superb with portrait mode.5. Performance wise is the beast.6. Packaging
+2023-04-01 12:36:20 DEBUG    No likes
+2023-04-01 12:36:20 DEBUG    No dislikes
+2023-04-01 12:36:20 DEBUG    Chinmay nayak
+2023-04-01 12:36:20 DEBUG    
+
+2023-04-01 12:36:20 DEBUG    Inside comment_box
+2023-04-01 12:36:20 DEBUG    No rating
+2023-04-01 12:36:20 DEBUG    ...Its an amazing phone, the camera is osm,
+2023-04-01 12:36:20 DEBUG    No likes
+2023-04-01 12:36:20 DEBUG    No dislikes
+2023-04-01 12:36:20 DEBUG    Swapnil Kaithwas
+2023-04-01 12:36:20 DEBUG    
+
+2023-04-01 12:36:20 DEBUG    Inside comment_box
+2023-04-01 12:36:20 DEBUG    No rating
+2023-04-01 12:36:20 DEBUG    ...3.Camera quality is the best feature of this phone especially the edit tools r awesome
+2023-04-01 12:36:20 DEBUG    No likes
+2023-04-01 12:36:20 DEBUG    No dislikes
+2023-04-01 12:36:20 DEBUG    Saurav Prakash
+2023-04-01 12:36:20 DEBUG    
+
+2023-04-01 12:36:20 DEBUG    Inside comment_box
+2023-04-01 12:36:20 DEBUG    No rating
+2023-04-01 12:36:20 DEBUG    ...1. Camera is superb but apple software for camera is not enough to boost thos camera2
+2023-04-01 12:36:20 DEBUG    No likes
+2023-04-01 12:36:20 DEBUG    No dislikes
+2023-04-01 12:36:20 DEBUG    Chankel Pasricha
+2023-04-01 12:36:20 DEBUG    
+
+2023-04-01 12:36:21 DEBUG    Inside comment_box
+2023-04-01 12:36:21 DEBUG    No rating
+2023-04-01 12:36:21 DEBUG    ...Camera and its mode are awesome and do the magic on its own.
+2023-04-01 12:36:21 DEBUG    No likes
+2023-04-01 12:36:21 DEBUG    No dislikes
+2023-04-01 12:36:21 DEBUG    Prashant Gupta
+2023-04-01 12:36:21 DEBUG    
+
+2023-04-01 12:36:21 DEBUG    Inside comment_box
+2023-04-01 12:36:21 DEBUG    No rating
+2023-04-01 12:36:21 DEBUG    ...card . Very happy to have this iphone X. The best camera quality forever. Display quality is better than other smart
+2023-04-01 12:36:21 DEBUG    No likes
+2023-04-01 12:36:21 DEBUG    No dislikes
+2023-04-01 12:36:21 DEBUG    Prasanta Kumar Mishra
+2023-04-01 12:36:21 DEBUG    
+
+2023-04-01 12:36:22 DEBUG    Inside comment_box
+2023-04-01 12:36:22 DEBUG    No rating
+2023-04-01 12:36:22 DEBUG    ...cons:1. Camera is a little blurry and light effects are too bright.
+2023-04-01 12:36:22 DEBUG    No likes
+2023-04-01 12:36:22 DEBUG    No dislikes
+2023-04-01 12:36:22 DEBUG    Rijul Sharma
+2023-04-01 12:36:22 DEBUG    
+
+2023-04-01 12:36:22 DEBUG    Inside comment_box
+2023-04-01 12:36:22 DEBUG    No rating
+2023-04-01 12:36:22 DEBUG    ...Can recognise the face in dark, when wearing spectacles, wearing helmet(but wind wiser is open).iPhones are known for their cameras.
+2023-04-01 12:36:22 DEBUG    No likes
+2023-04-01 12:36:22 DEBUG    No dislikes
+2023-04-01 12:36:22 DEBUG    Dilip Gowda
+2023-04-01 12:36:22 DEBUG    
+
+2023-04-01 12:36:22 DEBUG    Inside comment_box
+2023-04-01 12:36:22 DEBUG    No rating
+2023-04-01 12:36:22 DEBUG    ...on  YouTube, net surfing and calling .Camera was such a great no xplanation as it is iphone. Buy apple x only from supercomnet gr8 dealer
+2023-04-01 12:36:22 DEBUG    No likes
+2023-04-01 12:36:22 DEBUG    No dislikes
+2023-04-01 12:36:22 DEBUG    Shailja Garg
+2023-04-01 12:36:22 DEBUG    
+
+2023-04-01 12:36:22 DEBUG    Inside comment_box
+2023-04-01 12:36:22 DEBUG    No rating
+2023-04-01 12:36:22 DEBUG    ...The camera portrait mode while taking pics is awesome & breathtaking.
+2023-04-01 12:36:22 DEBUG    No likes
+2023-04-01 12:36:22 DEBUG    No dislikes
+2023-04-01 12:36:22 DEBUG    Akshay Khare
+2023-04-01 12:36:22 DEBUG    
+
+2023-04-01 12:36:22 DEBUG    Inside comment_box
+2023-04-01 12:36:22 DEBUG    No rating
+2023-04-01 12:36:22 DEBUG    No comment
+2023-04-01 12:36:22 DEBUG    No likes
+2023-04-01 12:36:22 DEBUG    No dislikes
+2023-04-01 12:36:22 DEBUG    No name
+2023-04-01 12:36:22 DEBUG    
+
+2023-04-01 12:36:23 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:23 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=2 HTTP/1.1" 200 None
+2023-04-01 12:36:23 INFO     Total number of comments in box: 15
+2023-04-01 12:36:23 DEBUG    Inside comment_box
+2023-04-01 12:36:23 DEBUG    4.6
+2023-04-01 12:36:23 DEBUG    
+2023-04-01 12:36:23 DEBUG    No likes
+2023-04-01 12:36:23 DEBUG    No dislikes
+2023-04-01 12:36:23 DEBUG    No name
+2023-04-01 12:36:23 DEBUG    
+
+2023-04-01 12:36:24 DEBUG    Inside comment_box
+2023-04-01 12:36:24 DEBUG    No rating
+2023-04-01 12:36:24 DEBUG    No comment
+2023-04-01 12:36:24 DEBUG    No likes
+2023-04-01 12:36:24 DEBUG    No dislikes
+2023-04-01 12:36:24 DEBUG    No name
+2023-04-01 12:36:24 DEBUG    
+
+2023-04-01 12:36:24 DEBUG    Inside comment_box
+2023-04-01 12:36:24 DEBUG    No rating
+2023-04-01 12:36:24 DEBUG    No comment
+2023-04-01 12:36:24 DEBUG    No likes
+2023-04-01 12:36:24 DEBUG    No dislikes
+2023-04-01 12:36:24 DEBUG    No name
+2023-04-01 12:36:24 DEBUG    
+
+2023-04-01 12:36:24 DEBUG    Inside comment_box
+2023-04-01 12:36:24 DEBUG    No rating
+2023-04-01 12:36:24 DEBUG    No comment
+2023-04-01 12:36:24 DEBUG    No likes
+2023-04-01 12:36:24 DEBUG    No dislikes
+2023-04-01 12:36:24 DEBUG    No name
+2023-04-01 12:36:24 DEBUG    
+
+2023-04-01 12:36:25 DEBUG    Inside comment_box
+2023-04-01 12:36:25 DEBUG    No rating
+2023-04-01 12:36:25 DEBUG    ...the phone manual and setting up phone.3. Great camera.Cons :1. Batter could have been better
+2023-04-01 12:36:25 DEBUG    No likes
+2023-04-01 12:36:25 DEBUG    No dislikes
+2023-04-01 12:36:25 DEBUG    Ankita Singh
+2023-04-01 12:36:25 DEBUG    
+
+2023-04-01 12:36:25 DEBUG    Inside comment_box
+2023-04-01 12:36:25 DEBUG    No rating
+2023-04-01 12:36:25 DEBUG    ...As its a cheap product having so many features and good camera quality.
+2023-04-01 12:36:25 DEBUG    No likes
+2023-04-01 12:36:25 DEBUG    No dislikes
+2023-04-01 12:36:25 DEBUG    Samridhi Goyal
+2023-04-01 12:36:25 DEBUG    
+
+2023-04-01 12:36:25 DEBUG    Inside comment_box
+2023-04-01 12:36:25 DEBUG    No rating
+2023-04-01 12:36:25 DEBUG    ...Awsm camera ��🏻
+2023-04-01 12:36:25 DEBUG    No likes
+2023-04-01 12:36:25 DEBUG    No dislikes
+2023-04-01 12:36:25 DEBUG    Sunil Kumar
+2023-04-01 12:36:25 DEBUG    
+
+2023-04-01 12:36:25 DEBUG    Inside comment_box
+2023-04-01 12:36:25 DEBUG    No rating
+2023-04-01 12:36:25 DEBUG    ...iPhone X , its best iPhone you can have . Camera is much better then xr and xs. Only disappointing me is unavailablity esim
+2023-04-01 12:36:25 DEBUG    No likes
+2023-04-01 12:36:25 DEBUG    No dislikes
+2023-04-01 12:36:25 DEBUG    ARBIND KUMAR CHOUDHARY
+2023-04-01 12:36:25 DEBUG    
+
+2023-04-01 12:36:25 DEBUG    Inside comment_box
+2023-04-01 12:36:25 DEBUG    No rating
+2023-04-01 12:36:25 DEBUG    ...10/10Performance: 10/10Battery: 8/10Camera: 9/10
+2023-04-01 12:36:25 DEBUG    No likes
+2023-04-01 12:36:25 DEBUG    No dislikes
+2023-04-01 12:36:25 DEBUG    Sk Shahin Anjum
+2023-04-01 12:36:25 DEBUG    
+
+2023-04-01 12:36:26 DEBUG    Inside comment_box
+2023-04-01 12:36:26 DEBUG    No rating
+2023-04-01 12:36:26 DEBUG    ...phone for performance and daily life usage.But camera is ok ok type like other phones.
+2023-04-01 12:36:26 DEBUG    No likes
+2023-04-01 12:36:26 DEBUG    No dislikes
+2023-04-01 12:36:26 DEBUG    Soumya Sethy
+2023-04-01 12:36:26 DEBUG    
+
+2023-04-01 12:36:26 DEBUG    Inside comment_box
+2023-04-01 12:36:26 DEBUG    No rating
+2023-04-01 12:36:26 DEBUG    ...would buy thisnow performance is greatcamera is goodlow light pictures is greatits just first
+2023-04-01 12:36:26 DEBUG    No likes
+2023-04-01 12:36:26 DEBUG    No dislikes
+2023-04-01 12:36:26 DEBUG    Afif Hami
+2023-04-01 12:36:26 DEBUG    
+
+2023-04-01 12:36:27 DEBUG    Inside comment_box
+2023-04-01 12:36:27 DEBUG    No rating
+2023-04-01 12:36:27 DEBUG    ...It’s look  and size are very attractive ..Camera is outstanding The brand of apple is just costly bt it gives
+2023-04-01 12:36:27 DEBUG    No likes
+2023-04-01 12:36:27 DEBUG    No dislikes
+2023-04-01 12:36:27 DEBUG    Arun  Tomar
+2023-04-01 12:36:27 DEBUG    
+
+2023-04-01 12:36:27 DEBUG    Inside comment_box
+2023-04-01 12:36:27 DEBUG    No rating
+2023-04-01 12:36:27 DEBUG    ...Nice camera quality
+2023-04-01 12:36:27 DEBUG    No likes
+2023-04-01 12:36:27 DEBUG    No dislikes
+2023-04-01 12:36:27 DEBUG    Flipkart Customer
+2023-04-01 12:36:27 DEBUG    
+
+2023-04-01 12:36:27 DEBUG    Inside comment_box
+2023-04-01 12:36:27 DEBUG    No rating
+2023-04-01 12:36:27 DEBUG    ...camera all things in this phone r best. camera can be of better quality.
+2023-04-01 12:36:27 DEBUG    No likes
+2023-04-01 12:36:27 DEBUG    No dislikes
+2023-04-01 12:36:27 DEBUG    Flipkart Customer
+2023-04-01 12:36:27 DEBUG    
+
+2023-04-01 12:36:27 DEBUG    Inside comment_box
+2023-04-01 12:36:27 DEBUG    No rating
+2023-04-01 12:36:27 DEBUG    No comment
+2023-04-01 12:36:27 DEBUG    No likes
+2023-04-01 12:36:27 DEBUG    No dislikes
+2023-04-01 12:36:27 DEBUG    No name
+2023-04-01 12:36:27 DEBUG    
+
+2023-04-01 12:36:27 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:28 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=3 HTTP/1.1" 200 None
+2023-04-01 12:36:28 INFO     Total number of comments in box: 15
+2023-04-01 12:36:28 DEBUG    Inside comment_box
+2023-04-01 12:36:28 DEBUG    4.6
+2023-04-01 12:36:28 DEBUG    
+2023-04-01 12:36:28 DEBUG    No likes
+2023-04-01 12:36:28 DEBUG    No dislikes
+2023-04-01 12:36:28 DEBUG    No name
+2023-04-01 12:36:28 DEBUG    
+
+2023-04-01 12:36:28 DEBUG    Inside comment_box
+2023-04-01 12:36:28 DEBUG    No rating
+2023-04-01 12:36:28 DEBUG    No comment
+2023-04-01 12:36:28 DEBUG    No likes
+2023-04-01 12:36:28 DEBUG    No dislikes
+2023-04-01 12:36:28 DEBUG    No name
+2023-04-01 12:36:28 DEBUG    
+
+2023-04-01 12:36:28 DEBUG    Inside comment_box
+2023-04-01 12:36:28 DEBUG    No rating
+2023-04-01 12:36:28 DEBUG    No comment
+2023-04-01 12:36:28 DEBUG    No likes
+2023-04-01 12:36:28 DEBUG    No dislikes
+2023-04-01 12:36:28 DEBUG    No name
+2023-04-01 12:36:28 DEBUG    
+
+2023-04-01 12:36:29 DEBUG    Inside comment_box
+2023-04-01 12:36:29 DEBUG    No rating
+2023-04-01 12:36:29 DEBUG    No comment
+2023-04-01 12:36:29 DEBUG    No likes
+2023-04-01 12:36:29 DEBUG    No dislikes
+2023-04-01 12:36:29 DEBUG    No name
+2023-04-01 12:36:29 DEBUG    
+
+2023-04-01 12:36:29 DEBUG    Inside comment_box
+2023-04-01 12:36:29 DEBUG    No rating
+2023-04-01 12:36:29 DEBUG    ...Go for it! Camera is good! Flipkart delivery on time! �
+2023-04-01 12:36:29 DEBUG    No likes
+2023-04-01 12:36:29 DEBUG    No dislikes
+2023-04-01 12:36:29 DEBUG    Aishwarya
+2023-04-01 12:36:29 DEBUG    
+
+2023-04-01 12:36:29 DEBUG    Inside comment_box
+2023-04-01 12:36:29 DEBUG    No rating
+2023-04-01 12:36:29 DEBUG    ...heavy user)* pubg doesn’t lags Cons* camera is not that good* heats while playing games (pubg)* takes
+2023-04-01 12:36:29 DEBUG    No likes
+2023-04-01 12:36:29 DEBUG    No dislikes
+2023-04-01 12:36:29 DEBUG    Sumanth  Mahindrakar 
+2023-04-01 12:36:29 DEBUG    
+
+2023-04-01 12:36:29 DEBUG    Inside comment_box
+2023-04-01 12:36:29 DEBUG    No rating
+2023-04-01 12:36:29 DEBUG    ...best amoled display ...good camera...avg battery life ...great performance
+2023-04-01 12:36:29 DEBUG    No likes
+2023-04-01 12:36:29 DEBUG    No dislikes
+2023-04-01 12:36:29 DEBUG    P. Vamshi  Krishna
+2023-04-01 12:36:29 DEBUG    
+
+2023-04-01 12:36:29 DEBUG    Inside comment_box
+2023-04-01 12:36:29 DEBUG    No rating
+2023-04-01 12:36:29 DEBUG    ...nice camera.. good screen.. performance wise excellent
+2023-04-01 12:36:29 DEBUG    No likes
+2023-04-01 12:36:29 DEBUG    No dislikes
+2023-04-01 12:36:29 DEBUG    Dr. Sunny Chatwani
+2023-04-01 12:36:29 DEBUG    
+
+2023-04-01 12:36:30 DEBUG    Inside comment_box
+2023-04-01 12:36:30 DEBUG    No rating
+2023-04-01 12:36:30 DEBUG    ...haven’t experienced a better one so far. So is camera with its utter clarity
+2023-04-01 12:36:30 DEBUG    No likes
+2023-04-01 12:36:30 DEBUG    No dislikes
+2023-04-01 12:36:30 DEBUG    Flipkart Customer
+2023-04-01 12:36:30 DEBUG    
+
+2023-04-01 12:36:30 DEBUG    Inside comment_box
+2023-04-01 12:36:30 DEBUG    No rating
+2023-04-01 12:36:30 DEBUG    ...front camera not upto expectation .otherwise all things are awesome
+2023-04-01 12:36:30 DEBUG    No likes
+2023-04-01 12:36:30 DEBUG    No dislikes
+2023-04-01 12:36:30 DEBUG    Rishav Roy
+2023-04-01 12:36:30 DEBUG    
+
+2023-04-01 12:36:30 DEBUG    Inside comment_box
+2023-04-01 12:36:30 DEBUG    No rating
+2023-04-01 12:36:30 DEBUG    ...A phone you will fall in love with Buy it for :CameraPerformance Battery lifeStereo Speakers
+2023-04-01 12:36:30 DEBUG    No likes
+2023-04-01 12:36:30 DEBUG    No dislikes
+2023-04-01 12:36:30 DEBUG    Shiraz Khan
+2023-04-01 12:36:30 DEBUG    
+
+2023-04-01 12:36:30 DEBUG    Inside comment_box
+2023-04-01 12:36:30 DEBUG    No rating
+2023-04-01 12:36:30 DEBUG    ...Best phone I have purchased till date absolutely no lags and best camera version and great discount by Flipkart
+2023-04-01 12:36:30 DEBUG    No likes
+2023-04-01 12:36:30 DEBUG    No dislikes
+2023-04-01 12:36:30 DEBUG    Abhishek Tewari
+2023-04-01 12:36:30 DEBUG    
+
+2023-04-01 12:36:31 DEBUG    Inside comment_box
+2023-04-01 12:36:31 DEBUG    No rating
+2023-04-01 12:36:31 DEBUG    ...Camera and other new features is really very good in lighting condition overall very good performance.
+2023-04-01 12:36:31 DEBUG    No likes
+2023-04-01 12:36:31 DEBUG    No dislikes
+2023-04-01 12:36:31 DEBUG    Chirag Sachdeva
+2023-04-01 12:36:31 DEBUG    
+
+2023-04-01 12:36:31 DEBUG    Inside comment_box
+2023-04-01 12:36:31 DEBUG    No rating
+2023-04-01 12:36:31 DEBUG    ...I got a default product camera is not working tough is also not responsive  waste of money
+2023-04-01 12:36:31 DEBUG    No likes
+2023-04-01 12:36:31 DEBUG    No dislikes
+2023-04-01 12:36:31 DEBUG    apple appie
+2023-04-01 12:36:31 DEBUG    
+
+2023-04-01 12:36:31 DEBUG    Inside comment_box
+2023-04-01 12:36:31 DEBUG    No rating
+2023-04-01 12:36:31 DEBUG    No comment
+2023-04-01 12:36:31 DEBUG    No likes
+2023-04-01 12:36:31 DEBUG    No dislikes
+2023-04-01 12:36:31 DEBUG    No name
+2023-04-01 12:36:31 DEBUG    
+
+2023-04-01 12:36:31 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:32 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=4 HTTP/1.1" 200 None
+2023-04-01 12:36:32 INFO     Total number of comments in box: 15
+2023-04-01 12:36:32 DEBUG    Inside comment_box
+2023-04-01 12:36:32 DEBUG    4.6
+2023-04-01 12:36:32 DEBUG    
+2023-04-01 12:36:32 DEBUG    No likes
+2023-04-01 12:36:32 DEBUG    No dislikes
+2023-04-01 12:36:32 DEBUG    No name
+2023-04-01 12:36:32 DEBUG    
+
+2023-04-01 12:36:32 DEBUG    Inside comment_box
+2023-04-01 12:36:32 DEBUG    No rating
+2023-04-01 12:36:32 DEBUG    No comment
+2023-04-01 12:36:32 DEBUG    No likes
+2023-04-01 12:36:32 DEBUG    No dislikes
+2023-04-01 12:36:32 DEBUG    No name
+2023-04-01 12:36:32 DEBUG    
+
+2023-04-01 12:36:32 DEBUG    Inside comment_box
+2023-04-01 12:36:32 DEBUG    No rating
+2023-04-01 12:36:32 DEBUG    No comment
+2023-04-01 12:36:32 DEBUG    No likes
+2023-04-01 12:36:32 DEBUG    No dislikes
+2023-04-01 12:36:32 DEBUG    No name
+2023-04-01 12:36:32 DEBUG    
+
+2023-04-01 12:36:33 DEBUG    Inside comment_box
+2023-04-01 12:36:33 DEBUG    No rating
+2023-04-01 12:36:33 DEBUG    No comment
+2023-04-01 12:36:33 DEBUG    No likes
+2023-04-01 12:36:33 DEBUG    No dislikes
+2023-04-01 12:36:33 DEBUG    No name
+2023-04-01 12:36:33 DEBUG    
+
+2023-04-01 12:36:33 DEBUG    Inside comment_box
+2023-04-01 12:36:33 DEBUG    No rating
+2023-04-01 12:36:33 DEBUG    ...years agoApple phone always looks greatCamera performance is awesomeBattery backup is ok for the normal user
+2023-04-01 12:36:33 DEBUG    No likes
+2023-04-01 12:36:33 DEBUG    No dislikes
+2023-04-01 12:36:33 DEBUG    PARTHIBAN  R S
+2023-04-01 12:36:33 DEBUG    
+
+2023-04-01 12:36:33 DEBUG    Inside comment_box
+2023-04-01 12:36:33 DEBUG    No rating
+2023-04-01 12:36:33 DEBUG    ...facing lot of network issues on this phone. Portrait mode also not working . Kindly help in replacing the product
+2023-04-01 12:36:33 DEBUG    No likes
+2023-04-01 12:36:33 DEBUG    No dislikes
+2023-04-01 12:36:33 DEBUG    Flipkart Customer
+2023-04-01 12:36:33 DEBUG    
+
+2023-04-01 12:36:33 DEBUG    Inside comment_box
+2023-04-01 12:36:33 DEBUG    No rating
+2023-04-01 12:36:33 DEBUG    ...I was skeptical about the design at first but then you’ll be blown away by the camera performance.
+2023-04-01 12:36:33 DEBUG    No likes
+2023-04-01 12:36:33 DEBUG    No dislikes
+2023-04-01 12:36:33 DEBUG    Utkarsh
+2023-04-01 12:36:33 DEBUG    
+
+2023-04-01 12:36:34 DEBUG    Inside comment_box
+2023-04-01 12:36:34 DEBUG    No rating
+2023-04-01 12:36:34 DEBUG    ...Camera quality is awesome phone looks pretty cool and display makes u feel great.
+2023-04-01 12:36:34 DEBUG    No likes
+2023-04-01 12:36:34 DEBUG    No dislikes
+2023-04-01 12:36:34 DEBUG    Fahad Mahmood
+2023-04-01 12:36:34 DEBUG    
+
+2023-04-01 12:36:34 DEBUG    Inside comment_box
+2023-04-01 12:36:34 DEBUG    No rating
+2023-04-01 12:36:34 DEBUG    ...The camera display vis-a-vis other iPhone X placed next to it and when compared is much Dull.
+2023-04-01 12:36:34 DEBUG    No likes
+2023-04-01 12:36:34 DEBUG    No dislikes
+2023-04-01 12:36:34 DEBUG    Pragnesh Pandey
+2023-04-01 12:36:34 DEBUG    
+
+2023-04-01 12:36:34 DEBUG    Inside comment_box
+2023-04-01 12:36:34 DEBUG    No rating
+2023-04-01 12:36:34 DEBUG    ...Issue with Portrait mode in Night aprat from that phone works fine!
+2023-04-01 12:36:34 DEBUG    No likes
+2023-04-01 12:36:34 DEBUG    No dislikes
+2023-04-01 12:36:34 DEBUG    Ashish Singh
+2023-04-01 12:36:34 DEBUG    
+
+2023-04-01 12:36:34 DEBUG    Inside comment_box
+2023-04-01 12:36:34 DEBUG    No rating
+2023-04-01 12:36:34 DEBUG    ...  cons- battery life wrost cameras average according to price          no fast charger so takes a longer
+2023-04-01 12:36:34 DEBUG    No likes
+2023-04-01 12:36:34 DEBUG    No dislikes
+2023-04-01 12:36:34 DEBUG    Mohit Dalal
+2023-04-01 12:36:34 DEBUG    
+
+2023-04-01 12:36:34 DEBUG    Inside comment_box
+2023-04-01 12:36:34 DEBUG    No rating
+2023-04-01 12:36:34 DEBUG    ...Camera not work & voice break mobile very heat
+2023-04-01 12:36:34 DEBUG    No likes
+2023-04-01 12:36:34 DEBUG    No dislikes
+2023-04-01 12:36:34 DEBUG    Lalit Teotia
+2023-04-01 12:36:34 DEBUG    
+
+2023-04-01 12:36:35 DEBUG    Inside comment_box
+2023-04-01 12:36:35 DEBUG    No rating
+2023-04-01 12:36:35 DEBUG    ...One of the best iPhone after iPhone 6s. Improved battery, camera.
+2023-04-01 12:36:35 DEBUG    No likes
+2023-04-01 12:36:35 DEBUG    No dislikes
+2023-04-01 12:36:35 DEBUG    Avinash Malhotra
+2023-04-01 12:36:35 DEBUG    
+
+2023-04-01 12:36:35 DEBUG    Inside comment_box
+2023-04-01 12:36:35 DEBUG    No rating
+2023-04-01 12:36:35 DEBUG    ...The camera, the display, the software and the privacy features and the updates apple provides, it just never looks old.
+2023-04-01 12:36:35 DEBUG    No likes
+2023-04-01 12:36:35 DEBUG    No dislikes
+2023-04-01 12:36:35 DEBUG    Yash Sakaria
+2023-04-01 12:36:35 DEBUG    
+
+2023-04-01 12:36:35 DEBUG    Inside comment_box
+2023-04-01 12:36:35 DEBUG    No rating
+2023-04-01 12:36:35 DEBUG    No comment
+2023-04-01 12:36:35 DEBUG    No likes
+2023-04-01 12:36:35 DEBUG    No dislikes
+2023-04-01 12:36:35 DEBUG    No name
+2023-04-01 12:36:35 DEBUG    
+
+2023-04-01 12:36:35 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:36 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=5 HTTP/1.1" 200 None
+2023-04-01 12:36:36 INFO     Total number of comments in box: 15
+2023-04-01 12:36:36 DEBUG    Inside comment_box
+2023-04-01 12:36:36 DEBUG    4.6
+2023-04-01 12:36:36 DEBUG    
+2023-04-01 12:36:36 DEBUG    No likes
+2023-04-01 12:36:36 DEBUG    No dislikes
+2023-04-01 12:36:36 DEBUG    No name
+2023-04-01 12:36:36 DEBUG    
+
+2023-04-01 12:36:36 DEBUG    Inside comment_box
+2023-04-01 12:36:36 DEBUG    No rating
+2023-04-01 12:36:36 DEBUG    No comment
+2023-04-01 12:36:36 DEBUG    No likes
+2023-04-01 12:36:36 DEBUG    No dislikes
+2023-04-01 12:36:36 DEBUG    No name
+2023-04-01 12:36:36 DEBUG    
+
+2023-04-01 12:36:36 DEBUG    Inside comment_box
+2023-04-01 12:36:36 DEBUG    No rating
+2023-04-01 12:36:36 DEBUG    No comment
+2023-04-01 12:36:36 DEBUG    No likes
+2023-04-01 12:36:36 DEBUG    No dislikes
+2023-04-01 12:36:36 DEBUG    No name
+2023-04-01 12:36:36 DEBUG    
+
+2023-04-01 12:36:37 DEBUG    Inside comment_box
+2023-04-01 12:36:37 DEBUG    No rating
+2023-04-01 12:36:37 DEBUG    No comment
+2023-04-01 12:36:37 DEBUG    No likes
+2023-04-01 12:36:37 DEBUG    No dislikes
+2023-04-01 12:36:37 DEBUG    No name
+2023-04-01 12:36:37 DEBUG    
+
+2023-04-01 12:36:37 DEBUG    Inside comment_box
+2023-04-01 12:36:37 DEBUG    No rating
+2023-04-01 12:36:37 DEBUG    ...front camera is not up to the mark nd battery pertis very bad
+2023-04-01 12:36:37 DEBUG    No likes
+2023-04-01 12:36:37 DEBUG    No dislikes
+2023-04-01 12:36:37 DEBUG    Lalit Tekwanki
+2023-04-01 12:36:37 DEBUG    
+
+2023-04-01 12:36:37 DEBUG    Inside comment_box
+2023-04-01 12:36:37 DEBUG    No rating
+2023-04-01 12:36:37 DEBUG    ...It has great cameras and battery stays for long duration.
+2023-04-01 12:36:37 DEBUG    No likes
+2023-04-01 12:36:37 DEBUG    No dislikes
+2023-04-01 12:36:37 DEBUG    rajat sachdeva
+2023-04-01 12:36:37 DEBUG    
+
+2023-04-01 12:36:37 DEBUG    Inside comment_box
+2023-04-01 12:36:37 DEBUG    No rating
+2023-04-01 12:36:37 DEBUG    ...But it has amazing display with camera and phone is working fast and smooth.
+2023-04-01 12:36:37 DEBUG    No likes
+2023-04-01 12:36:37 DEBUG    No dislikes
+2023-04-01 12:36:37 DEBUG    Flipkart Customer
+2023-04-01 12:36:37 DEBUG    
+
+2023-04-01 12:36:38 DEBUG    Inside comment_box
+2023-04-01 12:36:38 DEBUG    No rating
+2023-04-01 12:36:38 DEBUG    ...Very good phone with amazing display with clear details and nice camera with face id is amazing with very good battery life
+2023-04-01 12:36:38 DEBUG    No likes
+2023-04-01 12:36:38 DEBUG    No dislikes
+2023-04-01 12:36:38 DEBUG    Pallavi  Divekar 
+2023-04-01 12:36:38 DEBUG    
+
+2023-04-01 12:36:38 DEBUG    Inside comment_box
+2023-04-01 12:36:38 DEBUG    No rating
+2023-04-01 12:36:38 DEBUG    ...Ultimate product, lucky to got it it 64999/ BBD SALE camera 5 star, siri, control panel, speed, processing all class.
+2023-04-01 12:36:38 DEBUG    No likes
+2023-04-01 12:36:38 DEBUG    No dislikes
+2023-04-01 12:36:38 DEBUG    Rishi Sharma
+2023-04-01 12:36:38 DEBUG    
+
+2023-04-01 12:36:38 DEBUG    Inside comment_box
+2023-04-01 12:36:38 DEBUG    No rating
+2023-04-01 12:36:38 DEBUG    ...Everything is awesome about this phone! Camera, performance, battery!
+2023-04-01 12:36:38 DEBUG    No likes
+2023-04-01 12:36:38 DEBUG    No dislikes
+2023-04-01 12:36:38 DEBUG    Aniket Guha Neogi 
+2023-04-01 12:36:38 DEBUG    
+
+2023-04-01 12:36:38 DEBUG    Inside comment_box
+2023-04-01 12:36:38 DEBUG    No rating
+2023-04-01 12:36:38 DEBUG    ...Phone is awesome but battery health is down by 4% within 1 month of use and phone is getting heated up while using camera.
+2023-04-01 12:36:38 DEBUG    No likes
+2023-04-01 12:36:38 DEBUG    No dislikes
+2023-04-01 12:36:38 DEBUG    yogesh gowda
+2023-04-01 12:36:38 DEBUG    
+
+2023-04-01 12:36:39 DEBUG    Inside comment_box
+2023-04-01 12:36:39 DEBUG    No rating
+2023-04-01 12:36:39 DEBUG    ...A11Bionic Chipset.Battery life is average.Supb daylight Shots On this
+2023-04-01 12:36:39 DEBUG    No likes
+2023-04-01 12:36:39 DEBUG    No dislikes
+2023-04-01 12:36:39 DEBUG    Sourav Kumar
+2023-04-01 12:36:39 DEBUG    
+
+2023-04-01 12:36:39 DEBUG    Inside comment_box
+2023-04-01 12:36:39 DEBUG    No rating
+2023-04-01 12:36:39 DEBUG    ...recognition and this phone is the top end iPhone. Feature rich, stable, glitch free.. love in all aspects. Battery life has improved
+2023-04-01 12:36:39 DEBUG    No likes
+2023-04-01 12:36:39 DEBUG    No dislikes
+2023-04-01 12:36:39 DEBUG    RAVI SHARMA
+2023-04-01 12:36:39 DEBUG    
+
+2023-04-01 12:36:39 DEBUG    Inside comment_box
+2023-04-01 12:36:39 DEBUG    No rating
+2023-04-01 12:36:39 DEBUG    ...nothing need detailed simply mersal ��😍�
+2023-04-01 12:36:39 DEBUG    No likes
+2023-04-01 12:36:39 DEBUG    No dislikes
+2023-04-01 12:36:39 DEBUG    venkatesan s
+2023-04-01 12:36:39 DEBUG    
+
+2023-04-01 12:36:39 DEBUG    Inside comment_box
+2023-04-01 12:36:39 DEBUG    No rating
+2023-04-01 12:36:39 DEBUG    No comment
+2023-04-01 12:36:39 DEBUG    No likes
+2023-04-01 12:36:39 DEBUG    No dislikes
+2023-04-01 12:36:39 DEBUG    No name
+2023-04-01 12:36:39 DEBUG    
+
+2023-04-01 12:36:39 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:40 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=2 HTTP/1.1" 200 None
+2023-04-01 12:36:40 INFO     Total number of comments in box: 15
+2023-04-01 12:36:40 DEBUG    Inside comment_box
+2023-04-01 12:36:40 DEBUG    4.6
+2023-04-01 12:36:40 DEBUG    
+2023-04-01 12:36:40 DEBUG    No likes
+2023-04-01 12:36:40 DEBUG    No dislikes
+2023-04-01 12:36:40 DEBUG    No name
+2023-04-01 12:36:40 DEBUG    
+
+2023-04-01 12:36:40 DEBUG    Inside comment_box
+2023-04-01 12:36:40 DEBUG    No rating
+2023-04-01 12:36:40 DEBUG    No comment
+2023-04-01 12:36:40 DEBUG    No likes
+2023-04-01 12:36:40 DEBUG    No dislikes
+2023-04-01 12:36:40 DEBUG    No name
+2023-04-01 12:36:40 DEBUG    
+
+2023-04-01 12:36:41 DEBUG    Inside comment_box
+2023-04-01 12:36:41 DEBUG    No rating
+2023-04-01 12:36:41 DEBUG    No comment
+2023-04-01 12:36:41 DEBUG    No likes
+2023-04-01 12:36:41 DEBUG    No dislikes
+2023-04-01 12:36:41 DEBUG    No name
+2023-04-01 12:36:41 DEBUG    
+
+2023-04-01 12:36:41 DEBUG    Inside comment_box
+2023-04-01 12:36:41 DEBUG    No rating
+2023-04-01 12:36:41 DEBUG    No comment
+2023-04-01 12:36:41 DEBUG    No likes
+2023-04-01 12:36:41 DEBUG    No dislikes
+2023-04-01 12:36:41 DEBUG    No name
+2023-04-01 12:36:41 DEBUG    
+
+2023-04-01 12:36:41 DEBUG    Inside comment_box
+2023-04-01 12:36:41 DEBUG    No rating
+2023-04-01 12:36:41 DEBUG    ...the phone manual and setting up phone.3. Great camera.Cons :1. Batter could have been better
+2023-04-01 12:36:41 DEBUG    No likes
+2023-04-01 12:36:41 DEBUG    No dislikes
+2023-04-01 12:36:41 DEBUG    Ankita Singh
+2023-04-01 12:36:41 DEBUG    
+
+2023-04-01 12:36:41 DEBUG    Inside comment_box
+2023-04-01 12:36:41 DEBUG    No rating
+2023-04-01 12:36:41 DEBUG    ...As its a cheap product having so many features and good camera quality.
+2023-04-01 12:36:41 DEBUG    No likes
+2023-04-01 12:36:41 DEBUG    No dislikes
+2023-04-01 12:36:41 DEBUG    Samridhi Goyal
+2023-04-01 12:36:41 DEBUG    
+
+2023-04-01 12:36:42 DEBUG    Inside comment_box
+2023-04-01 12:36:42 DEBUG    No rating
+2023-04-01 12:36:42 DEBUG    ...Awsm camera ��🏻
+2023-04-01 12:36:42 DEBUG    No likes
+2023-04-01 12:36:42 DEBUG    No dislikes
+2023-04-01 12:36:42 DEBUG    Sunil Kumar
+2023-04-01 12:36:42 DEBUG    
+
+2023-04-01 12:36:42 DEBUG    Inside comment_box
+2023-04-01 12:36:42 DEBUG    No rating
+2023-04-01 12:36:42 DEBUG    ...iPhone X , its best iPhone you can have . Camera is much better then xr and xs. Only disappointing me is unavailablity esim
+2023-04-01 12:36:42 DEBUG    No likes
+2023-04-01 12:36:42 DEBUG    No dislikes
+2023-04-01 12:36:42 DEBUG    ARBIND KUMAR CHOUDHARY
+2023-04-01 12:36:42 DEBUG    
+
+2023-04-01 12:36:42 DEBUG    Inside comment_box
+2023-04-01 12:36:42 DEBUG    No rating
+2023-04-01 12:36:42 DEBUG    ...10/10Performance: 10/10Battery: 8/10Camera: 9/10
+2023-04-01 12:36:42 DEBUG    No likes
+2023-04-01 12:36:42 DEBUG    No dislikes
+2023-04-01 12:36:42 DEBUG    Sk Shahin Anjum
+2023-04-01 12:36:42 DEBUG    
+
+2023-04-01 12:36:42 DEBUG    Inside comment_box
+2023-04-01 12:36:42 DEBUG    No rating
+2023-04-01 12:36:42 DEBUG    ...phone for performance and daily life usage.But camera is ok ok type like other phones.
+2023-04-01 12:36:42 DEBUG    No likes
+2023-04-01 12:36:42 DEBUG    No dislikes
+2023-04-01 12:36:42 DEBUG    Soumya Sethy
+2023-04-01 12:36:42 DEBUG    
+
+2023-04-01 12:36:42 DEBUG    Inside comment_box
+2023-04-01 12:36:42 DEBUG    No rating
+2023-04-01 12:36:42 DEBUG    ...would buy thisnow performance is greatcamera is goodlow light pictures is greatits just first
+2023-04-01 12:36:42 DEBUG    No likes
+2023-04-01 12:36:42 DEBUG    No dislikes
+2023-04-01 12:36:42 DEBUG    Afif Hami
+2023-04-01 12:36:42 DEBUG    
+
+2023-04-01 12:36:43 DEBUG    Inside comment_box
+2023-04-01 12:36:43 DEBUG    No rating
+2023-04-01 12:36:43 DEBUG    ...It’s look  and size are very attractive ..Camera is outstanding The brand of apple is just costly bt it gives
+2023-04-01 12:36:43 DEBUG    No likes
+2023-04-01 12:36:43 DEBUG    No dislikes
+2023-04-01 12:36:43 DEBUG    Arun  Tomar
+2023-04-01 12:36:43 DEBUG    
+
+2023-04-01 12:36:43 DEBUG    Inside comment_box
+2023-04-01 12:36:43 DEBUG    No rating
+2023-04-01 12:36:43 DEBUG    ...Nice camera quality
+2023-04-01 12:36:43 DEBUG    No likes
+2023-04-01 12:36:43 DEBUG    No dislikes
+2023-04-01 12:36:43 DEBUG    Flipkart Customer
+2023-04-01 12:36:43 DEBUG    
+
+2023-04-01 12:36:43 DEBUG    Inside comment_box
+2023-04-01 12:36:43 DEBUG    No rating
+2023-04-01 12:36:43 DEBUG    ...camera all things in this phone r best. camera can be of better quality.
+2023-04-01 12:36:43 DEBUG    No likes
+2023-04-01 12:36:43 DEBUG    No dislikes
+2023-04-01 12:36:43 DEBUG    Flipkart Customer
+2023-04-01 12:36:43 DEBUG    
+
+2023-04-01 12:36:43 DEBUG    Inside comment_box
+2023-04-01 12:36:43 DEBUG    No rating
+2023-04-01 12:36:43 DEBUG    No comment
+2023-04-01 12:36:43 DEBUG    No likes
+2023-04-01 12:36:43 DEBUG    No dislikes
+2023-04-01 12:36:43 DEBUG    No name
+2023-04-01 12:36:43 DEBUG    
+
+2023-04-01 12:36:44 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:44 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=1 HTTP/1.1" 200 None
+2023-04-01 12:36:44 INFO     Total number of comments in box: 15
+2023-04-01 12:36:44 DEBUG    Inside comment_box
+2023-04-01 12:36:44 DEBUG    4.6
+2023-04-01 12:36:44 DEBUG    
+2023-04-01 12:36:44 DEBUG    No likes
+2023-04-01 12:36:44 DEBUG    No dislikes
+2023-04-01 12:36:44 DEBUG    No name
+2023-04-01 12:36:44 DEBUG    
+
+2023-04-01 12:36:45 DEBUG    Inside comment_box
+2023-04-01 12:36:45 DEBUG    No rating
+2023-04-01 12:36:45 DEBUG    No comment
+2023-04-01 12:36:45 DEBUG    No likes
+2023-04-01 12:36:45 DEBUG    No dislikes
+2023-04-01 12:36:45 DEBUG    No name
+2023-04-01 12:36:45 DEBUG    
+
+2023-04-01 12:36:45 DEBUG    Inside comment_box
+2023-04-01 12:36:45 DEBUG    No rating
+2023-04-01 12:36:45 DEBUG    No comment
+2023-04-01 12:36:45 DEBUG    No likes
+2023-04-01 12:36:45 DEBUG    No dislikes
+2023-04-01 12:36:45 DEBUG    No name
+2023-04-01 12:36:45 DEBUG    
+
+2023-04-01 12:36:45 DEBUG    Inside comment_box
+2023-04-01 12:36:45 DEBUG    No rating
+2023-04-01 12:36:45 DEBUG    No comment
+2023-04-01 12:36:45 DEBUG    No likes
+2023-04-01 12:36:45 DEBUG    No dislikes
+2023-04-01 12:36:45 DEBUG    No name
+2023-04-01 12:36:45 DEBUG    
+
+2023-04-01 12:36:45 DEBUG    Inside comment_box
+2023-04-01 12:36:45 DEBUG    No rating
+2023-04-01 12:36:45 DEBUG    ...camera otherwise no heating and no lagging.4. Camera is superb with portrait mode.5. Performance wise is the beast.6. Packaging
+2023-04-01 12:36:45 DEBUG    No likes
+2023-04-01 12:36:45 DEBUG    No dislikes
+2023-04-01 12:36:45 DEBUG    Chinmay nayak
+2023-04-01 12:36:45 DEBUG    
+
+2023-04-01 12:36:46 DEBUG    Inside comment_box
+2023-04-01 12:36:46 DEBUG    No rating
+2023-04-01 12:36:46 DEBUG    ...Its an amazing phone, the camera is osm,
+2023-04-01 12:36:46 DEBUG    No likes
+2023-04-01 12:36:46 DEBUG    No dislikes
+2023-04-01 12:36:46 DEBUG    Swapnil Kaithwas
+2023-04-01 12:36:46 DEBUG    
+
+2023-04-01 12:36:46 DEBUG    Inside comment_box
+2023-04-01 12:36:46 DEBUG    No rating
+2023-04-01 12:36:46 DEBUG    ...3.Camera quality is the best feature of this phone especially the edit tools r awesome
+2023-04-01 12:36:46 DEBUG    No likes
+2023-04-01 12:36:46 DEBUG    No dislikes
+2023-04-01 12:36:46 DEBUG    Saurav Prakash
+2023-04-01 12:36:46 DEBUG    
+
+2023-04-01 12:36:46 DEBUG    Inside comment_box
+2023-04-01 12:36:46 DEBUG    No rating
+2023-04-01 12:36:46 DEBUG    ...1. Camera is superb but apple software for camera is not enough to boost thos camera2
+2023-04-01 12:36:46 DEBUG    No likes
+2023-04-01 12:36:46 DEBUG    No dislikes
+2023-04-01 12:36:46 DEBUG    Chankel Pasricha
+2023-04-01 12:36:46 DEBUG    
+
+2023-04-01 12:36:46 DEBUG    Inside comment_box
+2023-04-01 12:36:46 DEBUG    No rating
+2023-04-01 12:36:46 DEBUG    ...Camera and its mode are awesome and do the magic on its own.
+2023-04-01 12:36:46 DEBUG    No likes
+2023-04-01 12:36:46 DEBUG    No dislikes
+2023-04-01 12:36:46 DEBUG    Prashant Gupta
+2023-04-01 12:36:46 DEBUG    
+
+2023-04-01 12:36:46 DEBUG    Inside comment_box
+2023-04-01 12:36:46 DEBUG    No rating
+2023-04-01 12:36:46 DEBUG    ...card . Very happy to have this iphone X. The best camera quality forever. Display quality is better than other smart
+2023-04-01 12:36:47 DEBUG    No likes
+2023-04-01 12:36:47 DEBUG    No dislikes
+2023-04-01 12:36:47 DEBUG    Prasanta Kumar Mishra
+2023-04-01 12:36:47 DEBUG    
+
+2023-04-01 12:36:47 DEBUG    Inside comment_box
+2023-04-01 12:36:47 DEBUG    No rating
+2023-04-01 12:36:47 DEBUG    ...cons:1. Camera is a little blurry and light effects are too bright.
+2023-04-01 12:36:47 DEBUG    No likes
+2023-04-01 12:36:47 DEBUG    No dislikes
+2023-04-01 12:36:47 DEBUG    Rijul Sharma
+2023-04-01 12:36:47 DEBUG    
+
+2023-04-01 12:36:47 DEBUG    Inside comment_box
+2023-04-01 12:36:47 DEBUG    No rating
+2023-04-01 12:36:47 DEBUG    ...Can recognise the face in dark, when wearing spectacles, wearing helmet(but wind wiser is open).iPhones are known for their cameras.
+2023-04-01 12:36:47 DEBUG    No likes
+2023-04-01 12:36:47 DEBUG    No dislikes
+2023-04-01 12:36:47 DEBUG    Dilip Gowda
+2023-04-01 12:36:47 DEBUG    
+
+2023-04-01 12:36:47 DEBUG    Inside comment_box
+2023-04-01 12:36:47 DEBUG    No rating
+2023-04-01 12:36:47 DEBUG    ...on  YouTube, net surfing and calling .Camera was such a great no xplanation as it is iphone. Buy apple x only from supercomnet gr8 dealer
+2023-04-01 12:36:47 DEBUG    No likes
+2023-04-01 12:36:47 DEBUG    No dislikes
+2023-04-01 12:36:47 DEBUG    Shailja Garg
+2023-04-01 12:36:47 DEBUG    
+
+2023-04-01 12:36:47 DEBUG    Inside comment_box
+2023-04-01 12:36:47 DEBUG    No rating
+2023-04-01 12:36:47 DEBUG    ...The camera portrait mode while taking pics is awesome & breathtaking.
+2023-04-01 12:36:47 DEBUG    No likes
+2023-04-01 12:36:47 DEBUG    No dislikes
+2023-04-01 12:36:47 DEBUG    Akshay Khare
+2023-04-01 12:36:47 DEBUG    
+
+2023-04-01 12:36:48 DEBUG    Inside comment_box
+2023-04-01 12:36:48 DEBUG    No rating
+2023-04-01 12:36:48 DEBUG    No comment
+2023-04-01 12:36:48 DEBUG    No likes
+2023-04-01 12:36:48 DEBUG    No dislikes
+2023-04-01 12:36:48 DEBUG    No name
+2023-04-01 12:36:48 DEBUG    
+
+2023-04-01 12:36:48 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:49 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=2 HTTP/1.1" 200 None
+2023-04-01 12:36:49 INFO     Total number of comments in box: 15
+2023-04-01 12:36:49 DEBUG    Inside comment_box
+2023-04-01 12:36:49 DEBUG    4.6
+2023-04-01 12:36:49 DEBUG    
+2023-04-01 12:36:49 DEBUG    No likes
+2023-04-01 12:36:49 DEBUG    No dislikes
+2023-04-01 12:36:49 DEBUG    No name
+2023-04-01 12:36:49 DEBUG    
+
+2023-04-01 12:36:49 DEBUG    Inside comment_box
+2023-04-01 12:36:49 DEBUG    No rating
+2023-04-01 12:36:49 DEBUG    No comment
+2023-04-01 12:36:49 DEBUG    No likes
+2023-04-01 12:36:49 DEBUG    No dislikes
+2023-04-01 12:36:49 DEBUG    No name
+2023-04-01 12:36:49 DEBUG    
+
+2023-04-01 12:36:49 DEBUG    Inside comment_box
+2023-04-01 12:36:49 DEBUG    No rating
+2023-04-01 12:36:49 DEBUG    No comment
+2023-04-01 12:36:49 DEBUG    No likes
+2023-04-01 12:36:49 DEBUG    No dislikes
+2023-04-01 12:36:49 DEBUG    No name
+2023-04-01 12:36:49 DEBUG    
+
+2023-04-01 12:36:50 DEBUG    Inside comment_box
+2023-04-01 12:36:50 DEBUG    No rating
+2023-04-01 12:36:50 DEBUG    No comment
+2023-04-01 12:36:50 DEBUG    No likes
+2023-04-01 12:36:50 DEBUG    No dislikes
+2023-04-01 12:36:50 DEBUG    No name
+2023-04-01 12:36:50 DEBUG    
+
+2023-04-01 12:36:50 DEBUG    Inside comment_box
+2023-04-01 12:36:50 DEBUG    No rating
+2023-04-01 12:36:50 DEBUG    ...the phone manual and setting up phone.3. Great camera.Cons :1. Batter could have been better
+2023-04-01 12:36:50 DEBUG    No likes
+2023-04-01 12:36:50 DEBUG    No dislikes
+2023-04-01 12:36:50 DEBUG    Ankita Singh
+2023-04-01 12:36:50 DEBUG    
+
+2023-04-01 12:36:50 DEBUG    Inside comment_box
+2023-04-01 12:36:50 DEBUG    No rating
+2023-04-01 12:36:50 DEBUG    ...As its a cheap product having so many features and good camera quality.
+2023-04-01 12:36:50 DEBUG    No likes
+2023-04-01 12:36:50 DEBUG    No dislikes
+2023-04-01 12:36:50 DEBUG    Samridhi Goyal
+2023-04-01 12:36:50 DEBUG    
+
+2023-04-01 12:36:50 DEBUG    Inside comment_box
+2023-04-01 12:36:50 DEBUG    No rating
+2023-04-01 12:36:50 DEBUG    ...Awsm camera ��🏻
+2023-04-01 12:36:50 DEBUG    No likes
+2023-04-01 12:36:50 DEBUG    No dislikes
+2023-04-01 12:36:50 DEBUG    Sunil Kumar
+2023-04-01 12:36:50 DEBUG    
+
+2023-04-01 12:36:51 DEBUG    Inside comment_box
+2023-04-01 12:36:51 DEBUG    No rating
+2023-04-01 12:36:51 DEBUG    ...iPhone X , its best iPhone you can have . Camera is much better then xr and xs. Only disappointing me is unavailablity esim
+2023-04-01 12:36:51 DEBUG    No likes
+2023-04-01 12:36:51 DEBUG    No dislikes
+2023-04-01 12:36:51 DEBUG    ARBIND KUMAR CHOUDHARY
+2023-04-01 12:36:51 DEBUG    
+
+2023-04-01 12:36:51 DEBUG    Inside comment_box
+2023-04-01 12:36:51 DEBUG    No rating
+2023-04-01 12:36:51 DEBUG    ...10/10Performance: 10/10Battery: 8/10Camera: 9/10
+2023-04-01 12:36:51 DEBUG    No likes
+2023-04-01 12:36:51 DEBUG    No dislikes
+2023-04-01 12:36:51 DEBUG    Sk Shahin Anjum
+2023-04-01 12:36:51 DEBUG    
+
+2023-04-01 12:36:51 DEBUG    Inside comment_box
+2023-04-01 12:36:51 DEBUG    No rating
+2023-04-01 12:36:51 DEBUG    ...phone for performance and daily life usage.But camera is ok ok type like other phones.
+2023-04-01 12:36:51 DEBUG    No likes
+2023-04-01 12:36:51 DEBUG    No dislikes
+2023-04-01 12:36:51 DEBUG    Soumya Sethy
+2023-04-01 12:36:51 DEBUG    
+
+2023-04-01 12:36:51 DEBUG    Inside comment_box
+2023-04-01 12:36:51 DEBUG    No rating
+2023-04-01 12:36:51 DEBUG    ...would buy thisnow performance is greatcamera is goodlow light pictures is greatits just first
+2023-04-01 12:36:51 DEBUG    No likes
+2023-04-01 12:36:51 DEBUG    No dislikes
+2023-04-01 12:36:51 DEBUG    Afif Hami
+2023-04-01 12:36:51 DEBUG    
+
+2023-04-01 12:36:51 DEBUG    Inside comment_box
+2023-04-01 12:36:51 DEBUG    No rating
+2023-04-01 12:36:51 DEBUG    ...It’s look  and size are very attractive ..Camera is outstanding The brand of apple is just costly bt it gives
+2023-04-01 12:36:51 DEBUG    No likes
+2023-04-01 12:36:51 DEBUG    No dislikes
+2023-04-01 12:36:51 DEBUG    Arun  Tomar
+2023-04-01 12:36:51 DEBUG    
+
+2023-04-01 12:36:52 DEBUG    Inside comment_box
+2023-04-01 12:36:52 DEBUG    No rating
+2023-04-01 12:36:52 DEBUG    ...Nice camera quality
+2023-04-01 12:36:52 DEBUG    No likes
+2023-04-01 12:36:52 DEBUG    No dislikes
+2023-04-01 12:36:52 DEBUG    Flipkart Customer
+2023-04-01 12:36:52 DEBUG    
+
+2023-04-01 12:36:52 DEBUG    Inside comment_box
+2023-04-01 12:36:52 DEBUG    No rating
+2023-04-01 12:36:52 DEBUG    ...camera all things in this phone r best. camera can be of better quality.
+2023-04-01 12:36:52 DEBUG    No likes
+2023-04-01 12:36:52 DEBUG    No dislikes
+2023-04-01 12:36:52 DEBUG    Flipkart Customer
+2023-04-01 12:36:52 DEBUG    
+
+2023-04-01 12:36:52 DEBUG    Inside comment_box
+2023-04-01 12:36:52 DEBUG    No rating
+2023-04-01 12:36:52 DEBUG    No comment
+2023-04-01 12:36:52 DEBUG    No likes
+2023-04-01 12:36:52 DEBUG    No dislikes
+2023-04-01 12:36:52 DEBUG    No name
+2023-04-01 12:36:52 DEBUG    
+
+2023-04-01 12:36:52 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:53 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=3 HTTP/1.1" 200 None
+2023-04-01 12:36:53 INFO     Total number of comments in box: 15
+2023-04-01 12:36:53 DEBUG    Inside comment_box
+2023-04-01 12:36:53 DEBUG    4.6
+2023-04-01 12:36:53 DEBUG    
+2023-04-01 12:36:53 DEBUG    No likes
+2023-04-01 12:36:53 DEBUG    No dislikes
+2023-04-01 12:36:53 DEBUG    No name
+2023-04-01 12:36:53 DEBUG    
+
+2023-04-01 12:36:54 DEBUG    Inside comment_box
+2023-04-01 12:36:54 DEBUG    No rating
+2023-04-01 12:36:54 DEBUG    No comment
+2023-04-01 12:36:54 DEBUG    No likes
+2023-04-01 12:36:54 DEBUG    No dislikes
+2023-04-01 12:36:54 DEBUG    No name
+2023-04-01 12:36:54 DEBUG    
+
+2023-04-01 12:36:54 DEBUG    Inside comment_box
+2023-04-01 12:36:54 DEBUG    No rating
+2023-04-01 12:36:54 DEBUG    No comment
+2023-04-01 12:36:54 DEBUG    No likes
+2023-04-01 12:36:54 DEBUG    No dislikes
+2023-04-01 12:36:54 DEBUG    No name
+2023-04-01 12:36:54 DEBUG    
+
+2023-04-01 12:36:54 DEBUG    Inside comment_box
+2023-04-01 12:36:54 DEBUG    No rating
+2023-04-01 12:36:54 DEBUG    No comment
+2023-04-01 12:36:54 DEBUG    No likes
+2023-04-01 12:36:54 DEBUG    No dislikes
+2023-04-01 12:36:54 DEBUG    No name
+2023-04-01 12:36:54 DEBUG    
+
+2023-04-01 12:36:54 DEBUG    Inside comment_box
+2023-04-01 12:36:54 DEBUG    No rating
+2023-04-01 12:36:54 DEBUG    ...Go for it! Camera is good! Flipkart delivery on time! �
+2023-04-01 12:36:54 DEBUG    No likes
+2023-04-01 12:36:54 DEBUG    No dislikes
+2023-04-01 12:36:54 DEBUG    Aishwarya
+2023-04-01 12:36:54 DEBUG    
+
+2023-04-01 12:36:54 DEBUG    Inside comment_box
+2023-04-01 12:36:54 DEBUG    No rating
+2023-04-01 12:36:54 DEBUG    ...heavy user)* pubg doesn’t lags Cons* camera is not that good* heats while playing games (pubg)* takes
+2023-04-01 12:36:54 DEBUG    No likes
+2023-04-01 12:36:54 DEBUG    No dislikes
+2023-04-01 12:36:54 DEBUG    Sumanth  Mahindrakar 
+2023-04-01 12:36:54 DEBUG    
+
+2023-04-01 12:36:55 DEBUG    Inside comment_box
+2023-04-01 12:36:55 DEBUG    No rating
+2023-04-01 12:36:55 DEBUG    ...best amoled display ...good camera...avg battery life ...great performance
+2023-04-01 12:36:55 DEBUG    No likes
+2023-04-01 12:36:55 DEBUG    No dislikes
+2023-04-01 12:36:55 DEBUG    P. Vamshi  Krishna
+2023-04-01 12:36:55 DEBUG    
+
+2023-04-01 12:36:55 DEBUG    Inside comment_box
+2023-04-01 12:36:55 DEBUG    No rating
+2023-04-01 12:36:55 DEBUG    ...nice camera.. good screen.. performance wise excellent
+2023-04-01 12:36:55 DEBUG    No likes
+2023-04-01 12:36:55 DEBUG    No dislikes
+2023-04-01 12:36:55 DEBUG    Dr. Sunny Chatwani
+2023-04-01 12:36:55 DEBUG    
+
+2023-04-01 12:36:55 DEBUG    Inside comment_box
+2023-04-01 12:36:55 DEBUG    No rating
+2023-04-01 12:36:55 DEBUG    ...haven’t experienced a better one so far. So is camera with its utter clarity
+2023-04-01 12:36:55 DEBUG    No likes
+2023-04-01 12:36:55 DEBUG    No dislikes
+2023-04-01 12:36:55 DEBUG    Flipkart Customer
+2023-04-01 12:36:55 DEBUG    
+
+2023-04-01 12:36:55 DEBUG    Inside comment_box
+2023-04-01 12:36:55 DEBUG    No rating
+2023-04-01 12:36:55 DEBUG    ...front camera not upto expectation .otherwise all things are awesome
+2023-04-01 12:36:55 DEBUG    No likes
+2023-04-01 12:36:55 DEBUG    No dislikes
+2023-04-01 12:36:55 DEBUG    Rishav Roy
+2023-04-01 12:36:55 DEBUG    
+
+2023-04-01 12:36:56 DEBUG    Inside comment_box
+2023-04-01 12:36:56 DEBUG    No rating
+2023-04-01 12:36:56 DEBUG    ...A phone you will fall in love with Buy it for :CameraPerformance Battery lifeStereo Speakers
+2023-04-01 12:36:56 DEBUG    No likes
+2023-04-01 12:36:56 DEBUG    No dislikes
+2023-04-01 12:36:56 DEBUG    Shiraz Khan
+2023-04-01 12:36:56 DEBUG    
+
+2023-04-01 12:36:56 DEBUG    Inside comment_box
+2023-04-01 12:36:56 DEBUG    No rating
+2023-04-01 12:36:56 DEBUG    ...Best phone I have purchased till date absolutely no lags and best camera version and great discount by Flipkart
+2023-04-01 12:36:56 DEBUG    No likes
+2023-04-01 12:36:56 DEBUG    No dislikes
+2023-04-01 12:36:56 DEBUG    Abhishek Tewari
+2023-04-01 12:36:56 DEBUG    
+
+2023-04-01 12:36:56 DEBUG    Inside comment_box
+2023-04-01 12:36:56 DEBUG    No rating
+2023-04-01 12:36:56 DEBUG    ...Camera and other new features is really very good in lighting condition overall very good performance.
+2023-04-01 12:36:56 DEBUG    No likes
+2023-04-01 12:36:56 DEBUG    No dislikes
+2023-04-01 12:36:56 DEBUG    Chirag Sachdeva
+2023-04-01 12:36:56 DEBUG    
+
+2023-04-01 12:36:56 DEBUG    Inside comment_box
+2023-04-01 12:36:56 DEBUG    No rating
+2023-04-01 12:36:56 DEBUG    ...I got a default product camera is not working tough is also not responsive  waste of money
+2023-04-01 12:36:56 DEBUG    No likes
+2023-04-01 12:36:56 DEBUG    No dislikes
+2023-04-01 12:36:56 DEBUG    apple appie
+2023-04-01 12:36:56 DEBUG    
+
+2023-04-01 12:36:57 DEBUG    Inside comment_box
+2023-04-01 12:36:57 DEBUG    No rating
+2023-04-01 12:36:57 DEBUG    No comment
+2023-04-01 12:36:57 DEBUG    No likes
+2023-04-01 12:36:57 DEBUG    No dislikes
+2023-04-01 12:36:57 DEBUG    No name
+2023-04-01 12:36:57 DEBUG    
+
+2023-04-01 12:36:57 DEBUG    Starting new HTTPS connection (1): www.flipkart.com:443
+2023-04-01 12:36:57 DEBUG    https://www.flipkart.com:443 "GET /apple-iphone-x-silver-64-gb/product-reviews/itmexrgvze5as67e?pid=MOBEXRGVF8NHMGXJ&lid=LSTMOBEXRGVF8NHMGXJIYIKAW&aid=dc0f2b2d-7619-44cc-b5fc-2fe3e4d453a7&mid=FLIPKART&fid=3a02e075-7607-4995-8b1f-4e83944d206f.MOBEXRGVF8NHMGXJ&an=Camera&cat=Mobile&vert=Handset&page=4 HTTP/1.1" 200 None
+2023-04-01 12:36:58 INFO     Total number of comments in box: 15
+2023-04-01 12:36:58 DEBUG    Inside comment_box
+2023-04-01 12:36:58 DEBUG    4.6
+2023-04-01 12:36:58 DEBUG    
+2023-04-01 12:36:58 DEBUG    No likes
+2023-04-01 12:36:58 DEBUG    No dislikes
+2023-04-01 12:36:58 DEBUG    No name
+2023-04-01 12:36:58 DEBUG    
+
+2023-04-01 12:36:58 DEBUG    Inside comment_box
+2023-04-01 12:36:58 DEBUG    No rating
+2023-04-01 12:36:58 DEBUG    No comment
+2023-04-01 12:36:58 DEBUG    No likes
+2023-04-01 12:36:58 DEBUG    No dislikes
+2023-04-01 12:36:58 DEBUG    No name
+2023-04-01 12:36:58 DEBUG    
+
+2023-04-01 12:36:58 DEBUG    Inside comment_box
+2023-04-01 12:36:58 DEBUG    No rating
+2023-04-01 12:36:58 DEBUG    No comment
+2023-04-01 12:36:58 DEBUG    No likes
+2023-04-01 12:36:58 DEBUG    No dislikes
+2023-04-01 12:36:58 DEBUG    No name
+2023-04-01 12:36:58 DEBUG    
+
+2023-04-01 12:36:58 DEBUG    Inside comment_box
+2023-04-01 12:36:58 DEBUG    No rating
+2023-04-01 12:36:58 DEBUG    No comment
+2023-04-01 12:36:58 DEBUG    No likes
+2023-04-01 12:36:58 DEBUG    No dislikes
+2023-04-01 12:36:58 DEBUG    No name
+2023-04-01 12:36:58 DEBUG    
+
+2023-04-01 12:36:58 DEBUG    Inside comment_box
+2023-04-01 12:36:58 DEBUG    No rating
+2023-04-01 12:36:58 DEBUG    ...years agoApple phone always looks greatCamera performance is awesomeBattery backup is ok for the normal user
+2023-04-01 12:36:58 DEBUG    No likes
+2023-04-01 12:36:58 DEBUG    No dislikes
+2023-04-01 12:36:58 DEBUG    PARTHIBAN  R S
+2023-04-01 12:36:58 DEBUG    
+
+2023-04-01 12:36:59 DEBUG    Inside comment_box
+2023-04-01 12:36:59 DEBUG    No rating
+2023-04-01 12:36:59 DEBUG    ...facing lot of network issues on this phone. Portrait mode also not working . Kindly help in replacing the product
+2023-04-01 12:36:59 DEBUG    No likes
+2023-04-01 12:36:59 DEBUG    No dislikes
+2023-04-01 12:36:59 DEBUG    Flipkart Customer
+2023-04-01 12:36:59 DEBUG    
+
+2023-04-01 12:36:59 DEBUG    Inside comment_box
+2023-04-01 12:36:59 DEBUG    No rating
+2023-04-01 12:36:59 DEBUG    ...I was skeptical about the design at first but then you’ll be blown away by the camera performance.
+2023-04-01 12:36:59 DEBUG    No likes
+2023-04-01 12:36:59 DEBUG    No dislikes
+2023-04-01 12:36:59 DEBUG    Utkarsh
+2023-04-01 12:36:59 DEBUG    
+
+2023-04-01 12:36:59 DEBUG    Inside comment_box
+2023-04-01 12:36:59 DEBUG    No rating
+2023-04-01 12:36:59 DEBUG    ...Camera quality is awesome phone looks pretty cool and display makes u feel great.
+2023-04-01 12:36:59 DEBUG    No likes
+2023-04-01 12:36:59 DEBUG    No dislikes
+2023-04-01 12:36:59 DEBUG    Fahad Mahmood
+2023-04-01 12:36:59 DEBUG    
+
+2023-04-01 12:36:59 DEBUG    Inside comment_box
+2023-04-01 12:36:59 DEBUG    No rating
+2023-04-01 12:36:59 DEBUG    ...The camera display vis-a-vis other iPhone X placed next to it and when compared is much Dull.
+2023-04-01 12:36:59 DEBUG    No likes
+2023-04-01 12:36:59 DEBUG    No dislikes
+2023-04-01 12:36:59 DEBUG    Pragnesh Pandey
+2023-04-01 12:36:59 DEBUG    
+
+2023-04-01 12:37:00 DEBUG    Inside comment_box
+2023-04-01 12:37:00 DEBUG    No rating
+2023-04-01 12:37:00 DEBUG    ...Issue with Portrait mode in Night aprat from that phone works fine!
+2023-04-01 12:37:00 DEBUG    No likes
+2023-04-01 12:37:00 DEBUG    No dislikes
+2023-04-01 12:37:00 DEBUG    Ashish Singh
+2023-04-01 12:37:00 DEBUG    
+
+2023-04-01 12:37:00 DEBUG    Inside comment_box
+2023-04-01 12:37:00 DEBUG    No rating
+2023-04-01 12:37:00 DEBUG    ...  cons- battery life wrost cameras average according to price          no fast charger so takes a longer
+2023-04-01 12:37:00 DEBUG    No likes
+2023-04-01 12:37:00 DEBUG    No dislikes
+2023-04-01 12:37:00 DEBUG    Mohit Dalal
+2023-04-01 12:37:00 DEBUG    
+
+2023-04-01 12:37:00 DEBUG    Inside comment_box
+2023-04-01 12:37:00 DEBUG    No rating
+2023-04-01 12:37:00 DEBUG    ...Camera not work & voice break mobile very heat
+2023-04-01 12:37:00 DEBUG    No likes
+2023-04-01 12:37:00 DEBUG    No dislikes
+2023-04-01 12:37:00 DEBUG    Lalit Teotia
+2023-04-01 12:37:00 DEBUG    
+
+2023-04-01 12:37:00 DEBUG    Inside comment_box
+2023-04-01 12:37:00 DEBUG    No rating
+2023-04-01 12:37:00 DEBUG    ...One of the best iPhone after iPhone 6s. Improved battery, camera.
+2023-04-01 12:37:00 DEBUG    No likes
+2023-04-01 12:37:00 DEBUG    No dislikes
+2023-04-01 12:37:00 DEBUG    Avinash Malhotra
+2023-04-01 12:37:00 DEBUG    
+
+2023-04-01 12:37:00 DEBUG    Inside comment_box
+2023-04-01 12:37:00 DEBUG    No rating
+2023-04-01 12:37:00 DEBUG    ...The camera, the display, the software and the privacy features and the updates apple provides, it just never looks old.
+2023-04-01 12:37:00 DEBUG    No likes
+2023-04-01 12:37:00 DEBUG    No dislikes
+2023-04-01 12:37:00 DEBUG    Yash Sakaria
+2023-04-01 12:37:00 DEBUG    
+
+2023-04-01 12:37:01 DEBUG    Inside comment_box
+2023-04-01 12:37:01 DEBUG    No rating
+2023-04-01 12:37:01 DEBUG    No comment
+2023-04-01 12:37:01 DEBUG    No likes
+2023-04-01 12:37:01 DEBUG    No dislikes
+2023-04-01 12:37:01 DEBUG    No name
+2023-04-01 12:37:01 DEBUG    
+
+2023-04-01 12:37:01 INFO     127.0.0.1 - - [01/Apr/2023 12:37:01] "POST /review HTTP/1.1" 200 -
+2023-04-01 12:37:01 INFO     127.0.0.1 - - [01/Apr/2023 12:37:01] "[33mGET /style.css HTTP/1.1[0m" 404 -
+2023-04-01 12:37:01 INFO     127.0.0.1 - - [01/Apr/2023 12:37:01] "[36mGET /static/css/style.css HTTP/1.1[0m" 304 -

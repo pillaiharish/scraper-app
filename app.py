@@ -5,7 +5,7 @@ from flask_cors import cross_origin,CORS
 import requests
 from urllib.request import urlopen as uReq
 import logging,json
-import csv
+from pymongo import MongoClient
 
 
 logging.basicConfig(filename='example.log', filemode='w', 
@@ -17,6 +17,7 @@ logging.basicConfig(filename='example.log', filemode='w',
 app = Flask(__name__)
 WEBSITE_URL_1 = "https://www.flipkart.com"
 comments_data = dict()
+client = MongoClient("mongodb+srv://new_user31:hJQKelwebX4Thr81@cluster0.swnzv.mongodb.net/?retryWrites=true&w=majority")
 
 @app.route("/",methods=['GET'])
 def index_page():
@@ -26,6 +27,7 @@ def index_page():
 def search_url():
     if request.method == 'POST':    
         try:
+            test_db = client.search_product
             website = "www.flipkart.com"
             if request.environ.get('HTTP_X_FORWARDED_FOR') is None:
                 logging.info("IP address logging is "+request.environ['REMOTE_ADDR'])
@@ -167,7 +169,6 @@ def search_url():
                             except:
                                 temp_dict[likes]= "No likes"
 
-                                
                             dislikes = "dislikes" #+ str(count)
                             try:
                                 temp_dict[dislikes]= j.find('div',{'class':'_1LmwT9 pkR4jH'}).span.text
@@ -184,6 +185,9 @@ def search_url():
                                 #                         "likes": "No likes",
                                 #                         "dislikes": "No dislikes"}
                                 logging.debug("Error during indexing")
+                            
+
+                            test_db["customer_review"].insert_one(temp_dict)
 
                         except AttributeError:
                             logging.error("error")
@@ -194,7 +198,6 @@ def search_url():
                 loop_review(10) # 10 pages data scraped
             except Exception as e:
                 logging.debug("Review page not found due to: ",e)
-            
             with open(f'{search_keywords.replace("%20","-")}.csv', 'w') as f:
                 for key in comments_data.keys():
                     f.write("%s,%s\n"%(key,comments_data[key]))
